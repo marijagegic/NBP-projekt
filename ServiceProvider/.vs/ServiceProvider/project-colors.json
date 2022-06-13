@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "90b756ad-1acb-4ee0-bfb2-a2da4bc6a20e": {
+      "ProjectGuid": "90b756ad-1acb-4ee0-bfb2-a2da4bc6a20e",
+      "DisplayName": "ServiceProvider",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
