@@ -19,8 +19,11 @@ if __name__ == "__main__":
         # avg_daily_price je pocetna cijena za kategoriju 3 zvijezdice i +200 dolara za kategoriju vise
         # plus 30 dolara za dodatni krevet
         daily_price = avg_daily_price + (star-3)*200 + (beds-1)*30 + plus_minus
+
+        # TODO u hoteli.csv dodati cjenik: cca 0 za polupansion, 50 za puni, 100 za all_inclusive (ali ovisi i o broju zvjezdica)
+
         df2 = {"beds": beds, "daily_price": int(daily_price), "stars":star}
         df = df.append(df2, ignore_index=True)
 
     print(df)
-    #df.to_csv("reservations", index=False)
+    #df.to_csv("rooms.csv", index=False)
