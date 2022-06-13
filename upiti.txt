@@ -6,7 +6,7 @@ CREATE (:Client {pin: toInteger(line.pin), firstName: line.first_name, lastName:
 2.
 
 LOAD CSV WITH HEADERS FROM 'file:///reservations.csv' AS line
-CREATE (:Reservation {index: toInteger(line.index), checkIn: date(line.checkIn), checkOut: date(line.checkOut), rating: toInteger(line.rating), option: line.option})
+CREATE (:Reservation {index: toInteger(line.index), checkIn: date(line.checkIn), checkOut: date(line.checkOut), guests: toInteger(line.guests), rating: toInteger(line.rating), option: line.option})
 
 3.
 
