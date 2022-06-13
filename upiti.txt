@@ -1,0 +1,25 @@
+1.
+
+LOAD CSV WITH HEADERS FROM 'file:///clients.csv' AS line
+CREATE (:Client {pin: toInteger(line.pin), firstName: line.first_name, lastName: line.last_name, email: line.email, gender: line.gender, address: line.address, dateOfBirth: date(line.date_of_birth), placeOfBirth: line.place_of_birth})
+
+2.
+
+LOAD CSV WITH HEADERS FROM 'file:///reservations.csv' AS line
+CREATE (:Reservation {index: toInteger(line.index), checkIn: date(line.checkIn), checkOut: date(line.checkOut), rating: toInteger(line.rating), option: line.option})
+
+3.
+
+LOAD CSV WITH HEADERS FROM 'file:///cities.csv' AS line
+CREATE (:City {name: line.city, lat: toFloat(line.lat), toFloat(lon: line.lon)})
+
+4.
+### bijektivno spajanje 200 klijenata sa 200 rezervacija ---> svakom po jedna
+
+MATCH (c:Client) 
+WITH collect(c) as c, count(c) AS cnt 
+UNWIND range(0,cnt-1) AS x 
+WITH c[x] AS file,x 
+SET file.index = x+1
+
+MATCH (c:Client), (r:Reservation) WHERE c.index=r.index+1 CREATE (c)-[res:RESERVED]->(r);
