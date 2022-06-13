@@ -8,7 +8,6 @@ namespace ServiceProvider
 {
     internal class Client
     {
-        public int id;
         public string lastName;
         public string firstName;
         public string country;

@@ -20,7 +20,7 @@ namespace ServiceProvider
         {
             using (var session = driver.Session())
             {
-                Client client = session.WriteTransaction(tx =>
+                Client client = session.ReadTransaction(tx =>
                 {
                     var result = tx.Run("" +
                         "MATCH (a:Client) " +
@@ -40,6 +40,31 @@ namespace ServiceProvider
                     };
                 });
                 return client;
+            }
+        }
+
+        public List<string> GetCities(string name)
+        {
+            using (var session = driver.Session())
+            {
+                List<string> cities = session.ReadTransaction(tx =>
+                {
+                    var result = tx.Run("" +
+                        "MATCH (a:City) " +
+                        "WHERE toLower(a.name) CONTAINS toLower($name) " +
+                        "RETURN a.name",
+                        new { name });
+
+                    List<string> fetchedCities = new List<string>();
+
+                    foreach (var record in result)
+                    {
+                        fetchedCities.Add(record["a.name"].ToString());
+                    }
+
+                    return fetchedCities;
+                });
+                return cities;
             }
         }
     }
