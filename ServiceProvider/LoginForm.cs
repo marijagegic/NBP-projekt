@@ -46,5 +46,12 @@ namespace ServiceProvider
             MainForm m = new MainForm();
             m.Show();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            RegisterForm r = new RegisterForm();
+            r.Show();
+        }
     }
 }

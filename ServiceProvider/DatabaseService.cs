@@ -95,6 +95,49 @@ namespace ServiceProvider
                 }
             }
         }
+
+        public void Register(string firstName, string lastName, string gender, 
+                             string email, string address, string dob, 
+                             string placeOfBirth, long pin, string password) 
+        {
+            using (var session = driver.Session())
+            {
+                var result = session.WriteTransaction(tx =>
+                {
+                    var query_result = tx.Run("" +
+                        "CREATE (c:Client {firstName: $firstName, lastName: $lastName, " +
+                        "gender: $gender, email: $email, address: $address, " +
+                        "dateOfBirth: $dob, placeOfBirth: $placeOfBirth, pin: $pin, " +
+                        "password: $password" +
+                        "})", 
+                        new { firstName, lastName, gender, email, 
+                              address, dob, placeOfBirth, pin, password
+                        });
+
+                    var summary = query_result.Consume();
+                    Console.WriteLine(summary);
+                    return query_result;
+                });
+                return;
+            }
+        }
+
+        public bool ValidatePassword(string password) {
+            using (var session = driver.Session())
+            {
+                bool passExists = session.ReadTransaction(tx =>
+                {
+                    var result = tx.Run("" +
+                        "MATCH (c:Client) " +
+                        "WHERE c.password = $password " +
+                        "RETURN c.password;",
+                        new { password });
+                    return result.Any();
+                });
+                if (passExists) return false;
+                return true;
+            }
+        }
     }
 }
     
