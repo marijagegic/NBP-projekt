@@ -6,20 +6,32 @@ CREATE (:Client {pin: toInteger(line.pin), firstName: line.first_name, lastName:
 2.
 
 LOAD CSV WITH HEADERS FROM 'file:///reservations.csv' AS line
-CREATE (:Reservation {index: toInteger(line.index), checkIn: date(line.checkIn), checkOut: date(line.checkOut), guests: toInteger(line.guests), rating: toInteger(line.rating), option: line.option})
+CREATE (:Reservation {clientPin: toInteger(line.client_pin), checkIn: date(line.checkIn), checkOut: date(line.checkOut), guests: toInteger(line.guests), rating: toInteger(line.rating), option: line.option, hotelName: line.hotel_name})
+
+MATCH (c:Client),(r:Reservation) WHERE c.pin=r.clientPin CREATE (c)-[:RESERVED]->(r);
 
 3.
 
 LOAD CSV WITH HEADERS FROM 'file:///cities.csv' AS line
-CREATE (:City {name: line.city, lat: toFloat(line.lat), toFloat(lon: line.lon)})
+CREATE (:City {name: line.city, lat: toFloat(line.lat), lon: toFloat(line.lon)})
 
-4.
-### bijektivno spajanje 200 klijenata sa 200 rezervacija ---> svakom po jedna
 
-MATCH (c:Client) 
-WITH collect(c) as c, count(c) AS cnt 
-UNWIND range(0,cnt-1) AS x 
-WITH c[x] AS file,x 
-SET file.index = x+1
+5.
 
-MATCH (c:Client), (r:Reservation) WHERE c.index=r.index+1 CREATE (c)-[res:RESERVED]->(r);
+LOAD CSV WITH HEADERS FROM 'file:///hotels_v3.csv' AS line
+CREATE (:Hotel {city: line.city, name:line.name, stars: toInteger(line.stars), lat: toFloat(line.lat), lon: toFloat(line.lon), halfBoard: toFloat(line.half_board), fullBoard: toFloat(line.full_board), allInclusive: toFloat(line.all_inclusive)})
+
+6.
+
+LOAD CSV WITH HEADERS FROM 'file:///rooms.csv' AS line
+CREATE (:Room {city: line.city, hotelName: line.hotel_name, beds: toInteger(line.beds), dailyPrice: toFloat(line.daily_price), occupied: toInteger(line.occupied)})
+
+7.
+
+MATCH (h:Hotel),(r:Room) WHERE h.city=r.city AND h.name=r.hotelName CREATE (h)-[:OFFERS]->(r);
+MATCH (h:Hotel),(c:City) WHERE h.city=c.name CREATE (h)-[:SITUATED_IN]->(c);
+MATCH (r:Reservation),(h:Hotel) WHERE r.hotelName=h.name CREATE (r)-[:IN]->(h);
+
+MATCH (r:Reservation) REMOVE r.clientPin, r.hotelName;
+MATCH (h:Hotel) REMOVE h.city;
+MATCH (r:Room) REMOVE r.city, r.hotelName;
