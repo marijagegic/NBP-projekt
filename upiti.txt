@@ -31,3 +31,7 @@ CREATE (:Room {city: line.city, hotelName: line.hotel_name, beds: toInteger(line
 MATCH (h:Hotel),(r:Room) WHERE h.city=r.city AND h.name=r.hotelName CREATE (h)-[:OFFERS]->(r);
 MATCH (h:Hotel),(c:City) WHERE h.city=c.name CREATE (h)-[:SITUATED_IN]->(c);
 MATCH (r:Reservation),(h:Hotel) WHERE r.hotelName=h.name CREATE (r)-[:IN]->(h);
+
+MATCH (r:Reservation) REMOVE r.clientPin, r.hotelName;
+MATCH (h:Hotel) REMOVE h.city;
+MATCH (r:Room) REMOVE r.city, r.hotelName;
