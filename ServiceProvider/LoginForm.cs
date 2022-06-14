@@ -15,7 +15,6 @@ namespace ServiceProvider
             InitializeComponent();
             textBox2.UseSystemPasswordChar = true;
             databaseService = new DatabaseService();
-            MainForm main = new MainForm();
         }
 
         private void button1_Click(object sender, EventArgs e)

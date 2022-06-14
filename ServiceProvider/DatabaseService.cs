@@ -71,23 +71,28 @@ namespace ServiceProvider
         {
             using (var session = driver.Session())
             {
-                string pass = session.ReadTransaction(tx =>
+                List<string> passList = session.ReadTransaction(tx =>
                 {
                     var result = tx.Run("" +
                         "MATCH (a: Client) " +
                         "WHERE a.email = $username " +
                         "RETURN a.password",
                         new {username});
-                    if (result.Any())
+                    List<string> passwords = new List<string>();
+                    foreach(var record in result)
                     {
-                        return result.Single()[0].As<string>();
+                        passwords.Add(record["a.password"].ToString());
                     }
-                    else
-                    {
-                        return "";
-                    }
+                    return passwords;
                 });
-                return pass == password;
+                if (passList.Count != 1)
+                {
+                    return false;
+                }
+                else
+                {
+                    return passList[0] == password;
+                }
             }
         }
     }
