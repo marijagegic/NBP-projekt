@@ -6,9 +6,9 @@ CREATE (:Client {pin: toInteger(line.pin), firstName: line.first_name, lastName:
 2.
 
 LOAD CSV WITH HEADERS FROM 'file:///reservations.csv' AS line
-CREATE (:Reservation {clientPin: toInteger(line.client_pin), checkIn: date(line.checkIn), checkOut: date(line.checkOut), guests: toInteger(line.guests), rating: toInteger(line.rating), option: line.option})
+CREATE (:Reservation {clientPin: toInteger(line.client_pin), checkIn: date(line.checkIn), checkOut: date(line.checkOut), guests: toInteger(line.guests), rating: toInteger(line.rating), option: line.option, hotelName: line.hotel_name})
 
-MATCH (c:Client),(r:Reservation) WHERE c.pin=r.clientPin CREATE (c)-[r:RESERVED]->(r);
+MATCH (c:Client),(r:Reservation) WHERE c.pin=r.clientPin CREATE (c)-[:RESERVED]->(r);
 
 3.
 
@@ -28,5 +28,6 @@ CREATE (:Room {city: line.city, hotelName: line.hotel_name, beds: toInteger(line
 
 7.
 
-MATCH (h:Hotel),(r:Room) WHERE h.city=r.city AND h.name=r.hotelName CREATE (h)-[o:OFFERS]->(r);
-MATCH (h:Hotel),(c:City) WHERE h.city=c.name CREATE (h)-[s:SITUATED_IN]->(c);
+MATCH (h:Hotel),(r:Room) WHERE h.city=r.city AND h.name=r.hotelName CREATE (h)-[:OFFERS]->(r);
+MATCH (h:Hotel),(c:City) WHERE h.city=c.name CREATE (h)-[:SITUATED_IN]->(c);
+MATCH (r:Reservation),(h:Hotel) WHERE r.hotelName=h.name CREATE (r)-[:IN]->(h);

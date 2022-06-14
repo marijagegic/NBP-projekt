@@ -8,7 +8,8 @@ end = datetime.date(2022, 6, 15)
 options = ["half board", "full board", "all inclusive"]
 
 df_clients = pd.read_csv("clients.csv")
-
+df_hotels = pd.read_csv("hotels_v3.csv")
+hotel_names = list(df_hotels["name"])
 
 def generate_check_in(start_date, end_date):
     time_between_dates = end_date - start_date
@@ -26,6 +27,7 @@ def generate_check_out(start_date, num_days):
 
 if __name__ == "__main__":
     df_reservations = pd.DataFrame()
+    count = 0
 
     for row in df_clients.itertuples():  # prodi po retcima=klijentima
         pin = row[1]
@@ -33,6 +35,9 @@ if __name__ == "__main__":
         for i in range(10):  # 10 rezervacija za svakog klijenta
             rand_index = np.random.randint(0, 3)
             option = options[rand_index]
+
+            hotel_name = hotel_names[count % len(hotel_names)]
+            count += 1
 
             valid_period = True
             while True:
@@ -60,7 +65,8 @@ if __name__ == "__main__":
 
             dict_reservation = {"client_pin": pin, "checkIn": check_in, "checkOut": check_out, "guests": guests,
                                 "option": option,
-                                "rating": rating}
+                                "rating": rating,
+                                "hotel_name": hotel_name}
             df_reservations = df_reservations.append(dict_reservation, ignore_index=True)
 
     # print(df_reservations.head(40))
