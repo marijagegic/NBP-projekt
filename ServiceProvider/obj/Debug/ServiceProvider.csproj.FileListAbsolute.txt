@@ -44,3 +44,5 @@ C:\Users\matij\OneDrive\Radna površina\NBP-projekt\ServiceProvider\bin\Debug\Sy
 C:\Users\matij\OneDrive\Radna površina\NBP-projekt\ServiceProvider\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\matij\OneDrive\Radna površina\NBP-projekt\ServiceProvider\bin\Debug\System.ValueTuple.xml
 C:\Users\matij\OneDrive\Radna površina\NBP-projekt\ServiceProvider\obj\Debug\ServiceProvider.csproj.CopyComplete
+C:\Users\matij\OneDrive\Radna površina\NBP-projekt\ServiceProvider\obj\Debug\ServiceProvider.LoginForm.resources
+C:\Users\matij\OneDrive\Radna površina\NBP-projekt\ServiceProvider\obj\Debug\ServiceProvider.MainForm.resources

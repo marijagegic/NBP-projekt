@@ -26,7 +26,7 @@ namespace ServiceProvider
                         "MATCH (a:Client) " +
                         "WHERE a.firstName = $firstName " +
                         "AND a.lastName = $lastName " +
-                        "RETURN a.firstName, a.lastName, a.country, a.placeOfBirth, a.address",
+                        "RETURN a.firstName, a.lastName, a.placeOfBirth, a.address",
                         new { firstName, lastName });
                     
                     var record = result.First();
@@ -34,7 +34,6 @@ namespace ServiceProvider
                     {
                         firstName = record["a.firstName"].ToString(),
                         lastName = record["a.lastName"].ToString(),
-                        country = record["a.country"].ToString(),
                         placeOfBirth = record["a.placeOfBirth"].ToString(),
                         address = record["a.address"].ToString(),
                     };
@@ -65,6 +64,30 @@ namespace ServiceProvider
                     return fetchedCities;
                 });
                 return cities;
+            }
+        }
+
+        public bool Login(string username, string password)
+        {
+            using (var session = driver.Session())
+            {
+                string pass = session.ReadTransaction(tx =>
+                {
+                    var result = tx.Run("" +
+                        "MATCH (a: Client) " +
+                        "WHERE a.email = $username " +
+                        "RETURN a.password",
+                        new {username});
+                    if (result.Any())
+                    {
+                        return result.Single()[0].As<string>();
+                    }
+                    else
+                    {
+                        return "";
+                    }
+                });
+                return pass == password;
             }
         }
     }

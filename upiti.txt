@@ -1,7 +1,7 @@
 1.
 
 LOAD CSV WITH HEADERS FROM 'file:///clients.csv' AS line
-CREATE (:Client {pin: toInteger(line.pin), firstName: line.first_name, lastName: line.last_name, email: line.email, gender: line.gender, address: line.address, dateOfBirth: date(line.date_of_birth), placeOfBirth: line.place_of_birth})
+CREATE (:Client {pin: toInteger(line.pin), firstName: line.first_name, lastName: line.last_name, email: line.email, gender: line.gender, address: line.address, dateOfBirth: date(line.date_of_birth), placeOfBirth: line.place_of_birth, password: line.password})
 
 2.
 
