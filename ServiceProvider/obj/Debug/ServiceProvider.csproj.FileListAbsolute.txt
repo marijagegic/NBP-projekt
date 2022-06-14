@@ -46,3 +46,4 @@ C:\Users\matij\OneDrive\Radna površina\NBP-projekt\ServiceProvider\bin\Debug\Sy
 C:\Users\matij\OneDrive\Radna površina\NBP-projekt\ServiceProvider\obj\Debug\ServiceProvider.csproj.CopyComplete
 C:\Users\matij\OneDrive\Radna površina\NBP-projekt\ServiceProvider\obj\Debug\ServiceProvider.LoginForm.resources
 C:\Users\matij\OneDrive\Radna površina\NBP-projekt\ServiceProvider\obj\Debug\ServiceProvider.MainForm.resources
+C:\Users\matij\OneDrive\Radna površina\NBP-projekt\ServiceProvider\obj\Debug\ServiceProvider.ReservationForm.resources

@@ -19,5 +19,18 @@ namespace ServiceProvider
             InitializeComponent();
             databaseService = new DatabaseService();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            LoginForm f = new LoginForm();
+            f.Show();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            ReservationForm p = new ReservationForm();
+            p.ShowDialog();
+        }
     }
 }
