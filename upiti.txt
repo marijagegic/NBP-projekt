@@ -11,7 +11,7 @@ CREATE (:Reservation {index: toInteger(line.index), checkIn: date(line.checkIn),
 3.
 
 LOAD CSV WITH HEADERS FROM 'file:///cities.csv' AS line
-CREATE (:City {name: line.city, lat: toFloat(line.lat), toFloat(lon: line.lon)})
+CREATE (:City {name: line.city, lat: toFloat(line.lat), lon: toFloat(line.lon)})
 
 4.
 ### bijektivno spajanje 200 klijenata sa 200 rezervacija ---> svakom po jedna
@@ -23,3 +23,18 @@ WITH c[x] AS file,x
 SET file.index = x+1
 
 MATCH (c:Client), (r:Reservation) WHERE c.index=r.index+1 CREATE (c)-[res:RESERVED]->(r);
+
+5.
+
+LOAD CSV WITH HEADERS FROM 'file:///hotels_v3.csv' AS line
+CREATE (:Hotel {city: line.city, name:line.name, stars: toInteger(line.stars), lat: toFloat(line.lat), lon: toFloat(line.lon), halfBoard: toFloat(line.half_board), fullBoard: toFloat(line.full_board), allInclusive: toFloat(line.all_inclusive)})
+
+6.
+
+LOAD CSV WITH HEADERS FROM 'file:///rooms.csv' AS line
+CREATE (:Room {city: line.city, hotelName: line.hotel_name, beds: toInteger(line.beds), dailyPrice: toFloat(line.daily_price), occupied: toInteger(line.occupied)})
+
+7.
+
+MATCH (h:Hotel),(r:Room) WHERE h.city=r.city AND h.name=r.hotelName CREATE (h)-[o:OFFERS]->(r);
+MATCH (h:Hotel),(c:City) WHERE h.city=c.name CREATE (h)-[s:SITUATED_IN]->(c);
