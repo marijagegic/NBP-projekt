@@ -122,19 +122,19 @@ namespace ServiceProvider
             }
         }
 
-        public bool ValidatePassword(string password) {
+        public bool ValidateEmail(string email) {
             using (var session = driver.Session())
             {
-                bool passExists = session.ReadTransaction(tx =>
+                bool emailExists = session.ReadTransaction(tx =>
                 {
                     var result = tx.Run("" +
                         "MATCH (c:Client) " +
-                        "WHERE c.password = $password " +
-                        "RETURN c.password;",
-                        new { password });
+                        "WHERE c.email = $email " +
+                        "RETURN c.email;",
+                        new { email });
                     return result.Any();
                 });
-                if (passExists) return false;
+                if (emailExists) return false;
                 return true;
             }
         }

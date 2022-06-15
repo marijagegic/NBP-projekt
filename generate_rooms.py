@@ -34,7 +34,7 @@ if __name__ == "__main__":
             # plus 30 dolara za dodatni krevet
             daily_price = avg_daily_price + (star - 3) * 200 + (beds - 1) * 30 + plus_minus
 
-            room = {"city":city, "hotel_name": hotel_name,"beds": beds, "daily_price": np.round(daily_price,1), "occupied": 0}
+            room = {"city":city, "hotel_name": hotel_name,"beds": beds, "daily_price": np.round(daily_price,1), "room_number": i+1}
             df_rooms = df_rooms.append(room, ignore_index=True)
 
     # print(df_rooms.head(20), plus_minus)

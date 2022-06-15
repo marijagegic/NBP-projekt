@@ -17,11 +17,28 @@ namespace ServiceProvider
 
         private void button1_Click(object sender, EventArgs e)
         {
-            bool okPassword = this.databaseService.ValidatePassword(textBox7.Text);
-            if (okPassword)
+            if (textBox1.Text.Equals("") || textBox2.Text.Equals("") || textBox3.Text.Equals("") ||
+                textBox4.Text.Equals("") || textBox5.Text.Equals("") || textBox7.Text.Equals("")) {
+                MessageBox.Show("All fields are obligatory.");
+                return;
+            }
+
+            bool okGender = this.ValidateGender(comboBox1.Text);
+            if (!okGender) {
+                MessageBox.Show("Please select gender.");
+                return;
+            }
+
+            bool okPin = this.ValidatePin(textBox6.Text);
+            if (!okPin)
             {
-                // TODO try catch ako netko za spol unese nešto ručno osim M,F
-                // TODO try catch ako netko za PIN unese string umjesto int
+                MessageBox.Show("Invalid PIN.");
+                return;
+            }
+
+            bool okEmail = this.databaseService.ValidateEmail(textBox3.Text);
+            if (okEmail)
+            {
                 this.databaseService.Register(textBox1.Text, textBox2.Text,
                             comboBox1.SelectedItem.ToString(), textBox3.Text, textBox4.Text,
                             dateTimePicker1.Value.ToString("yyyy-MM-dd"), textBox5.Text,
@@ -35,8 +52,25 @@ namespace ServiceProvider
             }
             else
             {
-                MessageBox.Show("Please set another password.");
+                MessageBox.Show("Please use another email.");
                 return;
+            }
+        }
+
+        private bool ValidateGender(string gender) {
+            List<string> genders = new List<string> {"Male", "Female", "Other"};
+            return genders.Any(s => gender.Equals(s));
+        }
+
+        private bool ValidatePin(string pin) {
+            try
+            {
+                Int64.Parse(pin);
+                return true;
+            }
+            catch
+            {
+                return false;
             }
         }
     }

@@ -1,1801 +1,1801 @@
-city,hotel_name,beds,daily_price,occupied
-Albany,The Morgan State House,3,374.6,0
-Albany,The Morgan State House,2,344.6,0
-Albany,The Morgan State House,3,374.6,0
-Albany,The Morgan State House,2,344.6,0
-Albany,The Morgan State House,3,374.6,0
-Albany,The Morgan State House,2,344.6,0
-Albany,The Morgan State House,4,404.6,0
-Albany,The Morgan State House,2,344.6,0
-Albany,The Morgan State House,3,374.6,0
-Albany,The Morgan State House,2,344.6,0
-Albany,Crowne Plaza Albany,2,130.2,0
-Albany,Crowne Plaza Albany,3,160.2,0
-Albany,Crowne Plaza Albany,2,130.2,0
-Albany,Crowne Plaza Albany,2,130.2,0
-Albany,Crowne Plaza Albany,2,130.2,0
-Albany,Crowne Plaza Albany,3,160.2,0
-Albany,Crowne Plaza Albany,2,130.2,0
-Albany,Crowne Plaza Albany,3,160.2,0
-Albany,Crowne Plaza Albany,2,130.2,0
-Albany,Crowne Plaza Albany,3,160.2,0
-Albany,Renaissance Albany Hotel,3,363.1,0
-Albany,Renaissance Albany Hotel,3,363.1,0
-Albany,Renaissance Albany Hotel,2,333.1,0
-Albany,Renaissance Albany Hotel,3,363.1,0
-Albany,Renaissance Albany Hotel,3,363.1,0
-Albany,Renaissance Albany Hotel,3,363.1,0
-Albany,Renaissance Albany Hotel,3,363.1,0
-Albany,Renaissance Albany Hotel,2,333.1,0
-Albany,Renaissance Albany Hotel,2,333.1,0
-Albany,Renaissance Albany Hotel,3,363.1,0
-Albany,Hotel Hilton Garden Inn Albany/Suny Area,2,138.7,0
-Albany,Hotel Hilton Garden Inn Albany/Suny Area,2,138.7,0
-Albany,Hotel Hilton Garden Inn Albany/Suny Area,3,168.7,0
-Albany,Hotel Hilton Garden Inn Albany/Suny Area,2,138.7,0
-Albany,Hotel Hilton Garden Inn Albany/Suny Area,3,168.7,0
-Albany,Hotel Hilton Garden Inn Albany/Suny Area,3,168.7,0
-Albany,Hotel Hilton Garden Inn Albany/Suny Area,3,168.7,0
-Albany,Hotel Hilton Garden Inn Albany/Suny Area,3,168.7,0
-Albany,Hotel Hilton Garden Inn Albany/Suny Area,2,138.7,0
-Albany,Hotel Hilton Garden Inn Albany/Suny Area,2,138.7,0
-Albany,Homewood Suites by Hilton Albany,3,546.7,0
-Albany,Homewood Suites by Hilton Albany,3,546.7,0
-Albany,Homewood Suites by Hilton Albany,2,516.7,0
-Albany,Homewood Suites by Hilton Albany,2,516.7,0
-Albany,Homewood Suites by Hilton Albany,2,516.7,0
-Albany,Homewood Suites by Hilton Albany,3,546.7,0
-Albany,Homewood Suites by Hilton Albany,2,516.7,0
-Albany,Homewood Suites by Hilton Albany,2,516.7,0
-Albany,Homewood Suites by Hilton Albany,2,516.7,0
-Albany,Homewood Suites by Hilton Albany,3,546.7,0
-Albany,Hilton Garden Inn Albany Medical Center,2,540.9,0
-Albany,Hilton Garden Inn Albany Medical Center,2,540.9,0
-Albany,Hilton Garden Inn Albany Medical Center,3,570.9,0
-Albany,Hilton Garden Inn Albany Medical Center,2,540.9,0
-Albany,Hilton Garden Inn Albany Medical Center,2,540.9,0
-Albany,Hilton Garden Inn Albany Medical Center,3,570.9,0
-Albany,Hilton Garden Inn Albany Medical Center,3,570.9,0
-Albany,Hilton Garden Inn Albany Medical Center,3,570.9,0
-Albany,Hilton Garden Inn Albany Medical Center,3,570.9,0
-Albany,Hilton Garden Inn Albany Medical Center,3,570.9,0
-Austin,Renaissance Austin Hotel,3,359.0,0
-Austin,Renaissance Austin Hotel,2,329.0,0
-Austin,Renaissance Austin Hotel,2,329.0,0
-Austin,Renaissance Austin Hotel,3,359.0,0
-Austin,Renaissance Austin Hotel,3,359.0,0
-Austin,Renaissance Austin Hotel,2,329.0,0
-Austin,Renaissance Austin Hotel,3,359.0,0
-Austin,Renaissance Austin Hotel,3,359.0,0
-Austin,Renaissance Austin Hotel,3,359.0,0
-Austin,Renaissance Austin Hotel,3,359.0,0
-Austin,W Austin,3,365.2,0
-Austin,W Austin,3,365.2,0
-Austin,W Austin,3,365.2,0
-Austin,W Austin,3,365.2,0
-Austin,W Austin,2,335.2,0
-Austin,W Austin,2,335.2,0
-Austin,W Austin,3,365.2,0
-Austin,W Austin,3,365.2,0
-Austin,W Austin,3,365.2,0
-Austin,W Austin,2,335.2,0
-Austin,DoubleTree Suites,2,121.2,0
-Austin,DoubleTree Suites,2,121.2,0
-Austin,DoubleTree Suites,1,91.2,0
-Austin,DoubleTree Suites,2,121.2,0
-Austin,DoubleTree Suites,2,121.2,0
-Austin,DoubleTree Suites,3,151.2,0
-Austin,DoubleTree Suites,3,151.2,0
-Austin,DoubleTree Suites,2,121.2,0
-Austin,DoubleTree Suites,2,121.2,0
-Austin,DoubleTree Suites,3,151.2,0
-Austin,Hyatt Place Austin Downtown,3,152.4,0
-Austin,Hyatt Place Austin Downtown,2,122.4,0
-Austin,Hyatt Place Austin Downtown,3,152.4,0
-Austin,Hyatt Place Austin Downtown,2,122.4,0
-Austin,Hyatt Place Austin Downtown,2,122.4,0
-Austin,Hyatt Place Austin Downtown,1,92.4,0
-Austin,Hyatt Place Austin Downtown,3,152.4,0
-Austin,Hyatt Place Austin Downtown,2,122.4,0
-Austin,Hyatt Place Austin Downtown,4,182.4,0
-Austin,Hyatt Place Austin Downtown,2,122.4,0
-Austin,Four Seasons Hotel Austin,3,556.0,0
-Austin,Four Seasons Hotel Austin,3,556.0,0
-Austin,Four Seasons Hotel Austin,2,526.0,0
-Austin,Four Seasons Hotel Austin,2,526.0,0
-Austin,Four Seasons Hotel Austin,2,526.0,0
-Austin,Four Seasons Hotel Austin,2,526.0,0
-Austin,Four Seasons Hotel Austin,2,526.0,0
-Austin,Four Seasons Hotel Austin,2,526.0,0
-Austin,Four Seasons Hotel Austin,2,526.0,0
-Austin,Four Seasons Hotel Austin,3,556.0,0
-Austin,Austin Proper Hotel,2,553.0,0
-Austin,Austin Proper Hotel,2,553.0,0
-Austin,Austin Proper Hotel,3,583.0,0
-Austin,Austin Proper Hotel,2,553.0,0
-Austin,Austin Proper Hotel,2,553.0,0
-Austin,Austin Proper Hotel,2,553.0,0
-Austin,Austin Proper Hotel,3,583.0,0
-Austin,Austin Proper Hotel,3,583.0,0
-Austin,Austin Proper Hotel,3,583.0,0
-Austin,Austin Proper Hotel,3,583.0,0
-Los Angeles,The Ritz-Carlton-Los Angeles,3,573.1,0
-Los Angeles,The Ritz-Carlton-Los Angeles,2,543.1,0
-Los Angeles,The Ritz-Carlton-Los Angeles,3,573.1,0
-Los Angeles,The Ritz-Carlton-Los Angeles,2,543.1,0
-Los Angeles,The Ritz-Carlton-Los Angeles,3,573.1,0
-Los Angeles,The Ritz-Carlton-Los Angeles,3,573.1,0
-Los Angeles,The Ritz-Carlton-Los Angeles,3,573.1,0
-Los Angeles,The Ritz-Carlton-Los Angeles,2,543.1,0
-Los Angeles,The Ritz-Carlton-Los Angeles,3,573.1,0
-Los Angeles,The Ritz-Carlton-Los Angeles,3,573.1,0
-Los Angeles,Hotel Bel-Air,4,603.0,0
-Los Angeles,Hotel Bel-Air,3,573.0,0
-Los Angeles,Hotel Bel-Air,3,573.0,0
-Los Angeles,Hotel Bel-Air,3,573.0,0
-Los Angeles,Hotel Bel-Air,1,513.0,0
-Los Angeles,Hotel Bel-Air,2,543.0,0
-Los Angeles,Hotel Bel-Air,3,573.0,0
-Los Angeles,Hotel Bel-Air,3,573.0,0
-Los Angeles,Hotel Bel-Air,3,573.0,0
-Los Angeles,Hotel Bel-Air,2,543.0,0
-Los Angeles,JW Marriott Los Angeles L.A. LIVE,2,341.4,0
-Los Angeles,JW Marriott Los Angeles L.A. LIVE,2,341.4,0
-Los Angeles,JW Marriott Los Angeles L.A. LIVE,3,371.4,0
-Los Angeles,JW Marriott Los Angeles L.A. LIVE,2,341.4,0
-Los Angeles,JW Marriott Los Angeles L.A. LIVE,2,341.4,0
-Los Angeles,JW Marriott Los Angeles L.A. LIVE,3,371.4,0
-Los Angeles,JW Marriott Los Angeles L.A. LIVE,3,371.4,0
-Los Angeles,JW Marriott Los Angeles L.A. LIVE,2,341.4,0
-Los Angeles,JW Marriott Los Angeles L.A. LIVE,3,371.4,0
-Los Angeles,JW Marriott Los Angeles L.A. LIVE,3,371.4,0
-Los Angeles,InterContinental Los Angeles Downtown,3,370.8,0
-Los Angeles,InterContinental Los Angeles Downtown,2,340.8,0
-Los Angeles,InterContinental Los Angeles Downtown,2,340.8,0
-Los Angeles,InterContinental Los Angeles Downtown,3,370.8,0
-Los Angeles,InterContinental Los Angeles Downtown,3,370.8,0
-Los Angeles,InterContinental Los Angeles Downtown,3,370.8,0
-Los Angeles,InterContinental Los Angeles Downtown,2,340.8,0
-Los Angeles,InterContinental Los Angeles Downtown,2,340.8,0
-Los Angeles,InterContinental Los Angeles Downtown,3,370.8,0
-Los Angeles,InterContinental Los Angeles Downtown,2,340.8,0
-Los Angeles,Hotel Mr C Beverly Hills,2,330.1,0
-Los Angeles,Hotel Mr C Beverly Hills,2,330.1,0
-Los Angeles,Hotel Mr C Beverly Hills,3,360.1,0
-Los Angeles,Hotel Mr C Beverly Hills,3,360.1,0
-Los Angeles,Hotel Mr C Beverly Hills,3,360.1,0
-Los Angeles,Hotel Mr C Beverly Hills,3,360.1,0
-Los Angeles,Hotel Mr C Beverly Hills,2,330.1,0
-Los Angeles,Hotel Mr C Beverly Hills,2,330.1,0
-Los Angeles,Hotel Mr C Beverly Hills,3,360.1,0
-Los Angeles,Hotel Mr C Beverly Hills,3,360.1,0
-Los Angeles,Élan Hotel,2,124.8,0
-Los Angeles,Élan Hotel,3,154.8,0
-Los Angeles,Élan Hotel,3,154.8,0
-Los Angeles,Élan Hotel,2,124.8,0
-Los Angeles,Élan Hotel,2,124.8,0
-Los Angeles,Élan Hotel,2,124.8,0
-Los Angeles,Élan Hotel,2,124.8,0
-Los Angeles,Élan Hotel,3,154.8,0
-Los Angeles,Élan Hotel,3,154.8,0
-Los Angeles,Élan Hotel,3,154.8,0
-Salt Lake City,The Grand America Hotel,2,531.5,0
-Salt Lake City,The Grand America Hotel,3,561.5,0
-Salt Lake City,The Grand America Hotel,4,591.5,0
-Salt Lake City,The Grand America Hotel,2,531.5,0
-Salt Lake City,The Grand America Hotel,4,591.5,0
-Salt Lake City,The Grand America Hotel,3,561.5,0
-Salt Lake City,The Grand America Hotel,2,531.5,0
-Salt Lake City,The Grand America Hotel,3,561.5,0
-Salt Lake City,The Grand America Hotel,4,591.5,0
-Salt Lake City,The Grand America Hotel,2,531.5,0
-Salt Lake City,Kimpton Hotel Monaco,1,304.2,0
-Salt Lake City,Kimpton Hotel Monaco,2,334.2,0
-Salt Lake City,Kimpton Hotel Monaco,3,364.2,0
-Salt Lake City,Kimpton Hotel Monaco,2,334.2,0
-Salt Lake City,Kimpton Hotel Monaco,2,334.2,0
-Salt Lake City,Kimpton Hotel Monaco,2,334.2,0
-Salt Lake City,Kimpton Hotel Monaco,3,364.2,0
-Salt Lake City,Kimpton Hotel Monaco,3,364.2,0
-Salt Lake City,Kimpton Hotel Monaco,3,364.2,0
-Salt Lake City,Kimpton Hotel Monaco,2,334.2,0
-Salt Lake City,AC Hotel by Marriott,3,172.4,0
-Salt Lake City,AC Hotel by Marriott,2,142.4,0
-Salt Lake City,AC Hotel by Marriott,3,172.4,0
-Salt Lake City,AC Hotel by Marriott,4,202.4,0
-Salt Lake City,AC Hotel by Marriott,3,172.4,0
-Salt Lake City,AC Hotel by Marriott,3,172.4,0
-Salt Lake City,AC Hotel by Marriott,3,172.4,0
-Salt Lake City,AC Hotel by Marriott,3,172.4,0
-Salt Lake City,AC Hotel by Marriott,2,142.4,0
-Salt Lake City,AC Hotel by Marriott,2,142.4,0
-Salt Lake City,The Little America Hotel,3,380.0,0
-Salt Lake City,The Little America Hotel,2,350.0,0
-Salt Lake City,The Little America Hotel,3,380.0,0
-Salt Lake City,The Little America Hotel,3,380.0,0
-Salt Lake City,The Little America Hotel,3,380.0,0
-Salt Lake City,The Little America Hotel,2,350.0,0
-Salt Lake City,The Little America Hotel,4,410.0,0
-Salt Lake City,The Little America Hotel,2,350.0,0
-Salt Lake City,The Little America Hotel,2,350.0,0
-Salt Lake City,The Little America Hotel,3,380.0,0
-Salt Lake City,Residence Inn by Marriott,2,120.7,0
-Salt Lake City,Residence Inn by Marriott,2,120.7,0
-Salt Lake City,Residence Inn by Marriott,3,150.7,0
-Salt Lake City,Residence Inn by Marriott,3,150.7,0
-Salt Lake City,Residence Inn by Marriott,2,120.7,0
-Salt Lake City,Residence Inn by Marriott,3,150.7,0
-Salt Lake City,Residence Inn by Marriott,2,120.7,0
-Salt Lake City,Residence Inn by Marriott,3,150.7,0
-Salt Lake City,Residence Inn by Marriott,2,120.7,0
-Salt Lake City,Residence Inn by Marriott,3,150.7,0
-Salt Lake City,Hilton Salt Lake City Center,1,297.1,0
-Salt Lake City,Hilton Salt Lake City Center,3,357.1,0
-Salt Lake City,Hilton Salt Lake City Center,2,327.1,0
-Salt Lake City,Hilton Salt Lake City Center,2,327.1,0
-Salt Lake City,Hilton Salt Lake City Center,3,357.1,0
-Salt Lake City,Hilton Salt Lake City Center,2,327.1,0
-Salt Lake City,Hilton Salt Lake City Center,3,357.1,0
-Salt Lake City,Hilton Salt Lake City Center,3,357.1,0
-Salt Lake City,Hilton Salt Lake City Center,3,357.1,0
-Salt Lake City,Hilton Salt Lake City Center,2,327.1,0
-New Orleans,Windsor Court Hotel,2,533.7,0
-New Orleans,Windsor Court Hotel,1,503.7,0
-New Orleans,Windsor Court Hotel,3,563.7,0
-New Orleans,Windsor Court Hotel,2,533.7,0
-New Orleans,Windsor Court Hotel,2,533.7,0
-New Orleans,Windsor Court Hotel,2,533.7,0
-New Orleans,Windsor Court Hotel,3,563.7,0
-New Orleans,Windsor Court Hotel,2,533.7,0
-New Orleans,Windsor Court Hotel,3,563.7,0
-New Orleans,Windsor Court Hotel,2,533.7,0
-New Orleans,Nopsi Hotel,3,557.4,0
-New Orleans,Nopsi Hotel,3,557.4,0
-New Orleans,Nopsi Hotel,3,557.4,0
-New Orleans,Nopsi Hotel,3,557.4,0
-New Orleans,Nopsi Hotel,2,527.4,0
-New Orleans,Nopsi Hotel,3,557.4,0
-New Orleans,Nopsi Hotel,2,527.4,0
-New Orleans,Nopsi Hotel,3,557.4,0
-New Orleans,Nopsi Hotel,3,557.4,0
-New Orleans,Nopsi Hotel,3,557.4,0
-New Orleans,Blake Hotel New Orleans,3,367.2,0
-New Orleans,Blake Hotel New Orleans,2,337.2,0
-New Orleans,Blake Hotel New Orleans,3,367.2,0
-New Orleans,Blake Hotel New Orleans,3,367.2,0
-New Orleans,Blake Hotel New Orleans,3,367.2,0
-New Orleans,Blake Hotel New Orleans,3,367.2,0
-New Orleans,Blake Hotel New Orleans,3,367.2,0
-New Orleans,Blake Hotel New Orleans,3,367.2,0
-New Orleans,Blake Hotel New Orleans,3,367.2,0
-New Orleans,Blake Hotel New Orleans,3,367.2,0
-New Orleans,Holiday Inn New Orleans-Downtown Superdome,2,314.4,0
-New Orleans,Holiday Inn New Orleans-Downtown Superdome,3,344.4,0
-New Orleans,Holiday Inn New Orleans-Downtown Superdome,2,314.4,0
-New Orleans,Holiday Inn New Orleans-Downtown Superdome,2,314.4,0
-New Orleans,Holiday Inn New Orleans-Downtown Superdome,3,344.4,0
-New Orleans,Holiday Inn New Orleans-Downtown Superdome,2,314.4,0
-New Orleans,Holiday Inn New Orleans-Downtown Superdome,3,344.4,0
-New Orleans,Holiday Inn New Orleans-Downtown Superdome,3,344.4,0
-New Orleans,Holiday Inn New Orleans-Downtown Superdome,3,344.4,0
-New Orleans,Holiday Inn New Orleans-Downtown Superdome,3,344.4,0
-New Orleans,Four Points by Sheraton French Quarter,3,342.9,0
-New Orleans,Four Points by Sheraton French Quarter,3,342.9,0
-New Orleans,Four Points by Sheraton French Quarter,3,342.9,0
-New Orleans,Four Points by Sheraton French Quarter,3,342.9,0
-New Orleans,Four Points by Sheraton French Quarter,2,312.9,0
-New Orleans,Four Points by Sheraton French Quarter,3,342.9,0
-New Orleans,Four Points by Sheraton French Quarter,2,312.9,0
-New Orleans,Four Points by Sheraton French Quarter,3,342.9,0
-New Orleans,Four Points by Sheraton French Quarter,2,312.9,0
-New Orleans,Four Points by Sheraton French Quarter,3,342.9,0
-New Orleans,Brent House Hotel,2,122.1,0
-New Orleans,Brent House Hotel,2,122.1,0
-New Orleans,Brent House Hotel,3,152.1,0
-New Orleans,Brent House Hotel,2,122.1,0
-New Orleans,Brent House Hotel,2,122.1,0
-New Orleans,Brent House Hotel,2,122.1,0
-New Orleans,Brent House Hotel,3,152.1,0
-New Orleans,Brent House Hotel,3,152.1,0
-New Orleans,Brent House Hotel,3,152.1,0
-New Orleans,Brent House Hotel,3,152.1,0
-Washington,The Dupont Circle Hotel,2,555.8,0
-Washington,The Dupont Circle Hotel,2,555.8,0
-Washington,The Dupont Circle Hotel,1,525.8,0
-Washington,The Dupont Circle Hotel,3,585.8,0
-Washington,The Dupont Circle Hotel,3,585.8,0
-Washington,The Dupont Circle Hotel,3,585.8,0
-Washington,The Dupont Circle Hotel,2,555.8,0
-Washington,The Dupont Circle Hotel,3,585.8,0
-Washington,The Dupont Circle Hotel,3,585.8,0
-Washington,The Dupont Circle Hotel,2,555.8,0
-Washington,The Mayflower Hotel,2,540.4,0
-Washington,The Mayflower Hotel,3,570.4,0
-Washington,The Mayflower Hotel,2,540.4,0
-Washington,The Mayflower Hotel,2,540.4,0
-Washington,The Mayflower Hotel,2,540.4,0
-Washington,The Mayflower Hotel,2,540.4,0
-Washington,The Mayflower Hotel,2,540.4,0
-Washington,The Mayflower Hotel,3,570.4,0
-Washington,The Mayflower Hotel,3,570.4,0
-Washington,The Mayflower Hotel,2,540.4,0
-Washington,Hyatt Regency Washington,2,337.5,0
-Washington,Hyatt Regency Washington,2,337.5,0
-Washington,Hyatt Regency Washington,2,337.5,0
-Washington,Hyatt Regency Washington,2,337.5,0
-Washington,Hyatt Regency Washington,3,367.5,0
-Washington,Hyatt Regency Washington,1,307.5,0
-Washington,Hyatt Regency Washington,3,367.5,0
-Washington,Hyatt Regency Washington,2,337.5,0
-Washington,Hyatt Regency Washington,2,337.5,0
-Washington,Hyatt Regency Washington,3,367.5,0
-Washington,Glover Park Hotel,2,320.8,0
-Washington,Glover Park Hotel,2,320.8,0
-Washington,Glover Park Hotel,2,320.8,0
-Washington,Glover Park Hotel,3,350.8,0
-Washington,Glover Park Hotel,2,320.8,0
-Washington,Glover Park Hotel,2,320.8,0
-Washington,Glover Park Hotel,2,320.8,0
-Washington,Glover Park Hotel,3,350.8,0
-Washington,Glover Park Hotel,2,320.8,0
-Washington,Glover Park Hotel,2,320.8,0
-Washington,Courtyard by Marriott,2,136.6,0
-Washington,Courtyard by Marriott,3,166.6,0
-Washington,Courtyard by Marriott,2,136.6,0
-Washington,Courtyard by Marriott,3,166.6,0
-Washington,Courtyard by Marriott,2,136.6,0
-Washington,Courtyard by Marriott,3,166.6,0
-Washington,Courtyard by Marriott,2,136.6,0
-Washington,Courtyard by Marriott,4,196.6,0
-Washington,Courtyard by Marriott,3,166.6,0
-Washington,Courtyard by Marriott,3,166.6,0
-Washington,Wyndham Garden,3,170.2,0
-Washington,Wyndham Garden,3,170.2,0
-Washington,Wyndham Garden,2,140.2,0
-Washington,Wyndham Garden,3,170.2,0
-Washington,Wyndham Garden,3,170.2,0
-Washington,Wyndham Garden,2,140.2,0
-Washington,Wyndham Garden,2,140.2,0
-Washington,Wyndham Garden,2,140.2,0
-Washington,Wyndham Garden,2,140.2,0
-Washington,Wyndham Garden,2,140.2,0
-Minneapolis,The Chambers Hotel,3,573.1,0
-Minneapolis,The Chambers Hotel,3,573.1,0
-Minneapolis,The Chambers Hotel,2,543.1,0
-Minneapolis,The Chambers Hotel,3,573.1,0
-Minneapolis,The Chambers Hotel,3,573.1,0
-Minneapolis,The Chambers Hotel,3,573.1,0
-Minneapolis,The Chambers Hotel,3,573.1,0
-Minneapolis,The Chambers Hotel,2,543.1,0
-Minneapolis,The Chambers Hotel,2,543.1,0
-Minneapolis,The Chambers Hotel,3,573.1,0
-Minneapolis,Royal Sonesta,2,526.4,0
-Minneapolis,Royal Sonesta,3,556.4,0
-Minneapolis,Royal Sonesta,2,526.4,0
-Minneapolis,Royal Sonesta,3,556.4,0
-Minneapolis,Royal Sonesta,3,556.4,0
-Minneapolis,Royal Sonesta,3,556.4,0
-Minneapolis,Royal Sonesta,3,556.4,0
-Minneapolis,Royal Sonesta,3,556.4,0
-Minneapolis,Royal Sonesta,2,526.4,0
-Minneapolis,Royal Sonesta,3,556.4,0
-Minneapolis,Millennium Minneapolis,3,373.7,0
-Minneapolis,Millennium Minneapolis,3,373.7,0
-Minneapolis,Millennium Minneapolis,2,343.7,0
-Minneapolis,Millennium Minneapolis,3,373.7,0
-Minneapolis,Millennium Minneapolis,3,373.7,0
-Minneapolis,Millennium Minneapolis,3,373.7,0
-Minneapolis,Millennium Minneapolis,3,373.7,0
-Minneapolis,Millennium Minneapolis,2,343.7,0
-Minneapolis,Millennium Minneapolis,2,343.7,0
-Minneapolis,Millennium Minneapolis,3,373.7,0
-Minneapolis,InterContinental St. Paul Riverfront,2,321.9,0
-Minneapolis,InterContinental St. Paul Riverfront,3,351.9,0
-Minneapolis,InterContinental St. Paul Riverfront,2,321.9,0
-Minneapolis,InterContinental St. Paul Riverfront,3,351.9,0
-Minneapolis,InterContinental St. Paul Riverfront,2,321.9,0
-Minneapolis,InterContinental St. Paul Riverfront,2,321.9,0
-Minneapolis,InterContinental St. Paul Riverfront,2,321.9,0
-Minneapolis,InterContinental St. Paul Riverfront,2,321.9,0
-Minneapolis,InterContinental St. Paul Riverfront,4,381.9,0
-Minneapolis,InterContinental St. Paul Riverfront,2,321.9,0
-Minneapolis,Embassy Suites Minneapolis,2,123.9,0
-Minneapolis,Embassy Suites Minneapolis,3,153.9,0
-Minneapolis,Embassy Suites Minneapolis,1,93.9,0
-Minneapolis,Embassy Suites Minneapolis,2,123.9,0
-Minneapolis,Embassy Suites Minneapolis,2,123.9,0
-Minneapolis,Embassy Suites Minneapolis,3,153.9,0
-Minneapolis,Embassy Suites Minneapolis,2,123.9,0
-Minneapolis,Embassy Suites Minneapolis,3,153.9,0
-Minneapolis,Embassy Suites Minneapolis,2,123.9,0
-Minneapolis,Embassy Suites Minneapolis,3,153.9,0
-Minneapolis,Hyatt Place Minneapolis,2,138.1,0
-Minneapolis,Hyatt Place Minneapolis,3,168.1,0
-Minneapolis,Hyatt Place Minneapolis,3,168.1,0
-Minneapolis,Hyatt Place Minneapolis,2,138.1,0
-Minneapolis,Hyatt Place Minneapolis,3,168.1,0
-Minneapolis,Hyatt Place Minneapolis,2,138.1,0
-Minneapolis,Hyatt Place Minneapolis,2,138.1,0
-Minneapolis,Hyatt Place Minneapolis,2,138.1,0
-Minneapolis,Hyatt Place Minneapolis,2,138.1,0
-Minneapolis,Hyatt Place Minneapolis,2,138.1,0
-Miami,Acqualina Resort and Residences,3,560.8,0
-Miami,Acqualina Resort and Residences,2,530.8,0
-Miami,Acqualina Resort and Residences,2,530.8,0
-Miami,Acqualina Resort and Residences,2,530.8,0
-Miami,Acqualina Resort and Residences,2,530.8,0
-Miami,Acqualina Resort and Residences,3,560.8,0
-Miami,Acqualina Resort and Residences,3,560.8,0
-Miami,Acqualina Resort and Residences,3,560.8,0
-Miami,Acqualina Resort and Residences,3,560.8,0
-Miami,Acqualina Resort and Residences,2,530.8,0
-Miami,The Betsy Hotel,1,495.8,0
-Miami,The Betsy Hotel,3,555.8,0
-Miami,The Betsy Hotel,2,525.8,0
-Miami,The Betsy Hotel,3,555.8,0
-Miami,The Betsy Hotel,2,525.8,0
-Miami,The Betsy Hotel,2,525.8,0
-Miami,The Betsy Hotel,3,555.8,0
-Miami,The Betsy Hotel,3,555.8,0
-Miami,The Betsy Hotel,2,525.8,0
-Miami,The Betsy Hotel,2,525.8,0
-Miami,Eurostars Langford,3,386.6,0
-Miami,Eurostars Langford,2,356.6,0
-Miami,Eurostars Langford,2,356.6,0
-Miami,Eurostars Langford,3,386.6,0
-Miami,Eurostars Langford,2,356.6,0
-Miami,Eurostars Langford,2,356.6,0
-Miami,Eurostars Langford,2,356.6,0
-Miami,Eurostars Langford,2,356.6,0
-Miami,Eurostars Langford,3,386.6,0
-Miami,Eurostars Langford,2,356.6,0
-Miami,Miami Marriott Dadeland,2,351.2,0
-Miami,Miami Marriott Dadeland,2,351.2,0
-Miami,Miami Marriott Dadeland,2,351.2,0
-Miami,Miami Marriott Dadeland,3,381.2,0
-Miami,Miami Marriott Dadeland,4,411.2,0
-Miami,Miami Marriott Dadeland,2,351.2,0
-Miami,Miami Marriott Dadeland,1,321.2,0
-Miami,Miami Marriott Dadeland,2,351.2,0
-Miami,Miami Marriott Dadeland,2,351.2,0
-Miami,Miami Marriott Dadeland,3,381.2,0
-Miami,Hyatt Regency Miami,3,176.4,0
-Miami,Hyatt Regency Miami,3,176.4,0
-Miami,Hyatt Regency Miami,3,176.4,0
-Miami,Hyatt Regency Miami,3,176.4,0
-Miami,Hyatt Regency Miami,2,146.4,0
-Miami,Hyatt Regency Miami,2,146.4,0
-Miami,Hyatt Regency Miami,2,146.4,0
-Miami,Hyatt Regency Miami,2,146.4,0
-Miami,Hyatt Regency Miami,3,176.4,0
-Miami,Hyatt Regency Miami,1,116.4,0
-Miami,THesis Hotel Miami,3,163.8,0
-Miami,THesis Hotel Miami,3,163.8,0
-Miami,THesis Hotel Miami,3,163.8,0
-Miami,THesis Hotel Miami,2,133.8,0
-Miami,THesis Hotel Miami,2,133.8,0
-Miami,THesis Hotel Miami,2,133.8,0
-Miami,THesis Hotel Miami,2,133.8,0
-Miami,THesis Hotel Miami,3,163.8,0
-Miami,THesis Hotel Miami,3,163.8,0
-Miami,THesis Hotel Miami,2,133.8,0
-El Paso,Hotel Paso Del Norte,3,364.5,0
-El Paso,Hotel Paso Del Norte,3,364.5,0
-El Paso,Hotel Paso Del Norte,3,364.5,0
-El Paso,Hotel Paso Del Norte,3,364.5,0
-El Paso,Hotel Paso Del Norte,3,364.5,0
-El Paso,Hotel Paso Del Norte,2,334.5,0
-El Paso,Hotel Paso Del Norte,3,364.5,0
-El Paso,Hotel Paso Del Norte,3,364.5,0
-El Paso,Hotel Paso Del Norte,3,364.5,0
-El Paso,Hotel Paso Del Norte,2,334.5,0
-El Paso,Stanton House El Paso,2,340.9,0
-El Paso,Stanton House El Paso,3,370.9,0
-El Paso,Stanton House El Paso,3,370.9,0
-El Paso,Stanton House El Paso,3,370.9,0
-El Paso,Stanton House El Paso,2,340.9,0
-El Paso,Stanton House El Paso,2,340.9,0
-El Paso,Stanton House El Paso,2,340.9,0
-El Paso,Stanton House El Paso,2,340.9,0
-El Paso,Stanton House El Paso,3,370.9,0
-El Paso,Stanton House El Paso,2,340.9,0
-El Paso,The Plaza Hotel Pioneer Park,2,337.8,0
-El Paso,The Plaza Hotel Pioneer Park,2,337.8,0
-El Paso,The Plaza Hotel Pioneer Park,3,367.8,0
-El Paso,The Plaza Hotel Pioneer Park,3,367.8,0
-El Paso,The Plaza Hotel Pioneer Park,3,367.8,0
-El Paso,The Plaza Hotel Pioneer Park,3,367.8,0
-El Paso,The Plaza Hotel Pioneer Park,2,337.8,0
-El Paso,The Plaza Hotel Pioneer Park,2,337.8,0
-El Paso,The Plaza Hotel Pioneer Park,3,367.8,0
-El Paso,The Plaza Hotel Pioneer Park,2,337.8,0
-El Paso,Hilton Garden Inn El Paso University,2,137.5,0
-El Paso,Hilton Garden Inn El Paso University,2,137.5,0
-El Paso,Hilton Garden Inn El Paso University,2,137.5,0
-El Paso,Hilton Garden Inn El Paso University,2,137.5,0
-El Paso,Hilton Garden Inn El Paso University,3,167.5,0
-El Paso,Hilton Garden Inn El Paso University,4,197.5,0
-El Paso,Hilton Garden Inn El Paso University,2,137.5,0
-El Paso,Hilton Garden Inn El Paso University,4,197.5,0
-El Paso,Hilton Garden Inn El Paso University,4,197.5,0
-El Paso,Hilton Garden Inn El Paso University,2,137.5,0
-El Paso,Hawthorn Suites,2,134.4,0
-El Paso,Hawthorn Suites,3,164.4,0
-El Paso,Hawthorn Suites,2,134.4,0
-El Paso,Hawthorn Suites,2,134.4,0
-El Paso,Hawthorn Suites,2,134.4,0
-El Paso,Hawthorn Suites,1,104.4,0
-El Paso,Hawthorn Suites,3,164.4,0
-El Paso,Hawthorn Suites,2,134.4,0
-El Paso,Hawthorn Suites,2,134.4,0
-El Paso,Hawthorn Suites,2,134.4,0
-El Paso,Quality Suites University,2,126.9,0
-El Paso,Quality Suites University,4,186.9,0
-El Paso,Quality Suites University,2,126.9,0
-El Paso,Quality Suites University,2,126.9,0
-El Paso,Quality Suites University,2,126.9,0
-El Paso,Quality Suites University,2,126.9,0
-El Paso,Quality Suites University,3,156.9,0
-El Paso,Quality Suites University,4,186.9,0
-El Paso,Quality Suites University,3,156.9,0
-El Paso,Quality Suites University,2,126.9,0
-Phoenix,Renaissance Phoenix Downtown Hotel,2,513.5,0
-Phoenix,Renaissance Phoenix Downtown Hotel,3,543.5,0
-Phoenix,Renaissance Phoenix Downtown Hotel,3,543.5,0
-Phoenix,Renaissance Phoenix Downtown Hotel,2,513.5,0
-Phoenix,Renaissance Phoenix Downtown Hotel,3,543.5,0
-Phoenix,Renaissance Phoenix Downtown Hotel,4,573.5,0
-Phoenix,Renaissance Phoenix Downtown Hotel,3,543.5,0
-Phoenix,Renaissance Phoenix Downtown Hotel,3,543.5,0
-Phoenix,Renaissance Phoenix Downtown Hotel,3,543.5,0
-Phoenix,Renaissance Phoenix Downtown Hotel,2,513.5,0
-Phoenix,The Phoenician,2,519.4,0
-Phoenix,The Phoenician,3,549.4,0
-Phoenix,The Phoenician,3,549.4,0
-Phoenix,The Phoenician,3,549.4,0
-Phoenix,The Phoenician,3,549.4,0
-Phoenix,The Phoenician,3,549.4,0
-Phoenix,The Phoenician,2,519.4,0
-Phoenix,The Phoenician,3,549.4,0
-Phoenix,The Phoenician,3,549.4,0
-Phoenix,The Phoenician,2,519.4,0
-Phoenix,Embassy Suites Phoenix,2,334.9,0
-Phoenix,Embassy Suites Phoenix,2,334.9,0
-Phoenix,Embassy Suites Phoenix,2,334.9,0
-Phoenix,Embassy Suites Phoenix,2,334.9,0
-Phoenix,Embassy Suites Phoenix,3,364.9,0
-Phoenix,Embassy Suites Phoenix,2,334.9,0
-Phoenix,Embassy Suites Phoenix,3,364.9,0
-Phoenix,Embassy Suites Phoenix,3,364.9,0
-Phoenix,Embassy Suites Phoenix,3,364.9,0
-Phoenix,Embassy Suites Phoenix,3,364.9,0
-Phoenix,The Hermosa Inn,3,357.1,0
-Phoenix,The Hermosa Inn,2,327.1,0
-Phoenix,The Hermosa Inn,3,357.1,0
-Phoenix,The Hermosa Inn,2,327.1,0
-Phoenix,The Hermosa Inn,3,357.1,0
-Phoenix,The Hermosa Inn,2,327.1,0
-Phoenix,The Hermosa Inn,2,327.1,0
-Phoenix,The Hermosa Inn,2,327.1,0
-Phoenix,The Hermosa Inn,2,327.1,0
-Phoenix,The Hermosa Inn,2,327.1,0
-Phoenix,Aloft Phoenix Airport,2,102.6,0
-Phoenix,Aloft Phoenix Airport,2,102.6,0
-Phoenix,Aloft Phoenix Airport,3,132.6,0
-Phoenix,Aloft Phoenix Airport,2,102.6,0
-Phoenix,Aloft Phoenix Airport,3,132.6,0
-Phoenix,Aloft Phoenix Airport,3,132.6,0
-Phoenix,Aloft Phoenix Airport,3,132.6,0
-Phoenix,Aloft Phoenix Airport,2,102.6,0
-Phoenix,Aloft Phoenix Airport,2,102.6,0
-Phoenix,Aloft Phoenix Airport,2,102.6,0
-Phoenix,La Quinta Inn,2,135.8,0
-Phoenix,La Quinta Inn,2,135.8,0
-Phoenix,La Quinta Inn,3,165.8,0
-Phoenix,La Quinta Inn,3,165.8,0
-Phoenix,La Quinta Inn,3,165.8,0
-Phoenix,La Quinta Inn,2,135.8,0
-Phoenix,La Quinta Inn,4,195.8,0
-Phoenix,La Quinta Inn,2,135.8,0
-Phoenix,La Quinta Inn,3,165.8,0
-Phoenix,La Quinta Inn,2,135.8,0
-Philadelphia,The Rittenhouse Hotel,3,550.5,0
-Philadelphia,The Rittenhouse Hotel,2,520.5,0
-Philadelphia,The Rittenhouse Hotel,3,550.5,0
-Philadelphia,The Rittenhouse Hotel,2,520.5,0
-Philadelphia,The Rittenhouse Hotel,2,520.5,0
-Philadelphia,The Rittenhouse Hotel,3,550.5,0
-Philadelphia,The Rittenhouse Hotel,3,550.5,0
-Philadelphia,The Rittenhouse Hotel,3,550.5,0
-Philadelphia,The Rittenhouse Hotel,3,550.5,0
-Philadelphia,The Rittenhouse Hotel,3,550.5,0
-Philadelphia,Four Seasons Hotel Philadelphia,2,519.0,0
-Philadelphia,Four Seasons Hotel Philadelphia,3,549.0,0
-Philadelphia,Four Seasons Hotel Philadelphia,2,519.0,0
-Philadelphia,Four Seasons Hotel Philadelphia,2,519.0,0
-Philadelphia,Four Seasons Hotel Philadelphia,2,519.0,0
-Philadelphia,Four Seasons Hotel Philadelphia,3,549.0,0
-Philadelphia,Four Seasons Hotel Philadelphia,2,519.0,0
-Philadelphia,Four Seasons Hotel Philadelphia,2,519.0,0
-Philadelphia,Four Seasons Hotel Philadelphia,3,549.0,0
-Philadelphia,Four Seasons Hotel Philadelphia,3,549.0,0
-Philadelphia,Philadelphia Marriott Downtown,2,329.2,0
-Philadelphia,Philadelphia Marriott Downtown,2,329.2,0
-Philadelphia,Philadelphia Marriott Downtown,2,329.2,0
-Philadelphia,Philadelphia Marriott Downtown,2,329.2,0
-Philadelphia,Philadelphia Marriott Downtown,2,329.2,0
-Philadelphia,Philadelphia Marriott Downtown,2,329.2,0
-Philadelphia,Philadelphia Marriott Downtown,2,329.2,0
-Philadelphia,Philadelphia Marriott Downtown,2,329.2,0
-Philadelphia,Philadelphia Marriott Downtown,2,329.2,0
-Philadelphia,Philadelphia Marriott Downtown,2,329.2,0
-Philadelphia,The Inn at Penn,2,339.9,0
-Philadelphia,The Inn at Penn,2,339.9,0
-Philadelphia,The Inn at Penn,2,339.9,0
-Philadelphia,The Inn at Penn,2,339.9,0
-Philadelphia,The Inn at Penn,2,339.9,0
-Philadelphia,The Inn at Penn,3,369.9,0
-Philadelphia,The Inn at Penn,3,369.9,0
-Philadelphia,The Inn at Penn,2,339.9,0
-Philadelphia,The Inn at Penn,3,369.9,0
-Philadelphia,The Inn at Penn,3,369.9,0
-Philadelphia,Radisson Hotel Philadelphia,2,123.5,0
-Philadelphia,Radisson Hotel Philadelphia,2,123.5,0
-Philadelphia,Radisson Hotel Philadelphia,2,123.5,0
-Philadelphia,Radisson Hotel Philadelphia,2,123.5,0
-Philadelphia,Radisson Hotel Philadelphia,2,123.5,0
-Philadelphia,Radisson Hotel Philadelphia,2,123.5,0
-Philadelphia,Radisson Hotel Philadelphia,3,153.5,0
-Philadelphia,Radisson Hotel Philadelphia,3,153.5,0
-Philadelphia,Radisson Hotel Philadelphia,3,153.5,0
-Philadelphia,Radisson Hotel Philadelphia,3,153.5,0
-Philadelphia,The Maj Hotel,2,132.9,0
-Philadelphia,The Maj Hotel,4,192.9,0
-Philadelphia,The Maj Hotel,2,132.9,0
-Philadelphia,The Maj Hotel,3,162.9,0
-Philadelphia,The Maj Hotel,3,162.9,0
-Philadelphia,The Maj Hotel,2,132.9,0
-Philadelphia,The Maj Hotel,3,162.9,0
-Philadelphia,The Maj Hotel,2,132.9,0
-Philadelphia,The Maj Hotel,3,162.9,0
-Philadelphia,The Maj Hotel,4,192.9,0
-Detroit,MGM Grand Detroit,3,555.4,0
-Detroit,MGM Grand Detroit,2,525.4,0
-Detroit,MGM Grand Detroit,2,525.4,0
-Detroit,MGM Grand Detroit,3,555.4,0
-Detroit,MGM Grand Detroit,3,555.4,0
-Detroit,MGM Grand Detroit,2,525.4,0
-Detroit,MGM Grand Detroit,3,555.4,0
-Detroit,MGM Grand Detroit,2,525.4,0
-Detroit,MGM Grand Detroit,2,525.4,0
-Detroit,MGM Grand Detroit,3,555.4,0
-Detroit,The Siren Hotel,2,333.5,0
-Detroit,The Siren Hotel,2,333.5,0
-Detroit,The Siren Hotel,2,333.5,0
-Detroit,The Siren Hotel,3,363.5,0
-Detroit,The Siren Hotel,2,333.5,0
-Detroit,The Siren Hotel,3,363.5,0
-Detroit,The Siren Hotel,3,363.5,0
-Detroit,The Siren Hotel,2,333.5,0
-Detroit,The Siren Hotel,2,333.5,0
-Detroit,The Siren Hotel,2,333.5,0
-Detroit,Detroit Foundation Hotel,2,329.1,0
-Detroit,Detroit Foundation Hotel,2,329.1,0
-Detroit,Detroit Foundation Hotel,2,329.1,0
-Detroit,Detroit Foundation Hotel,2,329.1,0
-Detroit,Detroit Foundation Hotel,3,359.1,0
-Detroit,Detroit Foundation Hotel,3,359.1,0
-Detroit,Detroit Foundation Hotel,4,389.1,0
-Detroit,Detroit Foundation Hotel,2,329.1,0
-Detroit,Detroit Foundation Hotel,2,329.1,0
-Detroit,Detroit Foundation Hotel,2,329.1,0
-Detroit,Atheneum Suite Hotel,1,119.0,0
-Detroit,Atheneum Suite Hotel,2,149.0,0
-Detroit,Atheneum Suite Hotel,2,149.0,0
-Detroit,Atheneum Suite Hotel,3,179.0,0
-Detroit,Atheneum Suite Hotel,2,149.0,0
-Detroit,Atheneum Suite Hotel,3,179.0,0
-Detroit,Atheneum Suite Hotel,3,179.0,0
-Detroit,Atheneum Suite Hotel,2,149.0,0
-Detroit,Atheneum Suite Hotel,1,119.0,0
-Detroit,Atheneum Suite Hotel,3,179.0,0
-Detroit,Hotel Indigo,2,135.7,0
-Detroit,Hotel Indigo,2,135.7,0
-Detroit,Hotel Indigo,2,135.7,0
-Detroit,Hotel Indigo,2,135.7,0
-Detroit,Hotel Indigo,2,135.7,0
-Detroit,Hotel Indigo,2,135.7,0
-Detroit,Hotel Indigo,1,105.7,0
-Detroit,Hotel Indigo,2,135.7,0
-Detroit,Hotel Indigo,3,165.7,0
-Detroit,Hotel Indigo,2,135.7,0
-Detroit,Hollywood Casino at Greektown,2,136.1,0
-Detroit,Hollywood Casino at Greektown,2,136.1,0
-Detroit,Hollywood Casino at Greektown,3,166.1,0
-Detroit,Hollywood Casino at Greektown,2,136.1,0
-Detroit,Hollywood Casino at Greektown,3,166.1,0
-Detroit,Hollywood Casino at Greektown,2,136.1,0
-Detroit,Hollywood Casino at Greektown,3,166.1,0
-Detroit,Hollywood Casino at Greektown,3,166.1,0
-Detroit,Hollywood Casino at Greektown,3,166.1,0
-Detroit,Hollywood Casino at Greektown,2,136.1,0
-Orlando,Waldorf Astoria Orlando,2,545.3,0
-Orlando,Waldorf Astoria Orlando,3,575.3,0
-Orlando,Waldorf Astoria Orlando,2,545.3,0
-Orlando,Waldorf Astoria Orlando,3,575.3,0
-Orlando,Waldorf Astoria Orlando,2,545.3,0
-Orlando,Waldorf Astoria Orlando,3,575.3,0
-Orlando,Waldorf Astoria Orlando,2,545.3,0
-Orlando,Waldorf Astoria Orlando,3,575.3,0
-Orlando,Waldorf Astoria Orlando,3,575.3,0
-Orlando,Waldorf Astoria Orlando,3,575.3,0
-Orlando,Four Seasons Resort Orlando,2,530.0,0
-Orlando,Four Seasons Resort Orlando,2,530.0,0
-Orlando,Four Seasons Resort Orlando,2,530.0,0
-Orlando,Four Seasons Resort Orlando,3,560.0,0
-Orlando,Four Seasons Resort Orlando,3,560.0,0
-Orlando,Four Seasons Resort Orlando,2,530.0,0
-Orlando,Four Seasons Resort Orlando,2,530.0,0
-Orlando,Four Seasons Resort Orlando,3,560.0,0
-Orlando,Four Seasons Resort Orlando,2,530.0,0
-Orlando,Four Seasons Resort Orlando,3,560.0,0
-Orlando,Universal's Hard Rock Hotel,3,372.8,0
-Orlando,Universal's Hard Rock Hotel,2,342.8,0
-Orlando,Universal's Hard Rock Hotel,3,372.8,0
-Orlando,Universal's Hard Rock Hotel,2,342.8,0
-Orlando,Universal's Hard Rock Hotel,3,372.8,0
-Orlando,Universal's Hard Rock Hotel,2,342.8,0
-Orlando,Universal's Hard Rock Hotel,2,342.8,0
-Orlando,Universal's Hard Rock Hotel,2,342.8,0
-Orlando,Universal's Hard Rock Hotel,3,372.8,0
-Orlando,Universal's Hard Rock Hotel,3,372.8,0
-Orlando,Renaissance Orlando at SeaWorld,3,358.8,0
-Orlando,Renaissance Orlando at SeaWorld,3,358.8,0
-Orlando,Renaissance Orlando at SeaWorld,3,358.8,0
-Orlando,Renaissance Orlando at SeaWorld,2,328.8,0
-Orlando,Renaissance Orlando at SeaWorld,3,358.8,0
-Orlando,Renaissance Orlando at SeaWorld,3,358.8,0
-Orlando,Renaissance Orlando at SeaWorld,3,358.8,0
-Orlando,Renaissance Orlando at SeaWorld,2,328.8,0
-Orlando,Renaissance Orlando at SeaWorld,2,328.8,0
-Orlando,Renaissance Orlando at SeaWorld,3,358.8,0
-Orlando,Universal's Cabana Bay Beach Resort,3,165.5,0
-Orlando,Universal's Cabana Bay Beach Resort,2,135.5,0
-Orlando,Universal's Cabana Bay Beach Resort,3,165.5,0
-Orlando,Universal's Cabana Bay Beach Resort,2,135.5,0
-Orlando,Universal's Cabana Bay Beach Resort,2,135.5,0
-Orlando,Universal's Cabana Bay Beach Resort,2,135.5,0
-Orlando,Universal's Cabana Bay Beach Resort,1,105.5,0
-Orlando,Universal's Cabana Bay Beach Resort,2,135.5,0
-Orlando,Universal's Cabana Bay Beach Resort,2,135.5,0
-Orlando,Universal's Cabana Bay Beach Resort,2,135.5,0
-Orlando,Universal's Aventura Hotel,2,132.2,0
-Orlando,Universal's Aventura Hotel,2,132.2,0
-Orlando,Universal's Aventura Hotel,2,132.2,0
-Orlando,Universal's Aventura Hotel,2,132.2,0
-Orlando,Universal's Aventura Hotel,3,162.2,0
-Orlando,Universal's Aventura Hotel,2,132.2,0
-Orlando,Universal's Aventura Hotel,2,132.2,0
-Orlando,Universal's Aventura Hotel,2,132.2,0
-Orlando,Universal's Aventura Hotel,3,162.2,0
-Orlando,Universal's Aventura Hotel,3,162.2,0
-Pasadena,The Langham Huntington,3,578.1,0
-Pasadena,The Langham Huntington,3,578.1,0
-Pasadena,The Langham Huntington,3,578.1,0
-Pasadena,The Langham Huntington,1,518.1,0
-Pasadena,The Langham Huntington,2,548.1,0
-Pasadena,The Langham Huntington,3,578.1,0
-Pasadena,The Langham Huntington,2,548.1,0
-Pasadena,The Langham Huntington,3,578.1,0
-Pasadena,The Langham Huntington,2,548.1,0
-Pasadena,The Langham Huntington,2,548.1,0
-Pasadena,The Westin Pasadena,3,357.9,0
-Pasadena,The Westin Pasadena,3,357.9,0
-Pasadena,The Westin Pasadena,3,357.9,0
-Pasadena,The Westin Pasadena,2,327.9,0
-Pasadena,The Westin Pasadena,2,327.9,0
-Pasadena,The Westin Pasadena,2,327.9,0
-Pasadena,The Westin Pasadena,2,327.9,0
-Pasadena,The Westin Pasadena,3,357.9,0
-Pasadena,The Westin Pasadena,3,357.9,0
-Pasadena,The Westin Pasadena,3,357.9,0
-Pasadena,GreenTree Pasadena Inn,3,353.9,0
-Pasadena,GreenTree Pasadena Inn,2,323.9,0
-Pasadena,GreenTree Pasadena Inn,3,353.9,0
-Pasadena,GreenTree Pasadena Inn,2,323.9,0
-Pasadena,GreenTree Pasadena Inn,2,323.9,0
-Pasadena,GreenTree Pasadena Inn,3,353.9,0
-Pasadena,GreenTree Pasadena Inn,3,353.9,0
-Pasadena,GreenTree Pasadena Inn,3,353.9,0
-Pasadena,GreenTree Pasadena Inn,2,323.9,0
-Pasadena,GreenTree Pasadena Inn,3,353.9,0
-Pasadena,Hilton Pasadena,2,136.2,0
-Pasadena,Hilton Pasadena,3,166.2,0
-Pasadena,Hilton Pasadena,3,166.2,0
-Pasadena,Hilton Pasadena,2,136.2,0
-Pasadena,Hilton Pasadena,3,166.2,0
-Pasadena,Hilton Pasadena,3,166.2,0
-Pasadena,Hilton Pasadena,3,166.2,0
-Pasadena,Hilton Pasadena,2,136.2,0
-Pasadena,Hilton Pasadena,2,136.2,0
-Pasadena,Hilton Pasadena,2,136.2,0
-Pasadena,Hyatt Place Pasadena,2,118.2,0
-Pasadena,Hyatt Place Pasadena,1,88.2,0
-Pasadena,Hyatt Place Pasadena,4,178.2,0
-Pasadena,Hyatt Place Pasadena,3,148.2,0
-Pasadena,Hyatt Place Pasadena,2,118.2,0
-Pasadena,Hyatt Place Pasadena,3,148.2,0
-Pasadena,Hyatt Place Pasadena,3,148.2,0
-Pasadena,Hyatt Place Pasadena,2,118.2,0
-Pasadena,Hyatt Place Pasadena,2,118.2,0
-Pasadena,Hyatt Place Pasadena,3,148.2,0
-Pasadena,Sheraton Pasadena Hotel,2,154.9,0
-Pasadena,Sheraton Pasadena Hotel,2,154.9,0
-Pasadena,Sheraton Pasadena Hotel,3,184.9,0
-Pasadena,Sheraton Pasadena Hotel,3,184.9,0
-Pasadena,Sheraton Pasadena Hotel,2,154.9,0
-Pasadena,Sheraton Pasadena Hotel,2,154.9,0
-Pasadena,Sheraton Pasadena Hotel,2,154.9,0
-Pasadena,Sheraton Pasadena Hotel,3,184.9,0
-Pasadena,Sheraton Pasadena Hotel,3,184.9,0
-Pasadena,Sheraton Pasadena Hotel,2,154.9,0
-Seattle,Lotte Hotel Seattle,2,544.9,0
-Seattle,Lotte Hotel Seattle,3,574.9,0
-Seattle,Lotte Hotel Seattle,3,574.9,0
-Seattle,Lotte Hotel Seattle,2,544.9,0
-Seattle,Lotte Hotel Seattle,2,544.9,0
-Seattle,Lotte Hotel Seattle,2,544.9,0
-Seattle,Lotte Hotel Seattle,2,544.9,0
-Seattle,Lotte Hotel Seattle,2,544.9,0
-Seattle,Lotte Hotel Seattle,2,544.9,0
-Seattle,Lotte Hotel Seattle,2,544.9,0
-Seattle,Grand Hyatt Seattle,2,535.4,0
-Seattle,Grand Hyatt Seattle,2,535.4,0
-Seattle,Grand Hyatt Seattle,3,565.4,0
-Seattle,Grand Hyatt Seattle,3,565.4,0
-Seattle,Grand Hyatt Seattle,2,535.4,0
-Seattle,Grand Hyatt Seattle,2,535.4,0
-Seattle,Grand Hyatt Seattle,2,535.4,0
-Seattle,Grand Hyatt Seattle,2,535.4,0
-Seattle,Grand Hyatt Seattle,2,535.4,0
-Seattle,Grand Hyatt Seattle,2,535.4,0
-Seattle,Hotel Theodore,2,327.2,0
-Seattle,Hotel Theodore,2,327.2,0
-Seattle,Hotel Theodore,2,327.2,0
-Seattle,Hotel Theodore,2,327.2,0
-Seattle,Hotel Theodore,2,327.2,0
-Seattle,Hotel Theodore,3,357.2,0
-Seattle,Hotel Theodore,3,357.2,0
-Seattle,Hotel Theodore,2,327.2,0
-Seattle,Hotel Theodore,2,327.2,0
-Seattle,Hotel Theodore,3,357.2,0
-Seattle,Warwick Seattle,2,351.9,0
-Seattle,Warwick Seattle,3,381.9,0
-Seattle,Warwick Seattle,2,351.9,0
-Seattle,Warwick Seattle,2,351.9,0
-Seattle,Warwick Seattle,2,351.9,0
-Seattle,Warwick Seattle,3,381.9,0
-Seattle,Warwick Seattle,2,351.9,0
-Seattle,Warwick Seattle,3,381.9,0
-Seattle,Warwick Seattle,2,351.9,0
-Seattle,Warwick Seattle,2,351.9,0
-Seattle,Hotel Max,3,179.2,0
-Seattle,Hotel Max,2,149.2,0
-Seattle,Hotel Max,2,149.2,0
-Seattle,Hotel Max,3,179.2,0
-Seattle,Hotel Max,3,179.2,0
-Seattle,Hotel Max,3,179.2,0
-Seattle,Hotel Max,3,179.2,0
-Seattle,Hotel Max,2,149.2,0
-Seattle,Hotel Max,3,179.2,0
-Seattle,Hotel Max,3,179.2,0
-Seattle,Belltown Inn,4,204.4,0
-Seattle,Belltown Inn,2,144.4,0
-Seattle,Belltown Inn,2,144.4,0
-Seattle,Belltown Inn,2,144.4,0
-Seattle,Belltown Inn,3,174.4,0
-Seattle,Belltown Inn,2,144.4,0
-Seattle,Belltown Inn,2,144.4,0
-Seattle,Belltown Inn,2,144.4,0
-Seattle,Belltown Inn,3,174.4,0
-Seattle,Belltown Inn,3,174.4,0
-Sacramento,Hyatt Regency Sacramento,2,316.8,0
-Sacramento,Hyatt Regency Sacramento,2,316.8,0
-Sacramento,Hyatt Regency Sacramento,3,346.8,0
-Sacramento,Hyatt Regency Sacramento,3,346.8,0
-Sacramento,Hyatt Regency Sacramento,3,346.8,0
-Sacramento,Hyatt Regency Sacramento,2,316.8,0
-Sacramento,Hyatt Regency Sacramento,3,346.8,0
-Sacramento,Hyatt Regency Sacramento,3,346.8,0
-Sacramento,Hyatt Regency Sacramento,2,316.8,0
-Sacramento,Hyatt Regency Sacramento,3,346.8,0
-Sacramento,The Exchange Sacramento,2,323.5,0
-Sacramento,The Exchange Sacramento,2,323.5,0
-Sacramento,The Exchange Sacramento,3,353.5,0
-Sacramento,The Exchange Sacramento,4,383.5,0
-Sacramento,The Exchange Sacramento,3,353.5,0
-Sacramento,The Exchange Sacramento,2,323.5,0
-Sacramento,The Exchange Sacramento,2,323.5,0
-Sacramento,The Exchange Sacramento,2,323.5,0
-Sacramento,The Exchange Sacramento,2,323.5,0
-Sacramento,The Exchange Sacramento,3,353.5,0
-Sacramento,Kimpton Sawyer Hotel,3,351.3,0
-Sacramento,Kimpton Sawyer Hotel,2,321.3,0
-Sacramento,Kimpton Sawyer Hotel,3,351.3,0
-Sacramento,Kimpton Sawyer Hotel,4,381.3,0
-Sacramento,Kimpton Sawyer Hotel,3,351.3,0
-Sacramento,Kimpton Sawyer Hotel,2,321.3,0
-Sacramento,Kimpton Sawyer Hotel,3,351.3,0
-Sacramento,Kimpton Sawyer Hotel,2,321.3,0
-Sacramento,Kimpton Sawyer Hotel,3,351.3,0
-Sacramento,Kimpton Sawyer Hotel,3,351.3,0
-Sacramento,Delta King Hotel,2,140.5,0
-Sacramento,Delta King Hotel,3,170.5,0
-Sacramento,Delta King Hotel,4,200.5,0
-Sacramento,Delta King Hotel,4,200.5,0
-Sacramento,Delta King Hotel,3,170.5,0
-Sacramento,Delta King Hotel,3,170.5,0
-Sacramento,Delta King Hotel,2,140.5,0
-Sacramento,Delta King Hotel,2,140.5,0
-Sacramento,Delta King Hotel,2,140.5,0
-Sacramento,Delta King Hotel,3,170.5,0
-Sacramento,Lions Gate Hotel,3,164.9,0
-Sacramento,Lions Gate Hotel,2,134.9,0
-Sacramento,Lions Gate Hotel,1,104.9,0
-Sacramento,Lions Gate Hotel,2,134.9,0
-Sacramento,Lions Gate Hotel,2,134.9,0
-Sacramento,Lions Gate Hotel,2,134.9,0
-Sacramento,Lions Gate Hotel,2,134.9,0
-Sacramento,Lions Gate Hotel,3,164.9,0
-Sacramento,Lions Gate Hotel,2,134.9,0
-Sacramento,Lions Gate Hotel,3,164.9,0
-Sacramento,Hilton Sacramento Arden West,2,154.8,0
-Sacramento,Hilton Sacramento Arden West,2,154.8,0
-Sacramento,Hilton Sacramento Arden West,3,184.8,0
-Sacramento,Hilton Sacramento Arden West,3,184.8,0
-Sacramento,Hilton Sacramento Arden West,3,184.8,0
-Sacramento,Hilton Sacramento Arden West,3,184.8,0
-Sacramento,Hilton Sacramento Arden West,2,154.8,0
-Sacramento,Hilton Sacramento Arden West,2,154.8,0
-Sacramento,Hilton Sacramento Arden West,2,154.8,0
-Sacramento,Hilton Sacramento Arden West,2,154.8,0
-Dallas,HALL Arts Hotel,2,532.7,0
-Dallas,HALL Arts Hotel,3,562.7,0
-Dallas,HALL Arts Hotel,3,562.7,0
-Dallas,HALL Arts Hotel,2,532.7,0
-Dallas,HALL Arts Hotel,3,562.7,0
-Dallas,HALL Arts Hotel,3,562.7,0
-Dallas,HALL Arts Hotel,3,562.7,0
-Dallas,HALL Arts Hotel,2,532.7,0
-Dallas,HALL Arts Hotel,3,562.7,0
-Dallas,HALL Arts Hotel,2,532.7,0
-Dallas,The Adolphus,2,546.1,0
-Dallas,The Adolphus,3,576.1,0
-Dallas,The Adolphus,2,546.1,0
-Dallas,The Adolphus,3,576.1,0
-Dallas,The Adolphus,2,546.1,0
-Dallas,The Adolphus,3,576.1,0
-Dallas,The Adolphus,2,546.1,0
-Dallas,The Adolphus,2,546.1,0
-Dallas,The Adolphus,3,576.1,0
-Dallas,The Adolphus,2,546.1,0
-Dallas,Kimpton - Pittman Hotel,2,321.2,0
-Dallas,Kimpton - Pittman Hotel,2,321.2,0
-Dallas,Kimpton - Pittman Hotel,2,321.2,0
-Dallas,Kimpton - Pittman Hotel,2,321.2,0
-Dallas,Kimpton - Pittman Hotel,2,321.2,0
-Dallas,Kimpton - Pittman Hotel,2,321.2,0
-Dallas,Kimpton - Pittman Hotel,2,321.2,0
-Dallas,Kimpton - Pittman Hotel,3,351.2,0
-Dallas,Kimpton - Pittman Hotel,3,351.2,0
-Dallas,Kimpton - Pittman Hotel,2,321.2,0
-Dallas,Hyatt Regency Dallas,2,322.5,0
-Dallas,Hyatt Regency Dallas,3,352.5,0
-Dallas,Hyatt Regency Dallas,3,352.5,0
-Dallas,Hyatt Regency Dallas,3,352.5,0
-Dallas,Hyatt Regency Dallas,2,322.5,0
-Dallas,Hyatt Regency Dallas,2,322.5,0
-Dallas,Hyatt Regency Dallas,3,352.5,0
-Dallas,Hyatt Regency Dallas,3,352.5,0
-Dallas,Hyatt Regency Dallas,3,352.5,0
-Dallas,Hyatt Regency Dallas,3,352.5,0
-Dallas,The Beeman Hotel,3,156.6,0
-Dallas,The Beeman Hotel,3,156.6,0
-Dallas,The Beeman Hotel,2,126.6,0
-Dallas,The Beeman Hotel,3,156.6,0
-Dallas,The Beeman Hotel,3,156.6,0
-Dallas,The Beeman Hotel,3,156.6,0
-Dallas,The Beeman Hotel,3,156.6,0
-Dallas,The Beeman Hotel,3,156.6,0
-Dallas,The Beeman Hotel,1,96.6,0
-Dallas,The Beeman Hotel,2,126.6,0
-Dallas,Hotel Indigo Dallas Downtown,3,159.0,0
-Dallas,Hotel Indigo Dallas Downtown,2,129.0,0
-Dallas,Hotel Indigo Dallas Downtown,3,159.0,0
-Dallas,Hotel Indigo Dallas Downtown,3,159.0,0
-Dallas,Hotel Indigo Dallas Downtown,2,129.0,0
-Dallas,Hotel Indigo Dallas Downtown,3,159.0,0
-Dallas,Hotel Indigo Dallas Downtown,2,129.0,0
-Dallas,Hotel Indigo Dallas Downtown,3,159.0,0
-Dallas,Hotel Indigo Dallas Downtown,2,129.0,0
-Dallas,Hotel Indigo Dallas Downtown,2,129.0,0
-Saint Louis,Four Seasons St. Louis,2,540.2,0
-Saint Louis,Four Seasons St. Louis,3,570.2,0
-Saint Louis,Four Seasons St. Louis,3,570.2,0
-Saint Louis,Four Seasons St. Louis,2,540.2,0
-Saint Louis,Four Seasons St. Louis,2,540.2,0
-Saint Louis,Four Seasons St. Louis,3,570.2,0
-Saint Louis,Four Seasons St. Louis,2,540.2,0
-Saint Louis,Four Seasons St. Louis,2,540.2,0
-Saint Louis,Four Seasons St. Louis,2,540.2,0
-Saint Louis,Four Seasons St. Louis,2,540.2,0
-Saint Louis,Angad Arts Hotel,3,560.5,0
-Saint Louis,Angad Arts Hotel,2,530.5,0
-Saint Louis,Angad Arts Hotel,3,560.5,0
-Saint Louis,Angad Arts Hotel,3,560.5,0
-Saint Louis,Angad Arts Hotel,2,530.5,0
-Saint Louis,Angad Arts Hotel,3,560.5,0
-Saint Louis,Angad Arts Hotel,2,530.5,0
-Saint Louis,Angad Arts Hotel,2,530.5,0
-Saint Louis,Angad Arts Hotel,2,530.5,0
-Saint Louis,Angad Arts Hotel,3,560.5,0
-Saint Louis,The Last Hotel,2,336.9,0
-Saint Louis,The Last Hotel,3,366.9,0
-Saint Louis,The Last Hotel,2,336.9,0
-Saint Louis,The Last Hotel,3,366.9,0
-Saint Louis,The Last Hotel,3,366.9,0
-Saint Louis,The Last Hotel,3,366.9,0
-Saint Louis,The Last Hotel,3,366.9,0
-Saint Louis,The Last Hotel,3,366.9,0
-Saint Louis,The Last Hotel,3,366.9,0
-Saint Louis,The Last Hotel,3,366.9,0
-Saint Louis,The Moonrise Hotel,2,321.6,0
-Saint Louis,The Moonrise Hotel,2,321.6,0
-Saint Louis,The Moonrise Hotel,2,321.6,0
-Saint Louis,The Moonrise Hotel,1,291.6,0
-Saint Louis,The Moonrise Hotel,2,321.6,0
-Saint Louis,The Moonrise Hotel,2,321.6,0
-Saint Louis,The Moonrise Hotel,3,351.6,0
-Saint Louis,The Moonrise Hotel,2,321.6,0
-Saint Louis,The Moonrise Hotel,3,351.6,0
-Saint Louis,The Moonrise Hotel,2,321.6,0
-Saint Louis,Marriott St. Louis Grand,2,331.7,0
-Saint Louis,Marriott St. Louis Grand,2,331.7,0
-Saint Louis,Marriott St. Louis Grand,2,331.7,0
-Saint Louis,Marriott St. Louis Grand,2,331.7,0
-Saint Louis,Marriott St. Louis Grand,3,361.7,0
-Saint Louis,Marriott St. Louis Grand,2,331.7,0
-Saint Louis,Marriott St. Louis Grand,3,361.7,0
-Saint Louis,Marriott St. Louis Grand,2,331.7,0
-Saint Louis,Marriott St. Louis Grand,2,331.7,0
-Saint Louis,Marriott St. Louis Grand,3,361.7,0
-Saint Louis,Element St. Louis Midtown,3,148.4,0
-Saint Louis,Element St. Louis Midtown,3,148.4,0
-Saint Louis,Element St. Louis Midtown,3,148.4,0
-Saint Louis,Element St. Louis Midtown,4,178.4,0
-Saint Louis,Element St. Louis Midtown,3,148.4,0
-Saint Louis,Element St. Louis Midtown,2,118.4,0
-Saint Louis,Element St. Louis Midtown,3,148.4,0
-Saint Louis,Element St. Louis Midtown,3,148.4,0
-Saint Louis,Element St. Louis Midtown,3,148.4,0
-Saint Louis,Element St. Louis Midtown,2,118.4,0
-San Jose,Signia by Hilton,2,525.2,0
-San Jose,Signia by Hilton,3,555.2,0
-San Jose,Signia by Hilton,2,525.2,0
-San Jose,Signia by Hilton,3,555.2,0
-San Jose,Signia by Hilton,2,525.2,0
-San Jose,Signia by Hilton,3,555.2,0
-San Jose,Signia by Hilton,3,555.2,0
-San Jose,Signia by Hilton,3,555.2,0
-San Jose,Signia by Hilton,3,555.2,0
-San Jose,Signia by Hilton,2,525.2,0
-San Jose,The Ameswell Hotel,2,540.5,0
-San Jose,The Ameswell Hotel,2,540.5,0
-San Jose,The Ameswell Hotel,3,570.5,0
-San Jose,The Ameswell Hotel,3,570.5,0
-San Jose,The Ameswell Hotel,3,570.5,0
-San Jose,The Ameswell Hotel,2,540.5,0
-San Jose,The Ameswell Hotel,4,600.5,0
-San Jose,The Ameswell Hotel,2,540.5,0
-San Jose,The Ameswell Hotel,2,540.5,0
-San Jose,The Ameswell Hotel,2,540.5,0
-San Jose,San Jose Marriott,3,342.4,0
-San Jose,San Jose Marriott,2,312.4,0
-San Jose,San Jose Marriott,2,312.4,0
-San Jose,San Jose Marriott,2,312.4,0
-San Jose,San Jose Marriott,3,342.4,0
-San Jose,San Jose Marriott,3,342.4,0
-San Jose,San Jose Marriott,4,372.4,0
-San Jose,San Jose Marriott,3,342.4,0
-San Jose,San Jose Marriott,3,342.4,0
-San Jose,San Jose Marriott,3,342.4,0
-San Jose,Aloft San Jose Cupertino,4,408.8,0
-San Jose,Aloft San Jose Cupertino,3,378.8,0
-San Jose,Aloft San Jose Cupertino,3,378.8,0
-San Jose,Aloft San Jose Cupertino,2,348.8,0
-San Jose,Aloft San Jose Cupertino,2,348.8,0
-San Jose,Aloft San Jose Cupertino,3,378.8,0
-San Jose,Aloft San Jose Cupertino,2,348.8,0
-San Jose,Aloft San Jose Cupertino,3,378.8,0
-San Jose,Aloft San Jose Cupertino,3,378.8,0
-San Jose,Aloft San Jose Cupertino,2,348.8,0
-San Jose,Arena Hotel,2,135.7,0
-San Jose,Arena Hotel,2,135.7,0
-San Jose,Arena Hotel,3,165.7,0
-San Jose,Arena Hotel,2,135.7,0
-San Jose,Arena Hotel,2,135.7,0
-San Jose,Arena Hotel,2,135.7,0
-San Jose,Arena Hotel,3,165.7,0
-San Jose,Arena Hotel,2,135.7,0
-San Jose,Arena Hotel,2,135.7,0
-San Jose,Arena Hotel,2,135.7,0
-San Jose,Wyndham Garden Silicon Valley,2,145.1,0
-San Jose,Wyndham Garden Silicon Valley,2,145.1,0
-San Jose,Wyndham Garden Silicon Valley,3,175.1,0
-San Jose,Wyndham Garden Silicon Valley,3,175.1,0
-San Jose,Wyndham Garden Silicon Valley,2,145.1,0
-San Jose,Wyndham Garden Silicon Valley,2,145.1,0
-San Jose,Wyndham Garden Silicon Valley,3,175.1,0
-San Jose,Wyndham Garden Silicon Valley,2,145.1,0
-San Jose,Wyndham Garden Silicon Valley,3,175.1,0
-San Jose,Wyndham Garden Silicon Valley,1,115.1,0
-Portland,Sentinel,2,543.3,0
-Portland,Sentinel,3,573.3,0
-Portland,Sentinel,2,543.3,0
-Portland,Sentinel,2,543.3,0
-Portland,Sentinel,3,573.3,0
-Portland,Sentinel,2,543.3,0
-Portland,Sentinel,3,573.3,0
-Portland,Sentinel,3,573.3,0
-Portland,Sentinel,2,543.3,0
-Portland,Sentinel,2,543.3,0
-Portland,The Nines,2,543.7,0
-Portland,The Nines,2,543.7,0
-Portland,The Nines,3,573.7,0
-Portland,The Nines,2,543.7,0
-Portland,The Nines,2,543.7,0
-Portland,The Nines,3,573.7,0
-Portland,The Nines,3,573.7,0
-Portland,The Nines,3,573.7,0
-Portland,The Nines,3,573.7,0
-Portland,The Nines,2,543.7,0
-Portland,Dossier,2,330.6,0
-Portland,Dossier,2,330.6,0
-Portland,Dossier,2,330.6,0
-Portland,Dossier,2,330.6,0
-Portland,Dossier,2,330.6,0
-Portland,Dossier,2,330.6,0
-Portland,Dossier,2,330.6,0
-Portland,Dossier,3,360.6,0
-Portland,Dossier,3,360.6,0
-Portland,Dossier,2,330.6,0
-Portland,The Heathman Hotel,2,328.4,0
-Portland,The Heathman Hotel,3,358.4,0
-Portland,The Heathman Hotel,3,358.4,0
-Portland,The Heathman Hotel,3,358.4,0
-Portland,The Heathman Hotel,3,358.4,0
-Portland,The Heathman Hotel,2,328.4,0
-Portland,The Heathman Hotel,4,388.4,0
-Portland,The Heathman Hotel,3,358.4,0
-Portland,The Heathman Hotel,2,328.4,0
-Portland,The Heathman Hotel,3,358.4,0
-Portland,The Society Hotel,3,157.3,0
-Portland,The Society Hotel,2,127.3,0
-Portland,The Society Hotel,2,127.3,0
-Portland,The Society Hotel,2,127.3,0
-Portland,The Society Hotel,2,127.3,0
-Portland,The Society Hotel,3,157.3,0
-Portland,The Society Hotel,2,127.3,0
-Portland,The Society Hotel,2,127.3,0
-Portland,The Society Hotel,3,157.3,0
-Portland,The Society Hotel,2,127.3,0
-Portland,The Mark Spencer Hotel,3,152.6,0
-Portland,The Mark Spencer Hotel,2,122.6,0
-Portland,The Mark Spencer Hotel,2,122.6,0
-Portland,The Mark Spencer Hotel,3,152.6,0
-Portland,The Mark Spencer Hotel,3,152.6,0
-Portland,The Mark Spencer Hotel,3,152.6,0
-Portland,The Mark Spencer Hotel,3,152.6,0
-Portland,The Mark Spencer Hotel,3,152.6,0
-Portland,The Mark Spencer Hotel,2,122.6,0
-Portland,The Mark Spencer Hotel,3,152.6,0
-Oklahoma,Sheraton Oklahoma City Downtown Hotel,3,348.6,0
-Oklahoma,Sheraton Oklahoma City Downtown Hotel,2,318.6,0
-Oklahoma,Sheraton Oklahoma City Downtown Hotel,2,318.6,0
-Oklahoma,Sheraton Oklahoma City Downtown Hotel,3,348.6,0
-Oklahoma,Sheraton Oklahoma City Downtown Hotel,2,318.6,0
-Oklahoma,Sheraton Oklahoma City Downtown Hotel,3,348.6,0
-Oklahoma,Sheraton Oklahoma City Downtown Hotel,2,318.6,0
-Oklahoma,Sheraton Oklahoma City Downtown Hotel,2,318.6,0
-Oklahoma,Sheraton Oklahoma City Downtown Hotel,3,348.6,0
-Oklahoma,Sheraton Oklahoma City Downtown Hotel,2,318.6,0
-Oklahoma,Omni Oklahoma City Hotel,1,297.8,0
-Oklahoma,Omni Oklahoma City Hotel,2,327.8,0
-Oklahoma,Omni Oklahoma City Hotel,2,327.8,0
-Oklahoma,Omni Oklahoma City Hotel,2,327.8,0
-Oklahoma,Omni Oklahoma City Hotel,2,327.8,0
-Oklahoma,Omni Oklahoma City Hotel,2,327.8,0
-Oklahoma,Omni Oklahoma City Hotel,2,327.8,0
-Oklahoma,Omni Oklahoma City Hotel,3,357.8,0
-Oklahoma,Omni Oklahoma City Hotel,3,357.8,0
-Oklahoma,Omni Oklahoma City Hotel,3,357.8,0
-Oklahoma,Hyatt Place Oklahoma City Bricktown,2,139.2,0
-Oklahoma,Hyatt Place Oklahoma City Bricktown,3,169.2,0
-Oklahoma,Hyatt Place Oklahoma City Bricktown,3,169.2,0
-Oklahoma,Hyatt Place Oklahoma City Bricktown,2,139.2,0
-Oklahoma,Hyatt Place Oklahoma City Bricktown,2,139.2,0
-Oklahoma,Hyatt Place Oklahoma City Bricktown,3,169.2,0
-Oklahoma,Hyatt Place Oklahoma City Bricktown,3,169.2,0
-Oklahoma,Hyatt Place Oklahoma City Bricktown,2,139.2,0
-Oklahoma,Hyatt Place Oklahoma City Bricktown,2,139.2,0
-Oklahoma,Hyatt Place Oklahoma City Bricktown,2,139.2,0
-Oklahoma,District Hotel Oklahoma City,3,150.5,0
-Oklahoma,District Hotel Oklahoma City,3,150.5,0
-Oklahoma,District Hotel Oklahoma City,3,150.5,0
-Oklahoma,District Hotel Oklahoma City,2,120.5,0
-Oklahoma,District Hotel Oklahoma City,2,120.5,0
-Oklahoma,District Hotel Oklahoma City,3,150.5,0
-Oklahoma,District Hotel Oklahoma City,4,180.5,0
-Oklahoma,District Hotel Oklahoma City,3,150.5,0
-Oklahoma,District Hotel Oklahoma City,3,150.5,0
-Oklahoma,District Hotel Oklahoma City,3,150.5,0
-Oklahoma,Hyatt Place OKC,3,180.8,0
-Oklahoma,Hyatt Place OKC,3,180.8,0
-Oklahoma,Hyatt Place OKC,2,150.8,0
-Oklahoma,Hyatt Place OKC,2,150.8,0
-Oklahoma,Hyatt Place OKC,1,120.8,0
-Oklahoma,Hyatt Place OKC,3,180.8,0
-Oklahoma,Hyatt Place OKC,3,180.8,0
-Oklahoma,Hyatt Place OKC,2,150.8,0
-Oklahoma,Hyatt Place OKC,2,150.8,0
-Oklahoma,Hyatt Place OKC,2,150.8,0
-Oklahoma,The Douillet,3,178.8,0
-Oklahoma,The Douillet,2,148.8,0
-Oklahoma,The Douillet,2,148.8,0
-Oklahoma,The Douillet,2,148.8,0
-Oklahoma,The Douillet,2,148.8,0
-Oklahoma,The Douillet,3,178.8,0
-Oklahoma,The Douillet,3,178.8,0
-Oklahoma,The Douillet,3,178.8,0
-Oklahoma,The Douillet,2,148.8,0
-Oklahoma,The Douillet,2,148.8,0
-Pittsburgh,Wyndham Grand Pittsburgh,2,337.3,0
-Pittsburgh,Wyndham Grand Pittsburgh,2,337.3,0
-Pittsburgh,Wyndham Grand Pittsburgh,3,367.3,0
-Pittsburgh,Wyndham Grand Pittsburgh,3,367.3,0
-Pittsburgh,Wyndham Grand Pittsburgh,3,367.3,0
-Pittsburgh,Wyndham Grand Pittsburgh,2,337.3,0
-Pittsburgh,Wyndham Grand Pittsburgh,2,337.3,0
-Pittsburgh,Wyndham Grand Pittsburgh,3,367.3,0
-Pittsburgh,Wyndham Grand Pittsburgh,3,367.3,0
-Pittsburgh,Wyndham Grand Pittsburgh,2,337.3,0
-Pittsburgh,Cambria Hotel Pittsburgh,3,363.5,0
-Pittsburgh,Cambria Hotel Pittsburgh,3,363.5,0
-Pittsburgh,Cambria Hotel Pittsburgh,2,333.5,0
-Pittsburgh,Cambria Hotel Pittsburgh,2,333.5,0
-Pittsburgh,Cambria Hotel Pittsburgh,2,333.5,0
-Pittsburgh,Cambria Hotel Pittsburgh,3,363.5,0
-Pittsburgh,Cambria Hotel Pittsburgh,3,363.5,0
-Pittsburgh,Cambria Hotel Pittsburgh,3,363.5,0
-Pittsburgh,Cambria Hotel Pittsburgh,2,333.5,0
-Pittsburgh,Cambria Hotel Pittsburgh,2,333.5,0
-Pittsburgh,Renaissance Pittsburgh Hotel,2,323.6,0
-Pittsburgh,Renaissance Pittsburgh Hotel,2,323.6,0
-Pittsburgh,Renaissance Pittsburgh Hotel,3,353.6,0
-Pittsburgh,Renaissance Pittsburgh Hotel,3,353.6,0
-Pittsburgh,Renaissance Pittsburgh Hotel,2,323.6,0
-Pittsburgh,Renaissance Pittsburgh Hotel,2,323.6,0
-Pittsburgh,Renaissance Pittsburgh Hotel,3,353.6,0
-Pittsburgh,Renaissance Pittsburgh Hotel,2,323.6,0
-Pittsburgh,Renaissance Pittsburgh Hotel,2,323.6,0
-Pittsburgh,Renaissance Pittsburgh Hotel,3,353.6,0
-Pittsburgh,Hotel Indigo Pittsburgh University,2,121.3,0
-Pittsburgh,Hotel Indigo Pittsburgh University,2,121.3,0
-Pittsburgh,Hotel Indigo Pittsburgh University,3,151.3,0
-Pittsburgh,Hotel Indigo Pittsburgh University,3,151.3,0
-Pittsburgh,Hotel Indigo Pittsburgh University,3,151.3,0
-Pittsburgh,Hotel Indigo Pittsburgh University,3,151.3,0
-Pittsburgh,Hotel Indigo Pittsburgh University,2,121.3,0
-Pittsburgh,Hotel Indigo Pittsburgh University,2,121.3,0
-Pittsburgh,Hotel Indigo Pittsburgh University,3,151.3,0
-Pittsburgh,Hotel Indigo Pittsburgh University,2,121.3,0
-Pittsburgh,Sheraton Pittsburgh Hotel,3,168.6,0
-Pittsburgh,Sheraton Pittsburgh Hotel,3,168.6,0
-Pittsburgh,Sheraton Pittsburgh Hotel,3,168.6,0
-Pittsburgh,Sheraton Pittsburgh Hotel,2,138.6,0
-Pittsburgh,Sheraton Pittsburgh Hotel,3,168.6,0
-Pittsburgh,Sheraton Pittsburgh Hotel,2,138.6,0
-Pittsburgh,Sheraton Pittsburgh Hotel,1,108.6,0
-Pittsburgh,Sheraton Pittsburgh Hotel,2,138.6,0
-Pittsburgh,Sheraton Pittsburgh Hotel,3,168.6,0
-Pittsburgh,Sheraton Pittsburgh Hotel,2,138.6,0
-Pittsburgh,Distrikt Hotel Pittsburgh,2,120.4,0
-Pittsburgh,Distrikt Hotel Pittsburgh,2,120.4,0
-Pittsburgh,Distrikt Hotel Pittsburgh,3,150.4,0
-Pittsburgh,Distrikt Hotel Pittsburgh,3,150.4,0
-Pittsburgh,Distrikt Hotel Pittsburgh,3,150.4,0
-Pittsburgh,Distrikt Hotel Pittsburgh,3,150.4,0
-Pittsburgh,Distrikt Hotel Pittsburgh,3,150.4,0
-Pittsburgh,Distrikt Hotel Pittsburgh,3,150.4,0
-Pittsburgh,Distrikt Hotel Pittsburgh,3,150.4,0
-Pittsburgh,Distrikt Hotel Pittsburgh,3,150.4,0
-New York City,Park Lane New York,3,554.7,0
-New York City,Park Lane New York,2,524.7,0
-New York City,Park Lane New York,3,554.7,0
-New York City,Park Lane New York,3,554.7,0
-New York City,Park Lane New York,2,524.7,0
-New York City,Park Lane New York,2,524.7,0
-New York City,Park Lane New York,3,554.7,0
-New York City,Park Lane New York,3,554.7,0
-New York City,Park Lane New York,2,524.7,0
-New York City,Park Lane New York,2,524.7,0
-New York City,11 Howard,3,556.3,0
-New York City,11 Howard,3,556.3,0
-New York City,11 Howard,2,526.3,0
-New York City,11 Howard,3,556.3,0
-New York City,11 Howard,3,556.3,0
-New York City,11 Howard,2,526.3,0
-New York City,11 Howard,3,556.3,0
-New York City,11 Howard,2,526.3,0
-New York City,11 Howard,1,496.3,0
-New York City,11 Howard,3,556.3,0
-New York City,The Frederick Hotel Tribeca,3,568.4,0
-New York City,The Frederick Hotel Tribeca,3,568.4,0
-New York City,The Frederick Hotel Tribeca,3,568.4,0
-New York City,The Frederick Hotel Tribeca,3,568.4,0
-New York City,The Frederick Hotel Tribeca,2,538.4,0
-New York City,The Frederick Hotel Tribeca,2,538.4,0
-New York City,The Frederick Hotel Tribeca,3,568.4,0
-New York City,The Frederick Hotel Tribeca,2,538.4,0
-New York City,The Frederick Hotel Tribeca,3,568.4,0
-New York City,The Frederick Hotel Tribeca,3,568.4,0
-New York City,Empire Hotel,2,318.0,0
-New York City,Empire Hotel,2,318.0,0
-New York City,Empire Hotel,2,318.0,0
-New York City,Empire Hotel,3,348.0,0
-New York City,Empire Hotel,3,348.0,0
-New York City,Empire Hotel,3,348.0,0
-New York City,Empire Hotel,2,318.0,0
-New York City,Empire Hotel,2,318.0,0
-New York City,Empire Hotel,2,318.0,0
-New York City,Empire Hotel,3,348.0,0
-New York City,Hotel Belleclaire Central Park,2,298.3,0
-New York City,Hotel Belleclaire Central Park,3,328.3,0
-New York City,Hotel Belleclaire Central Park,2,298.3,0
-New York City,Hotel Belleclaire Central Park,2,298.3,0
-New York City,Hotel Belleclaire Central Park,2,298.3,0
-New York City,Hotel Belleclaire Central Park,3,328.3,0
-New York City,Hotel Belleclaire Central Park,2,298.3,0
-New York City,Hotel Belleclaire Central Park,2,298.3,0
-New York City,Hotel Belleclaire Central Park,3,328.3,0
-New York City,Hotel Belleclaire Central Park,2,298.3,0
-New York City,West Side YMCA,3,144.3,0
-New York City,West Side YMCA,2,114.3,0
-New York City,West Side YMCA,2,114.3,0
-New York City,West Side YMCA,3,144.3,0
-New York City,West Side YMCA,1,84.3,0
-New York City,West Side YMCA,3,144.3,0
-New York City,West Side YMCA,3,144.3,0
-New York City,West Side YMCA,3,144.3,0
-New York City,West Side YMCA,3,144.3,0
-New York City,West Side YMCA,3,144.3,0
-San Diego,Pendry San Diego,1,507.9,0
-San Diego,Pendry San Diego,2,537.9,0
-San Diego,Pendry San Diego,3,567.9,0
-San Diego,Pendry San Diego,3,567.9,0
-San Diego,Pendry San Diego,3,567.9,0
-San Diego,Pendry San Diego,3,567.9,0
-San Diego,Pendry San Diego,2,537.9,0
-San Diego,Pendry San Diego,3,567.9,0
-San Diego,Pendry San Diego,3,567.9,0
-San Diego,Pendry San Diego,3,567.9,0
-San Diego,Andaz San Diego,3,559.4,0
-San Diego,Andaz San Diego,1,499.4,0
-San Diego,Andaz San Diego,3,559.4,0
-San Diego,Andaz San Diego,1,499.4,0
-San Diego,Andaz San Diego,2,529.4,0
-San Diego,Andaz San Diego,3,559.4,0
-San Diego,Andaz San Diego,2,529.4,0
-San Diego,Andaz San Diego,2,529.4,0
-San Diego,Andaz San Diego,2,529.4,0
-San Diego,Andaz San Diego,3,559.4,0
-San Diego,Hard Rock Hotel San Diego,3,352.3,0
-San Diego,Hard Rock Hotel San Diego,3,352.3,0
-San Diego,Hard Rock Hotel San Diego,3,352.3,0
-San Diego,Hard Rock Hotel San Diego,4,382.3,0
-San Diego,Hard Rock Hotel San Diego,2,322.3,0
-San Diego,Hard Rock Hotel San Diego,3,352.3,0
-San Diego,Hard Rock Hotel San Diego,3,352.3,0
-San Diego,Hard Rock Hotel San Diego,3,352.3,0
-San Diego,Hard Rock Hotel San Diego,2,322.3,0
-San Diego,Hard Rock Hotel San Diego,3,352.3,0
-San Diego,Horton Grand Hotel,3,365.9,0
-San Diego,Horton Grand Hotel,2,335.9,0
-San Diego,Horton Grand Hotel,2,335.9,0
-San Diego,Horton Grand Hotel,2,335.9,0
-San Diego,Horton Grand Hotel,3,365.9,0
-San Diego,Horton Grand Hotel,2,335.9,0
-San Diego,Horton Grand Hotel,3,365.9,0
-San Diego,Horton Grand Hotel,3,365.9,0
-San Diego,Horton Grand Hotel,1,305.9,0
-San Diego,Horton Grand Hotel,2,335.9,0
-San Diego,Kings Inn,2,137.8,0
-San Diego,Kings Inn,2,137.8,0
-San Diego,Kings Inn,3,167.8,0
-San Diego,Kings Inn,3,167.8,0
-San Diego,Kings Inn,2,137.8,0
-San Diego,Kings Inn,3,167.8,0
-San Diego,Kings Inn,3,167.8,0
-San Diego,Kings Inn,1,107.8,0
-San Diego,Kings Inn,3,167.8,0
-San Diego,Kings Inn,3,167.8,0
-San Diego,Porto Vista Hotel,2,137.5,0
-San Diego,Porto Vista Hotel,3,167.5,0
-San Diego,Porto Vista Hotel,2,137.5,0
-San Diego,Porto Vista Hotel,2,137.5,0
-San Diego,Porto Vista Hotel,2,137.5,0
-San Diego,Porto Vista Hotel,2,137.5,0
-San Diego,Porto Vista Hotel,2,137.5,0
-San Diego,Porto Vista Hotel,3,167.5,0
-San Diego,Porto Vista Hotel,3,167.5,0
-San Diego,Porto Vista Hotel,3,167.5,0
-Kansas City,The Fontaine,3,345.4,0
-Kansas City,The Fontaine,3,345.4,0
-Kansas City,The Fontaine,2,315.4,0
-Kansas City,The Fontaine,3,345.4,0
-Kansas City,The Fontaine,3,345.4,0
-Kansas City,The Fontaine,3,345.4,0
-Kansas City,The Fontaine,4,375.4,0
-Kansas City,The Fontaine,1,285.4,0
-Kansas City,The Fontaine,3,345.4,0
-Kansas City,The Fontaine,3,345.4,0
-Kansas City,Loews Kansas City,3,374.4,0
-Kansas City,Loews Kansas City,3,374.4,0
-Kansas City,Loews Kansas City,2,344.4,0
-Kansas City,Loews Kansas City,3,374.4,0
-Kansas City,Loews Kansas City,3,374.4,0
-Kansas City,Loews Kansas City,3,374.4,0
-Kansas City,Loews Kansas City,3,374.4,0
-Kansas City,Loews Kansas City,2,344.4,0
-Kansas City,Loews Kansas City,2,344.4,0
-Kansas City,Loews Kansas City,3,374.4,0
-Kansas City,AC Hotel Kansas City Plaza,3,376.0,0
-Kansas City,AC Hotel Kansas City Plaza,3,376.0,0
-Kansas City,AC Hotel Kansas City Plaza,3,376.0,0
-Kansas City,AC Hotel Kansas City Plaza,3,376.0,0
-Kansas City,AC Hotel Kansas City Plaza,2,346.0,0
-Kansas City,AC Hotel Kansas City Plaza,2,346.0,0
-Kansas City,AC Hotel Kansas City Plaza,3,376.0,0
-Kansas City,AC Hotel Kansas City Plaza,3,376.0,0
-Kansas City,AC Hotel Kansas City Plaza,3,376.0,0
-Kansas City,AC Hotel Kansas City Plaza,3,376.0,0
-Kansas City,Hilton Kansas City Airport,3,157.5,0
-Kansas City,Hilton Kansas City Airport,3,157.5,0
-Kansas City,Hilton Kansas City Airport,2,127.5,0
-Kansas City,Hilton Kansas City Airport,2,127.5,0
-Kansas City,Hilton Kansas City Airport,4,187.5,0
-Kansas City,Hilton Kansas City Airport,3,157.5,0
-Kansas City,Hilton Kansas City Airport,2,127.5,0
-Kansas City,Hilton Kansas City Airport,2,127.5,0
-Kansas City,Hilton Kansas City Airport,2,127.5,0
-Kansas City,Hilton Kansas City Airport,2,127.5,0
-Kansas City,Aloft North Kansas City,3,159.7,0
-Kansas City,Aloft North Kansas City,3,159.7,0
-Kansas City,Aloft North Kansas City,3,159.7,0
-Kansas City,Aloft North Kansas City,2,129.7,0
-Kansas City,Aloft North Kansas City,3,159.7,0
-Kansas City,Aloft North Kansas City,2,129.7,0
-Kansas City,Aloft North Kansas City,3,159.7,0
-Kansas City,Aloft North Kansas City,3,159.7,0
-Kansas City,Aloft North Kansas City,3,159.7,0
-Kansas City,Aloft North Kansas City,3,159.7,0
-Kansas City,Kansas City Airport Marriott,3,171.1,0
-Kansas City,Kansas City Airport Marriott,2,141.1,0
-Kansas City,Kansas City Airport Marriott,3,171.1,0
-Kansas City,Kansas City Airport Marriott,3,171.1,0
-Kansas City,Kansas City Airport Marriott,3,171.1,0
-Kansas City,Kansas City Airport Marriott,2,141.1,0
-Kansas City,Kansas City Airport Marriott,2,141.1,0
-Kansas City,Kansas City Airport Marriott,3,171.1,0
-Kansas City,Kansas City Airport Marriott,3,171.1,0
-Kansas City,Kansas City Airport Marriott,3,171.1,0
-San Antonio,Home2 Suites By Hilton San Antonio,1,503.3,0
-San Antonio,Home2 Suites By Hilton San Antonio,2,533.3,0
-San Antonio,Home2 Suites By Hilton San Antonio,2,533.3,0
-San Antonio,Home2 Suites By Hilton San Antonio,3,563.3,0
-San Antonio,Home2 Suites By Hilton San Antonio,2,533.3,0
-San Antonio,Home2 Suites By Hilton San Antonio,2,533.3,0
-San Antonio,Home2 Suites By Hilton San Antonio,2,533.3,0
-San Antonio,Home2 Suites By Hilton San Antonio,3,563.3,0
-San Antonio,Home2 Suites By Hilton San Antonio,3,563.3,0
-San Antonio,Home2 Suites By Hilton San Antonio,2,533.3,0
-San Antonio,Thompson San Antonio Riverwalk,3,565.3,0
-San Antonio,Thompson San Antonio Riverwalk,3,565.3,0
-San Antonio,Thompson San Antonio Riverwalk,2,535.3,0
-San Antonio,Thompson San Antonio Riverwalk,3,565.3,0
-San Antonio,Thompson San Antonio Riverwalk,2,535.3,0
-San Antonio,Thompson San Antonio Riverwalk,3,565.3,0
-San Antonio,Thompson San Antonio Riverwalk,3,565.3,0
-San Antonio,Thompson San Antonio Riverwalk,2,535.3,0
-San Antonio,Thompson San Antonio Riverwalk,2,535.3,0
-San Antonio,Thompson San Antonio Riverwalk,3,565.3,0
-San Antonio,Hotel Havana,2,329.8,0
-San Antonio,Hotel Havana,4,389.8,0
-San Antonio,Hotel Havana,3,359.8,0
-San Antonio,Hotel Havana,3,359.8,0
-San Antonio,Hotel Havana,3,359.8,0
-San Antonio,Hotel Havana,2,329.8,0
-San Antonio,Hotel Havana,2,329.8,0
-San Antonio,Hotel Havana,2,329.8,0
-San Antonio,Hotel Havana,2,329.8,0
-San Antonio,Hotel Havana,3,359.8,0
-San Antonio,Menger Hotel,3,376.0,0
-San Antonio,Menger Hotel,2,346.0,0
-San Antonio,Menger Hotel,2,346.0,0
-San Antonio,Menger Hotel,2,346.0,0
-San Antonio,Menger Hotel,3,376.0,0
-San Antonio,Menger Hotel,3,376.0,0
-San Antonio,Menger Hotel,2,346.0,0
-San Antonio,Menger Hotel,2,346.0,0
-San Antonio,Menger Hotel,3,376.0,0
-San Antonio,Menger Hotel,2,346.0,0
-San Antonio,Drury Plaza Hotel,3,142.2,0
-San Antonio,Drury Plaza Hotel,2,112.2,0
-San Antonio,Drury Plaza Hotel,2,112.2,0
-San Antonio,Drury Plaza Hotel,2,112.2,0
-San Antonio,Drury Plaza Hotel,2,112.2,0
-San Antonio,Drury Plaza Hotel,3,142.2,0
-San Antonio,Drury Plaza Hotel,3,142.2,0
-San Antonio,Drury Plaza Hotel,2,112.2,0
-San Antonio,Drury Plaza Hotel,3,142.2,0
-San Antonio,Drury Plaza Hotel,2,112.2,0
-San Antonio,Best Western Plus Downtown North,3,171.3,0
-San Antonio,Best Western Plus Downtown North,3,171.3,0
-San Antonio,Best Western Plus Downtown North,2,141.3,0
-San Antonio,Best Western Plus Downtown North,2,141.3,0
-San Antonio,Best Western Plus Downtown North,2,141.3,0
-San Antonio,Best Western Plus Downtown North,3,171.3,0
-San Antonio,Best Western Plus Downtown North,2,141.3,0
-San Antonio,Best Western Plus Downtown North,2,141.3,0
-San Antonio,Best Western Plus Downtown North,3,171.3,0
-San Antonio,Best Western Plus Downtown North,2,141.3,0
-Memphis,Big Cypress Lodge,2,535.0,0
-Memphis,Big Cypress Lodge,3,565.0,0
-Memphis,Big Cypress Lodge,3,565.0,0
-Memphis,Big Cypress Lodge,3,565.0,0
-Memphis,Big Cypress Lodge,2,535.0,0
-Memphis,Big Cypress Lodge,3,565.0,0
-Memphis,Big Cypress Lodge,2,535.0,0
-Memphis,Big Cypress Lodge,2,535.0,0
-Memphis,Big Cypress Lodge,2,535.0,0
-Memphis,Big Cypress Lodge,2,535.0,0
-Memphis,River Inn of Harbor Town,2,535.7,0
-Memphis,River Inn of Harbor Town,3,565.7,0
-Memphis,River Inn of Harbor Town,3,565.7,0
-Memphis,River Inn of Harbor Town,2,535.7,0
-Memphis,River Inn of Harbor Town,3,565.7,0
-Memphis,River Inn of Harbor Town,2,535.7,0
-Memphis,River Inn of Harbor Town,3,565.7,0
-Memphis,River Inn of Harbor Town,3,565.7,0
-Memphis,River Inn of Harbor Town,2,535.7,0
-Memphis,River Inn of Harbor Town,3,565.7,0
-Memphis,ARRIVE Memphis,4,398.6,0
-Memphis,ARRIVE Memphis,3,368.6,0
-Memphis,ARRIVE Memphis,3,368.6,0
-Memphis,ARRIVE Memphis,2,338.6,0
-Memphis,ARRIVE Memphis,2,338.6,0
-Memphis,ARRIVE Memphis,2,338.6,0
-Memphis,ARRIVE Memphis,2,338.6,0
-Memphis,ARRIVE Memphis,3,368.6,0
-Memphis,ARRIVE Memphis,2,338.6,0
-Memphis,ARRIVE Memphis,2,338.6,0
-Memphis,Sheraton Memphis Downtown,3,351.2,0
-Memphis,Sheraton Memphis Downtown,3,351.2,0
-Memphis,Sheraton Memphis Downtown,2,321.2,0
-Memphis,Sheraton Memphis Downtown,3,351.2,0
-Memphis,Sheraton Memphis Downtown,2,321.2,0
-Memphis,Sheraton Memphis Downtown,2,321.2,0
-Memphis,Sheraton Memphis Downtown,2,321.2,0
-Memphis,Sheraton Memphis Downtown,3,351.2,0
-Memphis,Sheraton Memphis Downtown,2,321.2,0
-Memphis,Sheraton Memphis Downtown,2,321.2,0
-Memphis,Comfort Inn Memphis Downtown,2,128.6,0
-Memphis,Comfort Inn Memphis Downtown,2,128.6,0
-Memphis,Comfort Inn Memphis Downtown,2,128.6,0
-Memphis,Comfort Inn Memphis Downtown,3,158.6,0
-Memphis,Comfort Inn Memphis Downtown,4,188.6,0
-Memphis,Comfort Inn Memphis Downtown,2,128.6,0
-Memphis,Comfort Inn Memphis Downtown,2,128.6,0
-Memphis,Comfort Inn Memphis Downtown,3,158.6,0
-Memphis,Comfort Inn Memphis Downtown,3,158.6,0
-Memphis,Comfort Inn Memphis Downtown,2,128.6,0
-Memphis,DoubleTree by Hilton Memphis Downtown,3,164.4,0
-Memphis,DoubleTree by Hilton Memphis Downtown,3,164.4,0
-Memphis,DoubleTree by Hilton Memphis Downtown,3,164.4,0
-Memphis,DoubleTree by Hilton Memphis Downtown,3,164.4,0
-Memphis,DoubleTree by Hilton Memphis Downtown,3,164.4,0
-Memphis,DoubleTree by Hilton Memphis Downtown,2,134.4,0
-Memphis,DoubleTree by Hilton Memphis Downtown,2,134.4,0
-Memphis,DoubleTree by Hilton Memphis Downtown,3,164.4,0
-Memphis,DoubleTree by Hilton Memphis Downtown,2,134.4,0
-Memphis,DoubleTree by Hilton Memphis Downtown,2,134.4,0
-Milwaukee,Cambria Hotel Milwaukee Downtown,2,326.7,0
-Milwaukee,Cambria Hotel Milwaukee Downtown,3,356.7,0
-Milwaukee,Cambria Hotel Milwaukee Downtown,3,356.7,0
-Milwaukee,Cambria Hotel Milwaukee Downtown,2,326.7,0
-Milwaukee,Cambria Hotel Milwaukee Downtown,2,326.7,0
-Milwaukee,Cambria Hotel Milwaukee Downtown,2,326.7,0
-Milwaukee,Cambria Hotel Milwaukee Downtown,2,326.7,0
-Milwaukee,Cambria Hotel Milwaukee Downtown,2,326.7,0
-Milwaukee,Cambria Hotel Milwaukee Downtown,2,326.7,0
-Milwaukee,Cambria Hotel Milwaukee Downtown,2,326.7,0
-Milwaukee,The Pfister Hotel,2,344.2,0
-Milwaukee,The Pfister Hotel,2,344.2,0
-Milwaukee,The Pfister Hotel,1,314.2,0
-Milwaukee,The Pfister Hotel,3,374.2,0
-Milwaukee,The Pfister Hotel,3,374.2,0
-Milwaukee,The Pfister Hotel,2,344.2,0
-Milwaukee,The Pfister Hotel,2,344.2,0
-Milwaukee,The Pfister Hotel,3,374.2,0
-Milwaukee,The Pfister Hotel,3,374.2,0
-Milwaukee,The Pfister Hotel,2,344.2,0
-Milwaukee,Ambassador Hotel,2,339.5,0
-Milwaukee,Ambassador Hotel,3,369.5,0
-Milwaukee,Ambassador Hotel,2,339.5,0
-Milwaukee,Ambassador Hotel,3,369.5,0
-Milwaukee,Ambassador Hotel,3,369.5,0
-Milwaukee,Ambassador Hotel,2,339.5,0
-Milwaukee,Ambassador Hotel,3,369.5,0
-Milwaukee,Ambassador Hotel,3,369.5,0
-Milwaukee,Ambassador Hotel,3,369.5,0
-Milwaukee,Ambassador Hotel,3,369.5,0
-Milwaukee,The Iron Horse Hotel,3,355.6,0
-Milwaukee,The Iron Horse Hotel,4,385.6,0
-Milwaukee,The Iron Horse Hotel,3,355.6,0
-Milwaukee,The Iron Horse Hotel,2,325.6,0
-Milwaukee,The Iron Horse Hotel,3,355.6,0
-Milwaukee,The Iron Horse Hotel,3,355.6,0
-Milwaukee,The Iron Horse Hotel,2,325.6,0
-Milwaukee,The Iron Horse Hotel,2,325.6,0
-Milwaukee,The Iron Horse Hotel,2,325.6,0
-Milwaukee,The Iron Horse Hotel,2,325.6,0
-Milwaukee,The Plaza Hotel,3,170.6,0
-Milwaukee,The Plaza Hotel,3,170.6,0
-Milwaukee,The Plaza Hotel,2,140.6,0
-Milwaukee,The Plaza Hotel,3,170.6,0
-Milwaukee,The Plaza Hotel,3,170.6,0
-Milwaukee,The Plaza Hotel,3,170.6,0
-Milwaukee,The Plaza Hotel,2,140.6,0
-Milwaukee,The Plaza Hotel,2,140.6,0
-Milwaukee,The Plaza Hotel,3,170.6,0
-Milwaukee,The Plaza Hotel,2,140.6,0
-Milwaukee,Clarion Hotel,2,141.5,0
-Milwaukee,Clarion Hotel,3,171.5,0
-Milwaukee,Clarion Hotel,3,171.5,0
-Milwaukee,Clarion Hotel,3,171.5,0
-Milwaukee,Clarion Hotel,3,171.5,0
-Milwaukee,Clarion Hotel,3,171.5,0
-Milwaukee,Clarion Hotel,3,171.5,0
-Milwaukee,Clarion Hotel,3,171.5,0
-Milwaukee,Clarion Hotel,3,171.5,0
-Milwaukee,Clarion Hotel,3,171.5,0
-Atlanta,Thompson Buckhead,2,525.2,0
-Atlanta,Thompson Buckhead,2,525.2,0
-Atlanta,Thompson Buckhead,3,555.2,0
-Atlanta,Thompson Buckhead,2,525.2,0
-Atlanta,Thompson Buckhead,2,525.2,0
-Atlanta,Thompson Buckhead,3,555.2,0
-Atlanta,Thompson Buckhead,2,525.2,0
-Atlanta,Thompson Buckhead,2,525.2,0
-Atlanta,Thompson Buckhead,4,585.2,0
-Atlanta,Thompson Buckhead,2,525.2,0
-Atlanta,The St. Regis Atlanta,2,551.4,0
-Atlanta,The St. Regis Atlanta,2,551.4,0
-Atlanta,The St. Regis Atlanta,4,611.4,0
-Atlanta,The St. Regis Atlanta,3,581.4,0
-Atlanta,The St. Regis Atlanta,2,551.4,0
-Atlanta,The St. Regis Atlanta,2,551.4,0
-Atlanta,The St. Regis Atlanta,3,581.4,0
-Atlanta,The St. Regis Atlanta,3,581.4,0
-Atlanta,The St. Regis Atlanta,2,551.4,0
-Atlanta,The St. Regis Atlanta,3,581.4,0
-Atlanta,JW Marriott Atlanta Buckhead,2,526.2,0
-Atlanta,JW Marriott Atlanta Buckhead,2,526.2,0
-Atlanta,JW Marriott Atlanta Buckhead,2,526.2,0
-Atlanta,JW Marriott Atlanta Buckhead,3,556.2,0
-Atlanta,JW Marriott Atlanta Buckhead,2,526.2,0
-Atlanta,JW Marriott Atlanta Buckhead,2,526.2,0
-Atlanta,JW Marriott Atlanta Buckhead,2,526.2,0
-Atlanta,JW Marriott Atlanta Buckhead,3,556.2,0
-Atlanta,JW Marriott Atlanta Buckhead,3,556.2,0
-Atlanta,JW Marriott Atlanta Buckhead,2,526.2,0
-Atlanta,Reverb by Hard Rock Atlanta Downtown,3,368.1,0
-Atlanta,Reverb by Hard Rock Atlanta Downtown,3,368.1,0
-Atlanta,Reverb by Hard Rock Atlanta Downtown,3,368.1,0
-Atlanta,Reverb by Hard Rock Atlanta Downtown,3,368.1,0
-Atlanta,Reverb by Hard Rock Atlanta Downtown,3,368.1,0
-Atlanta,Reverb by Hard Rock Atlanta Downtown,3,368.1,0
-Atlanta,Reverb by Hard Rock Atlanta Downtown,2,338.1,0
-Atlanta,Reverb by Hard Rock Atlanta Downtown,3,368.1,0
-Atlanta,Reverb by Hard Rock Atlanta Downtown,2,338.1,0
-Atlanta,Reverb by Hard Rock Atlanta Downtown,3,368.1,0
-Atlanta,Hyatt Regency Atlanta,3,340.1,0
-Atlanta,Hyatt Regency Atlanta,2,310.1,0
-Atlanta,Hyatt Regency Atlanta,2,310.1,0
-Atlanta,Hyatt Regency Atlanta,2,310.1,0
-Atlanta,Hyatt Regency Atlanta,2,310.1,0
-Atlanta,Hyatt Regency Atlanta,3,340.1,0
-Atlanta,Hyatt Regency Atlanta,3,340.1,0
-Atlanta,Hyatt Regency Atlanta,2,310.1,0
-Atlanta,Hyatt Regency Atlanta,3,340.1,0
-Atlanta,Hyatt Regency Atlanta,2,310.1,0
-Atlanta,Hampton Inn Atlanta-Buckhead,3,161.5,0
-Atlanta,Hampton Inn Atlanta-Buckhead,3,161.5,0
-Atlanta,Hampton Inn Atlanta-Buckhead,3,161.5,0
-Atlanta,Hampton Inn Atlanta-Buckhead,2,131.5,0
-Atlanta,Hampton Inn Atlanta-Buckhead,3,161.5,0
-Atlanta,Hampton Inn Atlanta-Buckhead,3,161.5,0
-Atlanta,Hampton Inn Atlanta-Buckhead,2,131.5,0
-Atlanta,Hampton Inn Atlanta-Buckhead,3,161.5,0
-Atlanta,Hampton Inn Atlanta-Buckhead,3,161.5,0
-Atlanta,Hampton Inn Atlanta-Buckhead,2,131.5,0
-Charlotte,The Ivey's Hotel,2,529.5,0
-Charlotte,The Ivey's Hotel,3,559.5,0
-Charlotte,The Ivey's Hotel,4,589.5,0
-Charlotte,The Ivey's Hotel,3,559.5,0
-Charlotte,The Ivey's Hotel,2,529.5,0
-Charlotte,The Ivey's Hotel,3,559.5,0
-Charlotte,The Ivey's Hotel,2,529.5,0
-Charlotte,The Ivey's Hotel,2,529.5,0
-Charlotte,The Ivey's Hotel,3,559.5,0
-Charlotte,The Ivey's Hotel,2,529.5,0
-Charlotte,JW Marriott Charlotte,2,538.7,0
-Charlotte,JW Marriott Charlotte,3,568.7,0
-Charlotte,JW Marriott Charlotte,1,508.7,0
-Charlotte,JW Marriott Charlotte,2,538.7,0
-Charlotte,JW Marriott Charlotte,2,538.7,0
-Charlotte,JW Marriott Charlotte,1,508.7,0
-Charlotte,JW Marriott Charlotte,3,568.7,0
-Charlotte,JW Marriott Charlotte,4,598.7,0
-Charlotte,JW Marriott Charlotte,3,568.7,0
-Charlotte,JW Marriott Charlotte,3,568.7,0
-Charlotte,Four Points by Sheraton Charlotte,2,332.5,0
-Charlotte,Four Points by Sheraton Charlotte,2,332.5,0
-Charlotte,Four Points by Sheraton Charlotte,3,362.5,0
-Charlotte,Four Points by Sheraton Charlotte,3,362.5,0
-Charlotte,Four Points by Sheraton Charlotte,2,332.5,0
-Charlotte,Four Points by Sheraton Charlotte,2,332.5,0
-Charlotte,Four Points by Sheraton Charlotte,2,332.5,0
-Charlotte,Four Points by Sheraton Charlotte,3,362.5,0
-Charlotte,Four Points by Sheraton Charlotte,3,362.5,0
-Charlotte,Four Points by Sheraton Charlotte,2,332.5,0
-Charlotte,Kimpton Tryon Park Hotel,3,368.3,0
-Charlotte,Kimpton Tryon Park Hotel,2,338.3,0
-Charlotte,Kimpton Tryon Park Hotel,2,338.3,0
-Charlotte,Kimpton Tryon Park Hotel,3,368.3,0
-Charlotte,Kimpton Tryon Park Hotel,2,338.3,0
-Charlotte,Kimpton Tryon Park Hotel,2,338.3,0
-Charlotte,Kimpton Tryon Park Hotel,3,368.3,0
-Charlotte,Kimpton Tryon Park Hotel,3,368.3,0
-Charlotte,Kimpton Tryon Park Hotel,2,338.3,0
-Charlotte,Kimpton Tryon Park Hotel,3,368.3,0
-Charlotte,Hilton Charlotte Uptown,3,351.1,0
-Charlotte,Hilton Charlotte Uptown,3,351.1,0
-Charlotte,Hilton Charlotte Uptown,3,351.1,0
-Charlotte,Hilton Charlotte Uptown,2,321.1,0
-Charlotte,Hilton Charlotte Uptown,2,321.1,0
-Charlotte,Hilton Charlotte Uptown,2,321.1,0
-Charlotte,Hilton Charlotte Uptown,3,351.1,0
-Charlotte,Hilton Charlotte Uptown,3,351.1,0
-Charlotte,Hilton Charlotte Uptown,3,351.1,0
-Charlotte,Hilton Charlotte Uptown,3,351.1,0
-Charlotte,Radisson Hotel Charlotte Airport,3,146.2,0
-Charlotte,Radisson Hotel Charlotte Airport,3,146.2,0
-Charlotte,Radisson Hotel Charlotte Airport,2,116.2,0
-Charlotte,Radisson Hotel Charlotte Airport,2,116.2,0
-Charlotte,Radisson Hotel Charlotte Airport,2,116.2,0
-Charlotte,Radisson Hotel Charlotte Airport,3,146.2,0
-Charlotte,Radisson Hotel Charlotte Airport,2,116.2,0
-Charlotte,Radisson Hotel Charlotte Airport,3,146.2,0
-Charlotte,Radisson Hotel Charlotte Airport,2,116.2,0
-Charlotte,Radisson Hotel Charlotte Airport,3,146.2,0
+city,hotel_name,beds,daily_price,room_number
+Albany,The Morgan State House,3,365.2,1
+Albany,The Morgan State House,3,365.2,2
+Albany,The Morgan State House,2,335.2,3
+Albany,The Morgan State House,4,395.2,4
+Albany,The Morgan State House,2,335.2,5
+Albany,The Morgan State House,2,335.2,6
+Albany,The Morgan State House,2,335.2,7
+Albany,The Morgan State House,2,335.2,8
+Albany,The Morgan State House,2,335.2,9
+Albany,The Morgan State House,3,365.2,10
+Albany,Crowne Plaza Albany,3,156.8,1
+Albany,Crowne Plaza Albany,3,156.8,2
+Albany,Crowne Plaza Albany,2,126.8,3
+Albany,Crowne Plaza Albany,3,156.8,4
+Albany,Crowne Plaza Albany,3,156.8,5
+Albany,Crowne Plaza Albany,2,126.8,6
+Albany,Crowne Plaza Albany,3,156.8,7
+Albany,Crowne Plaza Albany,3,156.8,8
+Albany,Crowne Plaza Albany,3,156.8,9
+Albany,Crowne Plaza Albany,2,126.8,10
+Albany,Renaissance Albany Hotel,1,305.4,1
+Albany,Renaissance Albany Hotel,3,365.4,2
+Albany,Renaissance Albany Hotel,3,365.4,3
+Albany,Renaissance Albany Hotel,3,365.4,4
+Albany,Renaissance Albany Hotel,3,365.4,5
+Albany,Renaissance Albany Hotel,2,335.4,6
+Albany,Renaissance Albany Hotel,3,365.4,7
+Albany,Renaissance Albany Hotel,2,335.4,8
+Albany,Renaissance Albany Hotel,3,365.4,9
+Albany,Renaissance Albany Hotel,3,365.4,10
+Albany,Hotel Hilton Garden Inn Albany/Suny Area,2,125.2,1
+Albany,Hotel Hilton Garden Inn Albany/Suny Area,2,125.2,2
+Albany,Hotel Hilton Garden Inn Albany/Suny Area,2,125.2,3
+Albany,Hotel Hilton Garden Inn Albany/Suny Area,3,155.2,4
+Albany,Hotel Hilton Garden Inn Albany/Suny Area,2,125.2,5
+Albany,Hotel Hilton Garden Inn Albany/Suny Area,3,155.2,6
+Albany,Hotel Hilton Garden Inn Albany/Suny Area,3,155.2,7
+Albany,Hotel Hilton Garden Inn Albany/Suny Area,2,125.2,8
+Albany,Hotel Hilton Garden Inn Albany/Suny Area,2,125.2,9
+Albany,Hotel Hilton Garden Inn Albany/Suny Area,1,95.2,10
+Albany,Homewood Suites by Hilton Albany,2,530.1,1
+Albany,Homewood Suites by Hilton Albany,3,560.1,2
+Albany,Homewood Suites by Hilton Albany,3,560.1,3
+Albany,Homewood Suites by Hilton Albany,2,530.1,4
+Albany,Homewood Suites by Hilton Albany,2,530.1,5
+Albany,Homewood Suites by Hilton Albany,2,530.1,6
+Albany,Homewood Suites by Hilton Albany,3,560.1,7
+Albany,Homewood Suites by Hilton Albany,3,560.1,8
+Albany,Homewood Suites by Hilton Albany,3,560.1,9
+Albany,Homewood Suites by Hilton Albany,3,560.1,10
+Albany,Hilton Garden Inn Albany Medical Center,3,565.4,1
+Albany,Hilton Garden Inn Albany Medical Center,2,535.4,2
+Albany,Hilton Garden Inn Albany Medical Center,2,535.4,3
+Albany,Hilton Garden Inn Albany Medical Center,2,535.4,4
+Albany,Hilton Garden Inn Albany Medical Center,3,565.4,5
+Albany,Hilton Garden Inn Albany Medical Center,4,595.4,6
+Albany,Hilton Garden Inn Albany Medical Center,2,535.4,7
+Albany,Hilton Garden Inn Albany Medical Center,3,565.4,8
+Albany,Hilton Garden Inn Albany Medical Center,3,565.4,9
+Albany,Hilton Garden Inn Albany Medical Center,3,565.4,10
+Austin,Renaissance Austin Hotel,3,363.9,1
+Austin,Renaissance Austin Hotel,3,363.9,2
+Austin,Renaissance Austin Hotel,3,363.9,3
+Austin,Renaissance Austin Hotel,2,333.9,4
+Austin,Renaissance Austin Hotel,3,363.9,5
+Austin,Renaissance Austin Hotel,3,363.9,6
+Austin,Renaissance Austin Hotel,2,333.9,7
+Austin,Renaissance Austin Hotel,3,363.9,8
+Austin,Renaissance Austin Hotel,2,333.9,9
+Austin,Renaissance Austin Hotel,2,333.9,10
+Austin,W Austin,3,362.5,1
+Austin,W Austin,3,362.5,2
+Austin,W Austin,2,332.5,3
+Austin,W Austin,2,332.5,4
+Austin,W Austin,3,362.5,5
+Austin,W Austin,3,362.5,6
+Austin,W Austin,3,362.5,7
+Austin,W Austin,2,332.5,8
+Austin,W Austin,2,332.5,9
+Austin,W Austin,2,332.5,10
+Austin,DoubleTree Suites,3,168.1,1
+Austin,DoubleTree Suites,2,138.1,2
+Austin,DoubleTree Suites,3,168.1,3
+Austin,DoubleTree Suites,2,138.1,4
+Austin,DoubleTree Suites,2,138.1,5
+Austin,DoubleTree Suites,4,198.1,6
+Austin,DoubleTree Suites,2,138.1,7
+Austin,DoubleTree Suites,3,168.1,8
+Austin,DoubleTree Suites,3,168.1,9
+Austin,DoubleTree Suites,2,138.1,10
+Austin,Hyatt Place Austin Downtown,2,151.2,1
+Austin,Hyatt Place Austin Downtown,3,181.2,2
+Austin,Hyatt Place Austin Downtown,2,151.2,3
+Austin,Hyatt Place Austin Downtown,2,151.2,4
+Austin,Hyatt Place Austin Downtown,2,151.2,5
+Austin,Hyatt Place Austin Downtown,2,151.2,6
+Austin,Hyatt Place Austin Downtown,2,151.2,7
+Austin,Hyatt Place Austin Downtown,3,181.2,8
+Austin,Hyatt Place Austin Downtown,2,151.2,9
+Austin,Hyatt Place Austin Downtown,3,181.2,10
+Austin,Four Seasons Hotel Austin,2,518.2,1
+Austin,Four Seasons Hotel Austin,2,518.2,2
+Austin,Four Seasons Hotel Austin,3,548.2,3
+Austin,Four Seasons Hotel Austin,3,548.2,4
+Austin,Four Seasons Hotel Austin,3,548.2,5
+Austin,Four Seasons Hotel Austin,2,518.2,6
+Austin,Four Seasons Hotel Austin,3,548.2,7
+Austin,Four Seasons Hotel Austin,2,518.2,8
+Austin,Four Seasons Hotel Austin,3,548.2,9
+Austin,Four Seasons Hotel Austin,2,518.2,10
+Austin,Austin Proper Hotel,3,581.6,1
+Austin,Austin Proper Hotel,2,551.6,2
+Austin,Austin Proper Hotel,2,551.6,3
+Austin,Austin Proper Hotel,3,581.6,4
+Austin,Austin Proper Hotel,2,551.6,5
+Austin,Austin Proper Hotel,2,551.6,6
+Austin,Austin Proper Hotel,3,581.6,7
+Austin,Austin Proper Hotel,2,551.6,8
+Austin,Austin Proper Hotel,3,581.6,9
+Austin,Austin Proper Hotel,2,551.6,10
+Los Angeles,The Ritz-Carlton-Los Angeles,2,513.1,1
+Los Angeles,The Ritz-Carlton-Los Angeles,3,543.1,2
+Los Angeles,The Ritz-Carlton-Los Angeles,2,513.1,3
+Los Angeles,The Ritz-Carlton-Los Angeles,1,483.1,4
+Los Angeles,The Ritz-Carlton-Los Angeles,3,543.1,5
+Los Angeles,The Ritz-Carlton-Los Angeles,3,543.1,6
+Los Angeles,The Ritz-Carlton-Los Angeles,2,513.1,7
+Los Angeles,The Ritz-Carlton-Los Angeles,2,513.1,8
+Los Angeles,The Ritz-Carlton-Los Angeles,2,513.1,9
+Los Angeles,The Ritz-Carlton-Los Angeles,3,543.1,10
+Los Angeles,Hotel Bel-Air,2,533.7,1
+Los Angeles,Hotel Bel-Air,3,563.7,2
+Los Angeles,Hotel Bel-Air,2,533.7,3
+Los Angeles,Hotel Bel-Air,3,563.7,4
+Los Angeles,Hotel Bel-Air,3,563.7,5
+Los Angeles,Hotel Bel-Air,2,533.7,6
+Los Angeles,Hotel Bel-Air,1,503.7,7
+Los Angeles,Hotel Bel-Air,3,563.7,8
+Los Angeles,Hotel Bel-Air,2,533.7,9
+Los Angeles,Hotel Bel-Air,2,533.7,10
+Los Angeles,JW Marriott Los Angeles L.A. LIVE,2,328.9,1
+Los Angeles,JW Marriott Los Angeles L.A. LIVE,3,358.9,2
+Los Angeles,JW Marriott Los Angeles L.A. LIVE,2,328.9,3
+Los Angeles,JW Marriott Los Angeles L.A. LIVE,3,358.9,4
+Los Angeles,JW Marriott Los Angeles L.A. LIVE,2,328.9,5
+Los Angeles,JW Marriott Los Angeles L.A. LIVE,2,328.9,6
+Los Angeles,JW Marriott Los Angeles L.A. LIVE,3,358.9,7
+Los Angeles,JW Marriott Los Angeles L.A. LIVE,2,328.9,8
+Los Angeles,JW Marriott Los Angeles L.A. LIVE,3,358.9,9
+Los Angeles,JW Marriott Los Angeles L.A. LIVE,2,328.9,10
+Los Angeles,InterContinental Los Angeles Downtown,2,338.3,1
+Los Angeles,InterContinental Los Angeles Downtown,3,368.3,2
+Los Angeles,InterContinental Los Angeles Downtown,3,368.3,3
+Los Angeles,InterContinental Los Angeles Downtown,2,338.3,4
+Los Angeles,InterContinental Los Angeles Downtown,2,338.3,5
+Los Angeles,InterContinental Los Angeles Downtown,2,338.3,6
+Los Angeles,InterContinental Los Angeles Downtown,3,368.3,7
+Los Angeles,InterContinental Los Angeles Downtown,3,368.3,8
+Los Angeles,InterContinental Los Angeles Downtown,3,368.3,9
+Los Angeles,InterContinental Los Angeles Downtown,2,338.3,10
+Los Angeles,Hotel Mr C Beverly Hills,3,375.9,1
+Los Angeles,Hotel Mr C Beverly Hills,3,375.9,2
+Los Angeles,Hotel Mr C Beverly Hills,3,375.9,3
+Los Angeles,Hotel Mr C Beverly Hills,3,375.9,4
+Los Angeles,Hotel Mr C Beverly Hills,2,345.9,5
+Los Angeles,Hotel Mr C Beverly Hills,2,345.9,6
+Los Angeles,Hotel Mr C Beverly Hills,2,345.9,7
+Los Angeles,Hotel Mr C Beverly Hills,3,375.9,8
+Los Angeles,Hotel Mr C Beverly Hills,2,345.9,9
+Los Angeles,Hotel Mr C Beverly Hills,2,345.9,10
+Los Angeles,Élan Hotel,3,148.0,1
+Los Angeles,Élan Hotel,3,148.0,2
+Los Angeles,Élan Hotel,2,118.0,3
+Los Angeles,Élan Hotel,2,118.0,4
+Los Angeles,Élan Hotel,3,148.0,5
+Los Angeles,Élan Hotel,2,118.0,6
+Los Angeles,Élan Hotel,2,118.0,7
+Los Angeles,Élan Hotel,3,148.0,8
+Los Angeles,Élan Hotel,2,118.0,9
+Los Angeles,Élan Hotel,3,148.0,10
+Salt Lake City,The Grand America Hotel,3,546.3,1
+Salt Lake City,The Grand America Hotel,3,546.3,2
+Salt Lake City,The Grand America Hotel,4,576.3,3
+Salt Lake City,The Grand America Hotel,3,546.3,4
+Salt Lake City,The Grand America Hotel,3,546.3,5
+Salt Lake City,The Grand America Hotel,3,546.3,6
+Salt Lake City,The Grand America Hotel,3,546.3,7
+Salt Lake City,The Grand America Hotel,2,516.3,8
+Salt Lake City,The Grand America Hotel,3,546.3,9
+Salt Lake City,The Grand America Hotel,2,516.3,10
+Salt Lake City,Kimpton Hotel Monaco,2,317.0,1
+Salt Lake City,Kimpton Hotel Monaco,3,347.0,2
+Salt Lake City,Kimpton Hotel Monaco,2,317.0,3
+Salt Lake City,Kimpton Hotel Monaco,3,347.0,4
+Salt Lake City,Kimpton Hotel Monaco,2,317.0,5
+Salt Lake City,Kimpton Hotel Monaco,3,347.0,6
+Salt Lake City,Kimpton Hotel Monaco,3,347.0,7
+Salt Lake City,Kimpton Hotel Monaco,3,347.0,8
+Salt Lake City,Kimpton Hotel Monaco,3,347.0,9
+Salt Lake City,Kimpton Hotel Monaco,3,347.0,10
+Salt Lake City,AC Hotel by Marriott,2,143.6,1
+Salt Lake City,AC Hotel by Marriott,2,143.6,2
+Salt Lake City,AC Hotel by Marriott,2,143.6,3
+Salt Lake City,AC Hotel by Marriott,3,173.6,4
+Salt Lake City,AC Hotel by Marriott,3,173.6,5
+Salt Lake City,AC Hotel by Marriott,2,143.6,6
+Salt Lake City,AC Hotel by Marriott,3,173.6,7
+Salt Lake City,AC Hotel by Marriott,2,143.6,8
+Salt Lake City,AC Hotel by Marriott,2,143.6,9
+Salt Lake City,AC Hotel by Marriott,2,143.6,10
+Salt Lake City,The Little America Hotel,3,364.3,1
+Salt Lake City,The Little America Hotel,2,334.3,2
+Salt Lake City,The Little America Hotel,2,334.3,3
+Salt Lake City,The Little America Hotel,2,334.3,4
+Salt Lake City,The Little America Hotel,2,334.3,5
+Salt Lake City,The Little America Hotel,2,334.3,6
+Salt Lake City,The Little America Hotel,2,334.3,7
+Salt Lake City,The Little America Hotel,2,334.3,8
+Salt Lake City,The Little America Hotel,3,364.3,9
+Salt Lake City,The Little America Hotel,3,364.3,10
+Salt Lake City,Residence Inn by Marriott,3,152.4,1
+Salt Lake City,Residence Inn by Marriott,3,152.4,2
+Salt Lake City,Residence Inn by Marriott,3,152.4,3
+Salt Lake City,Residence Inn by Marriott,2,122.4,4
+Salt Lake City,Residence Inn by Marriott,3,152.4,5
+Salt Lake City,Residence Inn by Marriott,3,152.4,6
+Salt Lake City,Residence Inn by Marriott,2,122.4,7
+Salt Lake City,Residence Inn by Marriott,2,122.4,8
+Salt Lake City,Residence Inn by Marriott,3,152.4,9
+Salt Lake City,Residence Inn by Marriott,2,122.4,10
+Salt Lake City,Hilton Salt Lake City Center,2,314.4,1
+Salt Lake City,Hilton Salt Lake City Center,2,314.4,2
+Salt Lake City,Hilton Salt Lake City Center,3,344.4,3
+Salt Lake City,Hilton Salt Lake City Center,3,344.4,4
+Salt Lake City,Hilton Salt Lake City Center,3,344.4,5
+Salt Lake City,Hilton Salt Lake City Center,3,344.4,6
+Salt Lake City,Hilton Salt Lake City Center,3,344.4,7
+Salt Lake City,Hilton Salt Lake City Center,3,344.4,8
+Salt Lake City,Hilton Salt Lake City Center,2,314.4,9
+Salt Lake City,Hilton Salt Lake City Center,3,344.4,10
+New Orleans,Windsor Court Hotel,3,561.9,1
+New Orleans,Windsor Court Hotel,3,561.9,2
+New Orleans,Windsor Court Hotel,2,531.9,3
+New Orleans,Windsor Court Hotel,4,591.9,4
+New Orleans,Windsor Court Hotel,2,531.9,5
+New Orleans,Windsor Court Hotel,2,531.9,6
+New Orleans,Windsor Court Hotel,3,561.9,7
+New Orleans,Windsor Court Hotel,3,561.9,8
+New Orleans,Windsor Court Hotel,4,591.9,9
+New Orleans,Windsor Court Hotel,1,501.9,10
+New Orleans,Nopsi Hotel,2,542.9,1
+New Orleans,Nopsi Hotel,3,572.9,2
+New Orleans,Nopsi Hotel,3,572.9,3
+New Orleans,Nopsi Hotel,2,542.9,4
+New Orleans,Nopsi Hotel,3,572.9,5
+New Orleans,Nopsi Hotel,3,572.9,6
+New Orleans,Nopsi Hotel,2,542.9,7
+New Orleans,Nopsi Hotel,3,572.9,8
+New Orleans,Nopsi Hotel,2,542.9,9
+New Orleans,Nopsi Hotel,2,542.9,10
+New Orleans,Blake Hotel New Orleans,2,337.8,1
+New Orleans,Blake Hotel New Orleans,3,367.8,2
+New Orleans,Blake Hotel New Orleans,2,337.8,3
+New Orleans,Blake Hotel New Orleans,3,367.8,4
+New Orleans,Blake Hotel New Orleans,2,337.8,5
+New Orleans,Blake Hotel New Orleans,2,337.8,6
+New Orleans,Blake Hotel New Orleans,2,337.8,7
+New Orleans,Blake Hotel New Orleans,3,367.8,8
+New Orleans,Blake Hotel New Orleans,2,337.8,9
+New Orleans,Blake Hotel New Orleans,2,337.8,10
+New Orleans,Holiday Inn New Orleans-Downtown Superdome,2,325.7,1
+New Orleans,Holiday Inn New Orleans-Downtown Superdome,2,325.7,2
+New Orleans,Holiday Inn New Orleans-Downtown Superdome,2,325.7,3
+New Orleans,Holiday Inn New Orleans-Downtown Superdome,3,355.7,4
+New Orleans,Holiday Inn New Orleans-Downtown Superdome,3,355.7,5
+New Orleans,Holiday Inn New Orleans-Downtown Superdome,2,325.7,6
+New Orleans,Holiday Inn New Orleans-Downtown Superdome,2,325.7,7
+New Orleans,Holiday Inn New Orleans-Downtown Superdome,2,325.7,8
+New Orleans,Holiday Inn New Orleans-Downtown Superdome,3,355.7,9
+New Orleans,Holiday Inn New Orleans-Downtown Superdome,3,355.7,10
+New Orleans,Four Points by Sheraton French Quarter,2,330.8,1
+New Orleans,Four Points by Sheraton French Quarter,2,330.8,2
+New Orleans,Four Points by Sheraton French Quarter,3,360.8,3
+New Orleans,Four Points by Sheraton French Quarter,3,360.8,4
+New Orleans,Four Points by Sheraton French Quarter,3,360.8,5
+New Orleans,Four Points by Sheraton French Quarter,3,360.8,6
+New Orleans,Four Points by Sheraton French Quarter,2,330.8,7
+New Orleans,Four Points by Sheraton French Quarter,3,360.8,8
+New Orleans,Four Points by Sheraton French Quarter,3,360.8,9
+New Orleans,Four Points by Sheraton French Quarter,3,360.8,10
+New Orleans,Brent House Hotel,2,118.2,1
+New Orleans,Brent House Hotel,1,88.2,2
+New Orleans,Brent House Hotel,3,148.2,3
+New Orleans,Brent House Hotel,3,148.2,4
+New Orleans,Brent House Hotel,3,148.2,5
+New Orleans,Brent House Hotel,3,148.2,6
+New Orleans,Brent House Hotel,2,118.2,7
+New Orleans,Brent House Hotel,2,118.2,8
+New Orleans,Brent House Hotel,2,118.2,9
+New Orleans,Brent House Hotel,3,148.2,10
+Washington,The Dupont Circle Hotel,3,559.8,1
+Washington,The Dupont Circle Hotel,3,559.8,2
+Washington,The Dupont Circle Hotel,3,559.8,3
+Washington,The Dupont Circle Hotel,3,559.8,4
+Washington,The Dupont Circle Hotel,2,529.8,5
+Washington,The Dupont Circle Hotel,3,559.8,6
+Washington,The Dupont Circle Hotel,3,559.8,7
+Washington,The Dupont Circle Hotel,3,559.8,8
+Washington,The Dupont Circle Hotel,3,559.8,9
+Washington,The Dupont Circle Hotel,2,529.8,10
+Washington,The Mayflower Hotel,3,564.4,1
+Washington,The Mayflower Hotel,3,564.4,2
+Washington,The Mayflower Hotel,2,534.4,3
+Washington,The Mayflower Hotel,3,564.4,4
+Washington,The Mayflower Hotel,3,564.4,5
+Washington,The Mayflower Hotel,2,534.4,6
+Washington,The Mayflower Hotel,3,564.4,7
+Washington,The Mayflower Hotel,2,534.4,8
+Washington,The Mayflower Hotel,2,534.4,9
+Washington,The Mayflower Hotel,3,564.4,10
+Washington,Hyatt Regency Washington,2,323.3,1
+Washington,Hyatt Regency Washington,3,353.3,2
+Washington,Hyatt Regency Washington,2,323.3,3
+Washington,Hyatt Regency Washington,4,383.3,4
+Washington,Hyatt Regency Washington,2,323.3,5
+Washington,Hyatt Regency Washington,2,323.3,6
+Washington,Hyatt Regency Washington,3,353.3,7
+Washington,Hyatt Regency Washington,2,323.3,8
+Washington,Hyatt Regency Washington,2,323.3,9
+Washington,Hyatt Regency Washington,3,353.3,10
+Washington,Glover Park Hotel,3,374.8,1
+Washington,Glover Park Hotel,3,374.8,2
+Washington,Glover Park Hotel,3,374.8,3
+Washington,Glover Park Hotel,2,344.8,4
+Washington,Glover Park Hotel,2,344.8,5
+Washington,Glover Park Hotel,3,374.8,6
+Washington,Glover Park Hotel,3,374.8,7
+Washington,Glover Park Hotel,2,344.8,8
+Washington,Glover Park Hotel,2,344.8,9
+Washington,Glover Park Hotel,3,374.8,10
+Washington,Courtyard by Marriott,3,130.7,1
+Washington,Courtyard by Marriott,2,100.7,2
+Washington,Courtyard by Marriott,3,130.7,3
+Washington,Courtyard by Marriott,3,130.7,4
+Washington,Courtyard by Marriott,2,100.7,5
+Washington,Courtyard by Marriott,2,100.7,6
+Washington,Courtyard by Marriott,3,130.7,7
+Washington,Courtyard by Marriott,2,100.7,8
+Washington,Courtyard by Marriott,2,100.7,9
+Washington,Courtyard by Marriott,3,130.7,10
+Washington,Wyndham Garden,2,136.9,1
+Washington,Wyndham Garden,3,166.9,2
+Washington,Wyndham Garden,2,136.9,3
+Washington,Wyndham Garden,2,136.9,4
+Washington,Wyndham Garden,3,166.9,5
+Washington,Wyndham Garden,3,166.9,6
+Washington,Wyndham Garden,3,166.9,7
+Washington,Wyndham Garden,3,166.9,8
+Washington,Wyndham Garden,3,166.9,9
+Washington,Wyndham Garden,2,136.9,10
+Minneapolis,The Chambers Hotel,2,530.7,1
+Minneapolis,The Chambers Hotel,3,560.7,2
+Minneapolis,The Chambers Hotel,2,530.7,3
+Minneapolis,The Chambers Hotel,3,560.7,4
+Minneapolis,The Chambers Hotel,3,560.7,5
+Minneapolis,The Chambers Hotel,2,530.7,6
+Minneapolis,The Chambers Hotel,3,560.7,7
+Minneapolis,The Chambers Hotel,3,560.7,8
+Minneapolis,The Chambers Hotel,3,560.7,9
+Minneapolis,The Chambers Hotel,3,560.7,10
+Minneapolis,Royal Sonesta,3,584.4,1
+Minneapolis,Royal Sonesta,2,554.4,2
+Minneapolis,Royal Sonesta,3,584.4,3
+Minneapolis,Royal Sonesta,2,554.4,4
+Minneapolis,Royal Sonesta,2,554.4,5
+Minneapolis,Royal Sonesta,3,584.4,6
+Minneapolis,Royal Sonesta,2,554.4,7
+Minneapolis,Royal Sonesta,2,554.4,8
+Minneapolis,Royal Sonesta,2,554.4,9
+Minneapolis,Royal Sonesta,2,554.4,10
+Minneapolis,Millennium Minneapolis,3,366.8,1
+Minneapolis,Millennium Minneapolis,1,306.8,2
+Minneapolis,Millennium Minneapolis,2,336.8,3
+Minneapolis,Millennium Minneapolis,3,366.8,4
+Minneapolis,Millennium Minneapolis,2,336.8,5
+Minneapolis,Millennium Minneapolis,4,396.8,6
+Minneapolis,Millennium Minneapolis,3,366.8,7
+Minneapolis,Millennium Minneapolis,2,336.8,8
+Minneapolis,Millennium Minneapolis,2,336.8,9
+Minneapolis,Millennium Minneapolis,2,336.8,10
+Minneapolis,InterContinental St. Paul Riverfront,3,369.5,1
+Minneapolis,InterContinental St. Paul Riverfront,2,339.5,2
+Minneapolis,InterContinental St. Paul Riverfront,3,369.5,3
+Minneapolis,InterContinental St. Paul Riverfront,2,339.5,4
+Minneapolis,InterContinental St. Paul Riverfront,2,339.5,5
+Minneapolis,InterContinental St. Paul Riverfront,2,339.5,6
+Minneapolis,InterContinental St. Paul Riverfront,2,339.5,7
+Minneapolis,InterContinental St. Paul Riverfront,3,369.5,8
+Minneapolis,InterContinental St. Paul Riverfront,3,369.5,9
+Minneapolis,InterContinental St. Paul Riverfront,1,309.5,10
+Minneapolis,Embassy Suites Minneapolis,2,134.3,1
+Minneapolis,Embassy Suites Minneapolis,2,134.3,2
+Minneapolis,Embassy Suites Minneapolis,2,134.3,3
+Minneapolis,Embassy Suites Minneapolis,2,134.3,4
+Minneapolis,Embassy Suites Minneapolis,3,164.3,5
+Minneapolis,Embassy Suites Minneapolis,2,134.3,6
+Minneapolis,Embassy Suites Minneapolis,2,134.3,7
+Minneapolis,Embassy Suites Minneapolis,3,164.3,8
+Minneapolis,Embassy Suites Minneapolis,3,164.3,9
+Minneapolis,Embassy Suites Minneapolis,3,164.3,10
+Minneapolis,Hyatt Place Minneapolis,2,139.9,1
+Minneapolis,Hyatt Place Minneapolis,2,139.9,2
+Minneapolis,Hyatt Place Minneapolis,4,199.9,3
+Minneapolis,Hyatt Place Minneapolis,3,169.9,4
+Minneapolis,Hyatt Place Minneapolis,2,139.9,5
+Minneapolis,Hyatt Place Minneapolis,3,169.9,6
+Minneapolis,Hyatt Place Minneapolis,2,139.9,7
+Minneapolis,Hyatt Place Minneapolis,3,169.9,8
+Minneapolis,Hyatt Place Minneapolis,2,139.9,9
+Minneapolis,Hyatt Place Minneapolis,3,169.9,10
+Miami,Acqualina Resort and Residences,2,519.8,1
+Miami,Acqualina Resort and Residences,2,519.8,2
+Miami,Acqualina Resort and Residences,2,519.8,3
+Miami,Acqualina Resort and Residences,2,519.8,4
+Miami,Acqualina Resort and Residences,2,519.8,5
+Miami,Acqualina Resort and Residences,2,519.8,6
+Miami,Acqualina Resort and Residences,2,519.8,7
+Miami,Acqualina Resort and Residences,3,549.8,8
+Miami,Acqualina Resort and Residences,2,519.8,9
+Miami,Acqualina Resort and Residences,3,549.8,10
+Miami,The Betsy Hotel,2,542.1,1
+Miami,The Betsy Hotel,2,542.1,2
+Miami,The Betsy Hotel,3,572.1,3
+Miami,The Betsy Hotel,1,512.1,4
+Miami,The Betsy Hotel,3,572.1,5
+Miami,The Betsy Hotel,3,572.1,6
+Miami,The Betsy Hotel,2,542.1,7
+Miami,The Betsy Hotel,3,572.1,8
+Miami,The Betsy Hotel,3,572.1,9
+Miami,The Betsy Hotel,2,542.1,10
+Miami,Eurostars Langford,2,328.9,1
+Miami,Eurostars Langford,2,328.9,2
+Miami,Eurostars Langford,2,328.9,3
+Miami,Eurostars Langford,2,328.9,4
+Miami,Eurostars Langford,2,328.9,5
+Miami,Eurostars Langford,3,358.9,6
+Miami,Eurostars Langford,2,328.9,7
+Miami,Eurostars Langford,2,328.9,8
+Miami,Eurostars Langford,3,358.9,9
+Miami,Eurostars Langford,2,328.9,10
+Miami,Miami Marriott Dadeland,3,349.7,1
+Miami,Miami Marriott Dadeland,2,319.7,2
+Miami,Miami Marriott Dadeland,2,319.7,3
+Miami,Miami Marriott Dadeland,2,319.7,4
+Miami,Miami Marriott Dadeland,3,349.7,5
+Miami,Miami Marriott Dadeland,2,319.7,6
+Miami,Miami Marriott Dadeland,2,319.7,7
+Miami,Miami Marriott Dadeland,3,349.7,8
+Miami,Miami Marriott Dadeland,2,319.7,9
+Miami,Miami Marriott Dadeland,3,349.7,10
+Miami,Hyatt Regency Miami,3,167.0,1
+Miami,Hyatt Regency Miami,3,167.0,2
+Miami,Hyatt Regency Miami,2,137.0,3
+Miami,Hyatt Regency Miami,3,167.0,4
+Miami,Hyatt Regency Miami,2,137.0,5
+Miami,Hyatt Regency Miami,2,137.0,6
+Miami,Hyatt Regency Miami,2,137.0,7
+Miami,Hyatt Regency Miami,3,167.0,8
+Miami,Hyatt Regency Miami,3,167.0,9
+Miami,Hyatt Regency Miami,1,107.0,10
+Miami,THesis Hotel Miami,2,120.1,1
+Miami,THesis Hotel Miami,2,120.1,2
+Miami,THesis Hotel Miami,2,120.1,3
+Miami,THesis Hotel Miami,2,120.1,4
+Miami,THesis Hotel Miami,3,150.1,5
+Miami,THesis Hotel Miami,2,120.1,6
+Miami,THesis Hotel Miami,3,150.1,7
+Miami,THesis Hotel Miami,2,120.1,8
+Miami,THesis Hotel Miami,2,120.1,9
+Miami,THesis Hotel Miami,2,120.1,10
+El Paso,Hotel Paso Del Norte,2,333.8,1
+El Paso,Hotel Paso Del Norte,2,333.8,2
+El Paso,Hotel Paso Del Norte,3,363.8,3
+El Paso,Hotel Paso Del Norte,2,333.8,4
+El Paso,Hotel Paso Del Norte,3,363.8,5
+El Paso,Hotel Paso Del Norte,2,333.8,6
+El Paso,Hotel Paso Del Norte,2,333.8,7
+El Paso,Hotel Paso Del Norte,2,333.8,8
+El Paso,Hotel Paso Del Norte,3,363.8,9
+El Paso,Hotel Paso Del Norte,2,333.8,10
+El Paso,Stanton House El Paso,3,352.7,1
+El Paso,Stanton House El Paso,3,352.7,2
+El Paso,Stanton House El Paso,2,322.7,3
+El Paso,Stanton House El Paso,3,352.7,4
+El Paso,Stanton House El Paso,3,352.7,5
+El Paso,Stanton House El Paso,2,322.7,6
+El Paso,Stanton House El Paso,3,352.7,7
+El Paso,Stanton House El Paso,4,382.7,8
+El Paso,Stanton House El Paso,2,322.7,9
+El Paso,Stanton House El Paso,3,352.7,10
+El Paso,The Plaza Hotel Pioneer Park,3,352.8,1
+El Paso,The Plaza Hotel Pioneer Park,3,352.8,2
+El Paso,The Plaza Hotel Pioneer Park,3,352.8,3
+El Paso,The Plaza Hotel Pioneer Park,2,322.8,4
+El Paso,The Plaza Hotel Pioneer Park,3,352.8,5
+El Paso,The Plaza Hotel Pioneer Park,3,352.8,6
+El Paso,The Plaza Hotel Pioneer Park,3,352.8,7
+El Paso,The Plaza Hotel Pioneer Park,2,322.8,8
+El Paso,The Plaza Hotel Pioneer Park,1,292.8,9
+El Paso,The Plaza Hotel Pioneer Park,3,352.8,10
+El Paso,Hilton Garden Inn El Paso University,3,165.4,1
+El Paso,Hilton Garden Inn El Paso University,3,165.4,2
+El Paso,Hilton Garden Inn El Paso University,3,165.4,3
+El Paso,Hilton Garden Inn El Paso University,2,135.4,4
+El Paso,Hilton Garden Inn El Paso University,2,135.4,5
+El Paso,Hilton Garden Inn El Paso University,2,135.4,6
+El Paso,Hilton Garden Inn El Paso University,2,135.4,7
+El Paso,Hilton Garden Inn El Paso University,2,135.4,8
+El Paso,Hilton Garden Inn El Paso University,3,165.4,9
+El Paso,Hilton Garden Inn El Paso University,2,135.4,10
+El Paso,Hawthorn Suites,2,140.9,1
+El Paso,Hawthorn Suites,3,170.9,2
+El Paso,Hawthorn Suites,2,140.9,3
+El Paso,Hawthorn Suites,3,170.9,4
+El Paso,Hawthorn Suites,2,140.9,5
+El Paso,Hawthorn Suites,3,170.9,6
+El Paso,Hawthorn Suites,3,170.9,7
+El Paso,Hawthorn Suites,2,140.9,8
+El Paso,Hawthorn Suites,3,170.9,9
+El Paso,Hawthorn Suites,2,140.9,10
+El Paso,Quality Suites University,3,165.4,1
+El Paso,Quality Suites University,2,135.4,2
+El Paso,Quality Suites University,3,165.4,3
+El Paso,Quality Suites University,3,165.4,4
+El Paso,Quality Suites University,3,165.4,5
+El Paso,Quality Suites University,3,165.4,6
+El Paso,Quality Suites University,3,165.4,7
+El Paso,Quality Suites University,2,135.4,8
+El Paso,Quality Suites University,2,135.4,9
+El Paso,Quality Suites University,3,165.4,10
+Phoenix,Renaissance Phoenix Downtown Hotel,3,581.4,1
+Phoenix,Renaissance Phoenix Downtown Hotel,3,581.4,2
+Phoenix,Renaissance Phoenix Downtown Hotel,2,551.4,3
+Phoenix,Renaissance Phoenix Downtown Hotel,3,581.4,4
+Phoenix,Renaissance Phoenix Downtown Hotel,2,551.4,5
+Phoenix,Renaissance Phoenix Downtown Hotel,3,581.4,6
+Phoenix,Renaissance Phoenix Downtown Hotel,2,551.4,7
+Phoenix,Renaissance Phoenix Downtown Hotel,4,611.4,8
+Phoenix,Renaissance Phoenix Downtown Hotel,3,581.4,9
+Phoenix,Renaissance Phoenix Downtown Hotel,2,551.4,10
+Phoenix,The Phoenician,2,551.9,1
+Phoenix,The Phoenician,3,581.9,2
+Phoenix,The Phoenician,3,581.9,3
+Phoenix,The Phoenician,3,581.9,4
+Phoenix,The Phoenician,3,581.9,5
+Phoenix,The Phoenician,3,581.9,6
+Phoenix,The Phoenician,3,581.9,7
+Phoenix,The Phoenician,3,581.9,8
+Phoenix,The Phoenician,3,581.9,9
+Phoenix,The Phoenician,3,581.9,10
+Phoenix,Embassy Suites Phoenix,2,342.5,1
+Phoenix,Embassy Suites Phoenix,3,372.5,2
+Phoenix,Embassy Suites Phoenix,2,342.5,3
+Phoenix,Embassy Suites Phoenix,2,342.5,4
+Phoenix,Embassy Suites Phoenix,2,342.5,5
+Phoenix,Embassy Suites Phoenix,3,372.5,6
+Phoenix,Embassy Suites Phoenix,3,372.5,7
+Phoenix,Embassy Suites Phoenix,2,342.5,8
+Phoenix,Embassy Suites Phoenix,2,342.5,9
+Phoenix,Embassy Suites Phoenix,2,342.5,10
+Phoenix,The Hermosa Inn,3,353.5,1
+Phoenix,The Hermosa Inn,3,353.5,2
+Phoenix,The Hermosa Inn,3,353.5,3
+Phoenix,The Hermosa Inn,2,323.5,4
+Phoenix,The Hermosa Inn,2,323.5,5
+Phoenix,The Hermosa Inn,3,353.5,6
+Phoenix,The Hermosa Inn,2,323.5,7
+Phoenix,The Hermosa Inn,3,353.5,8
+Phoenix,The Hermosa Inn,3,353.5,9
+Phoenix,The Hermosa Inn,3,353.5,10
+Phoenix,Aloft Phoenix Airport,3,172.2,1
+Phoenix,Aloft Phoenix Airport,2,142.2,2
+Phoenix,Aloft Phoenix Airport,2,142.2,3
+Phoenix,Aloft Phoenix Airport,2,142.2,4
+Phoenix,Aloft Phoenix Airport,2,142.2,5
+Phoenix,Aloft Phoenix Airport,2,142.2,6
+Phoenix,Aloft Phoenix Airport,2,142.2,7
+Phoenix,Aloft Phoenix Airport,2,142.2,8
+Phoenix,Aloft Phoenix Airport,2,142.2,9
+Phoenix,Aloft Phoenix Airport,2,142.2,10
+Phoenix,La Quinta Inn,3,159.7,1
+Phoenix,La Quinta Inn,3,159.7,2
+Phoenix,La Quinta Inn,3,159.7,3
+Phoenix,La Quinta Inn,3,159.7,4
+Phoenix,La Quinta Inn,3,159.7,5
+Phoenix,La Quinta Inn,3,159.7,6
+Phoenix,La Quinta Inn,3,159.7,7
+Phoenix,La Quinta Inn,3,159.7,8
+Phoenix,La Quinta Inn,2,129.7,9
+Phoenix,La Quinta Inn,3,159.7,10
+Philadelphia,The Rittenhouse Hotel,3,550.2,1
+Philadelphia,The Rittenhouse Hotel,3,550.2,2
+Philadelphia,The Rittenhouse Hotel,2,520.2,3
+Philadelphia,The Rittenhouse Hotel,2,520.2,4
+Philadelphia,The Rittenhouse Hotel,3,550.2,5
+Philadelphia,The Rittenhouse Hotel,2,520.2,6
+Philadelphia,The Rittenhouse Hotel,3,550.2,7
+Philadelphia,The Rittenhouse Hotel,2,520.2,8
+Philadelphia,The Rittenhouse Hotel,2,520.2,9
+Philadelphia,The Rittenhouse Hotel,3,550.2,10
+Philadelphia,Four Seasons Hotel Philadelphia,3,562.2,1
+Philadelphia,Four Seasons Hotel Philadelphia,3,562.2,2
+Philadelphia,Four Seasons Hotel Philadelphia,3,562.2,3
+Philadelphia,Four Seasons Hotel Philadelphia,3,562.2,4
+Philadelphia,Four Seasons Hotel Philadelphia,3,562.2,5
+Philadelphia,Four Seasons Hotel Philadelphia,4,592.2,6
+Philadelphia,Four Seasons Hotel Philadelphia,2,532.2,7
+Philadelphia,Four Seasons Hotel Philadelphia,3,562.2,8
+Philadelphia,Four Seasons Hotel Philadelphia,2,532.2,9
+Philadelphia,Four Seasons Hotel Philadelphia,3,562.2,10
+Philadelphia,Philadelphia Marriott Downtown,3,364.2,1
+Philadelphia,Philadelphia Marriott Downtown,2,334.2,2
+Philadelphia,Philadelphia Marriott Downtown,3,364.2,3
+Philadelphia,Philadelphia Marriott Downtown,3,364.2,4
+Philadelphia,Philadelphia Marriott Downtown,3,364.2,5
+Philadelphia,Philadelphia Marriott Downtown,2,334.2,6
+Philadelphia,Philadelphia Marriott Downtown,3,364.2,7
+Philadelphia,Philadelphia Marriott Downtown,2,334.2,8
+Philadelphia,Philadelphia Marriott Downtown,3,364.2,9
+Philadelphia,Philadelphia Marriott Downtown,3,364.2,10
+Philadelphia,The Inn at Penn,2,345.1,1
+Philadelphia,The Inn at Penn,2,345.1,2
+Philadelphia,The Inn at Penn,2,345.1,3
+Philadelphia,The Inn at Penn,2,345.1,4
+Philadelphia,The Inn at Penn,3,375.1,5
+Philadelphia,The Inn at Penn,3,375.1,6
+Philadelphia,The Inn at Penn,3,375.1,7
+Philadelphia,The Inn at Penn,3,375.1,8
+Philadelphia,The Inn at Penn,3,375.1,9
+Philadelphia,The Inn at Penn,2,345.1,10
+Philadelphia,Radisson Hotel Philadelphia,3,163.1,1
+Philadelphia,Radisson Hotel Philadelphia,2,133.1,2
+Philadelphia,Radisson Hotel Philadelphia,3,163.1,3
+Philadelphia,Radisson Hotel Philadelphia,2,133.1,4
+Philadelphia,Radisson Hotel Philadelphia,3,163.1,5
+Philadelphia,Radisson Hotel Philadelphia,3,163.1,6
+Philadelphia,Radisson Hotel Philadelphia,2,133.1,7
+Philadelphia,Radisson Hotel Philadelphia,2,133.1,8
+Philadelphia,Radisson Hotel Philadelphia,2,133.1,9
+Philadelphia,Radisson Hotel Philadelphia,3,163.1,10
+Philadelphia,The Maj Hotel,3,171.3,1
+Philadelphia,The Maj Hotel,2,141.3,2
+Philadelphia,The Maj Hotel,3,171.3,3
+Philadelphia,The Maj Hotel,3,171.3,4
+Philadelphia,The Maj Hotel,2,141.3,5
+Philadelphia,The Maj Hotel,2,141.3,6
+Philadelphia,The Maj Hotel,3,171.3,7
+Philadelphia,The Maj Hotel,2,141.3,8
+Philadelphia,The Maj Hotel,3,171.3,9
+Philadelphia,The Maj Hotel,3,171.3,10
+Detroit,MGM Grand Detroit,3,563.9,1
+Detroit,MGM Grand Detroit,2,533.9,2
+Detroit,MGM Grand Detroit,3,563.9,3
+Detroit,MGM Grand Detroit,1,503.9,4
+Detroit,MGM Grand Detroit,2,533.9,5
+Detroit,MGM Grand Detroit,2,533.9,6
+Detroit,MGM Grand Detroit,3,563.9,7
+Detroit,MGM Grand Detroit,3,563.9,8
+Detroit,MGM Grand Detroit,3,563.9,9
+Detroit,MGM Grand Detroit,2,533.9,10
+Detroit,The Siren Hotel,2,326.6,1
+Detroit,The Siren Hotel,2,326.6,2
+Detroit,The Siren Hotel,3,356.6,3
+Detroit,The Siren Hotel,3,356.6,4
+Detroit,The Siren Hotel,3,356.6,5
+Detroit,The Siren Hotel,3,356.6,6
+Detroit,The Siren Hotel,3,356.6,7
+Detroit,The Siren Hotel,3,356.6,8
+Detroit,The Siren Hotel,2,326.6,9
+Detroit,The Siren Hotel,2,326.6,10
+Detroit,Detroit Foundation Hotel,2,333.0,1
+Detroit,Detroit Foundation Hotel,3,363.0,2
+Detroit,Detroit Foundation Hotel,3,363.0,3
+Detroit,Detroit Foundation Hotel,2,333.0,4
+Detroit,Detroit Foundation Hotel,3,363.0,5
+Detroit,Detroit Foundation Hotel,2,333.0,6
+Detroit,Detroit Foundation Hotel,2,333.0,7
+Detroit,Detroit Foundation Hotel,3,363.0,8
+Detroit,Detroit Foundation Hotel,2,333.0,9
+Detroit,Detroit Foundation Hotel,3,363.0,10
+Detroit,Atheneum Suite Hotel,3,171.6,1
+Detroit,Atheneum Suite Hotel,2,141.6,2
+Detroit,Atheneum Suite Hotel,3,171.6,3
+Detroit,Atheneum Suite Hotel,2,141.6,4
+Detroit,Atheneum Suite Hotel,3,171.6,5
+Detroit,Atheneum Suite Hotel,3,171.6,6
+Detroit,Atheneum Suite Hotel,3,171.6,7
+Detroit,Atheneum Suite Hotel,3,171.6,8
+Detroit,Atheneum Suite Hotel,2,141.6,9
+Detroit,Atheneum Suite Hotel,3,171.6,10
+Detroit,Hotel Indigo,3,152.6,1
+Detroit,Hotel Indigo,3,152.6,2
+Detroit,Hotel Indigo,3,152.6,3
+Detroit,Hotel Indigo,3,152.6,4
+Detroit,Hotel Indigo,3,152.6,5
+Detroit,Hotel Indigo,3,152.6,6
+Detroit,Hotel Indigo,3,152.6,7
+Detroit,Hotel Indigo,3,152.6,8
+Detroit,Hotel Indigo,3,152.6,9
+Detroit,Hotel Indigo,2,122.6,10
+Detroit,Hollywood Casino at Greektown,3,178.9,1
+Detroit,Hollywood Casino at Greektown,3,178.9,2
+Detroit,Hollywood Casino at Greektown,2,148.9,3
+Detroit,Hollywood Casino at Greektown,2,148.9,4
+Detroit,Hollywood Casino at Greektown,3,178.9,5
+Detroit,Hollywood Casino at Greektown,2,148.9,6
+Detroit,Hollywood Casino at Greektown,3,178.9,7
+Detroit,Hollywood Casino at Greektown,3,178.9,8
+Detroit,Hollywood Casino at Greektown,3,178.9,9
+Detroit,Hollywood Casino at Greektown,1,118.9,10
+Orlando,Waldorf Astoria Orlando,3,566.1,1
+Orlando,Waldorf Astoria Orlando,2,536.1,2
+Orlando,Waldorf Astoria Orlando,3,566.1,3
+Orlando,Waldorf Astoria Orlando,2,536.1,4
+Orlando,Waldorf Astoria Orlando,2,536.1,5
+Orlando,Waldorf Astoria Orlando,3,566.1,6
+Orlando,Waldorf Astoria Orlando,2,536.1,7
+Orlando,Waldorf Astoria Orlando,2,536.1,8
+Orlando,Waldorf Astoria Orlando,3,566.1,9
+Orlando,Waldorf Astoria Orlando,3,566.1,10
+Orlando,Four Seasons Resort Orlando,2,535.0,1
+Orlando,Four Seasons Resort Orlando,3,565.0,2
+Orlando,Four Seasons Resort Orlando,3,565.0,3
+Orlando,Four Seasons Resort Orlando,1,505.0,4
+Orlando,Four Seasons Resort Orlando,2,535.0,5
+Orlando,Four Seasons Resort Orlando,3,565.0,6
+Orlando,Four Seasons Resort Orlando,3,565.0,7
+Orlando,Four Seasons Resort Orlando,3,565.0,8
+Orlando,Four Seasons Resort Orlando,2,535.0,9
+Orlando,Four Seasons Resort Orlando,3,565.0,10
+Orlando,Universal's Hard Rock Hotel,3,382.1,1
+Orlando,Universal's Hard Rock Hotel,3,382.1,2
+Orlando,Universal's Hard Rock Hotel,3,382.1,3
+Orlando,Universal's Hard Rock Hotel,3,382.1,4
+Orlando,Universal's Hard Rock Hotel,2,352.1,5
+Orlando,Universal's Hard Rock Hotel,2,352.1,6
+Orlando,Universal's Hard Rock Hotel,3,382.1,7
+Orlando,Universal's Hard Rock Hotel,2,352.1,8
+Orlando,Universal's Hard Rock Hotel,3,382.1,9
+Orlando,Universal's Hard Rock Hotel,3,382.1,10
+Orlando,Renaissance Orlando at SeaWorld,2,335.6,1
+Orlando,Renaissance Orlando at SeaWorld,3,365.6,2
+Orlando,Renaissance Orlando at SeaWorld,3,365.6,3
+Orlando,Renaissance Orlando at SeaWorld,3,365.6,4
+Orlando,Renaissance Orlando at SeaWorld,1,305.6,5
+Orlando,Renaissance Orlando at SeaWorld,3,365.6,6
+Orlando,Renaissance Orlando at SeaWorld,3,365.6,7
+Orlando,Renaissance Orlando at SeaWorld,3,365.6,8
+Orlando,Renaissance Orlando at SeaWorld,2,335.6,9
+Orlando,Renaissance Orlando at SeaWorld,2,335.6,10
+Orlando,Universal's Cabana Bay Beach Resort,3,156.3,1
+Orlando,Universal's Cabana Bay Beach Resort,3,156.3,2
+Orlando,Universal's Cabana Bay Beach Resort,2,126.3,3
+Orlando,Universal's Cabana Bay Beach Resort,2,126.3,4
+Orlando,Universal's Cabana Bay Beach Resort,3,156.3,5
+Orlando,Universal's Cabana Bay Beach Resort,2,126.3,6
+Orlando,Universal's Cabana Bay Beach Resort,2,126.3,7
+Orlando,Universal's Cabana Bay Beach Resort,3,156.3,8
+Orlando,Universal's Cabana Bay Beach Resort,3,156.3,9
+Orlando,Universal's Cabana Bay Beach Resort,3,156.3,10
+Orlando,Universal's Aventura Hotel,3,161.0,1
+Orlando,Universal's Aventura Hotel,3,161.0,2
+Orlando,Universal's Aventura Hotel,2,131.0,3
+Orlando,Universal's Aventura Hotel,2,131.0,4
+Orlando,Universal's Aventura Hotel,2,131.0,5
+Orlando,Universal's Aventura Hotel,2,131.0,6
+Orlando,Universal's Aventura Hotel,3,161.0,7
+Orlando,Universal's Aventura Hotel,3,161.0,8
+Orlando,Universal's Aventura Hotel,3,161.0,9
+Orlando,Universal's Aventura Hotel,2,131.0,10
+Pasadena,The Langham Huntington,2,529.7,1
+Pasadena,The Langham Huntington,2,529.7,2
+Pasadena,The Langham Huntington,3,559.7,3
+Pasadena,The Langham Huntington,2,529.7,4
+Pasadena,The Langham Huntington,3,559.7,5
+Pasadena,The Langham Huntington,3,559.7,6
+Pasadena,The Langham Huntington,2,529.7,7
+Pasadena,The Langham Huntington,2,529.7,8
+Pasadena,The Langham Huntington,3,559.7,9
+Pasadena,The Langham Huntington,3,559.7,10
+Pasadena,The Westin Pasadena,3,373.6,1
+Pasadena,The Westin Pasadena,2,343.6,2
+Pasadena,The Westin Pasadena,3,373.6,3
+Pasadena,The Westin Pasadena,3,373.6,4
+Pasadena,The Westin Pasadena,2,343.6,5
+Pasadena,The Westin Pasadena,2,343.6,6
+Pasadena,The Westin Pasadena,2,343.6,7
+Pasadena,The Westin Pasadena,2,343.6,8
+Pasadena,The Westin Pasadena,2,343.6,9
+Pasadena,The Westin Pasadena,2,343.6,10
+Pasadena,GreenTree Pasadena Inn,4,387.3,1
+Pasadena,GreenTree Pasadena Inn,3,357.3,2
+Pasadena,GreenTree Pasadena Inn,3,357.3,3
+Pasadena,GreenTree Pasadena Inn,2,327.3,4
+Pasadena,GreenTree Pasadena Inn,2,327.3,5
+Pasadena,GreenTree Pasadena Inn,2,327.3,6
+Pasadena,GreenTree Pasadena Inn,3,357.3,7
+Pasadena,GreenTree Pasadena Inn,3,357.3,8
+Pasadena,GreenTree Pasadena Inn,2,327.3,9
+Pasadena,GreenTree Pasadena Inn,2,327.3,10
+Pasadena,Hilton Pasadena,4,172.9,1
+Pasadena,Hilton Pasadena,2,112.9,2
+Pasadena,Hilton Pasadena,2,112.9,3
+Pasadena,Hilton Pasadena,1,82.9,4
+Pasadena,Hilton Pasadena,3,142.9,5
+Pasadena,Hilton Pasadena,2,112.9,6
+Pasadena,Hilton Pasadena,3,142.9,7
+Pasadena,Hilton Pasadena,3,142.9,8
+Pasadena,Hilton Pasadena,3,142.9,9
+Pasadena,Hilton Pasadena,3,142.9,10
+Pasadena,Hyatt Place Pasadena,2,135.8,1
+Pasadena,Hyatt Place Pasadena,2,135.8,2
+Pasadena,Hyatt Place Pasadena,2,135.8,3
+Pasadena,Hyatt Place Pasadena,3,165.8,4
+Pasadena,Hyatt Place Pasadena,2,135.8,5
+Pasadena,Hyatt Place Pasadena,2,135.8,6
+Pasadena,Hyatt Place Pasadena,3,165.8,7
+Pasadena,Hyatt Place Pasadena,3,165.8,8
+Pasadena,Hyatt Place Pasadena,3,165.8,9
+Pasadena,Hyatt Place Pasadena,2,135.8,10
+Pasadena,Sheraton Pasadena Hotel,2,136.5,1
+Pasadena,Sheraton Pasadena Hotel,2,136.5,2
+Pasadena,Sheraton Pasadena Hotel,2,136.5,3
+Pasadena,Sheraton Pasadena Hotel,3,166.5,4
+Pasadena,Sheraton Pasadena Hotel,1,106.5,5
+Pasadena,Sheraton Pasadena Hotel,2,136.5,6
+Pasadena,Sheraton Pasadena Hotel,3,166.5,7
+Pasadena,Sheraton Pasadena Hotel,2,136.5,8
+Pasadena,Sheraton Pasadena Hotel,3,166.5,9
+Pasadena,Sheraton Pasadena Hotel,2,136.5,10
+Seattle,Lotte Hotel Seattle,2,542.8,1
+Seattle,Lotte Hotel Seattle,2,542.8,2
+Seattle,Lotte Hotel Seattle,2,542.8,3
+Seattle,Lotte Hotel Seattle,2,542.8,4
+Seattle,Lotte Hotel Seattle,2,542.8,5
+Seattle,Lotte Hotel Seattle,2,542.8,6
+Seattle,Lotte Hotel Seattle,3,572.8,7
+Seattle,Lotte Hotel Seattle,3,572.8,8
+Seattle,Lotte Hotel Seattle,2,542.8,9
+Seattle,Lotte Hotel Seattle,2,542.8,10
+Seattle,Grand Hyatt Seattle,3,548.9,1
+Seattle,Grand Hyatt Seattle,3,548.9,2
+Seattle,Grand Hyatt Seattle,2,518.9,3
+Seattle,Grand Hyatt Seattle,3,548.9,4
+Seattle,Grand Hyatt Seattle,3,548.9,5
+Seattle,Grand Hyatt Seattle,2,518.9,6
+Seattle,Grand Hyatt Seattle,2,518.9,7
+Seattle,Grand Hyatt Seattle,3,548.9,8
+Seattle,Grand Hyatt Seattle,4,578.9,9
+Seattle,Grand Hyatt Seattle,2,518.9,10
+Seattle,Hotel Theodore,2,316.2,1
+Seattle,Hotel Theodore,2,316.2,2
+Seattle,Hotel Theodore,3,346.2,3
+Seattle,Hotel Theodore,2,316.2,4
+Seattle,Hotel Theodore,3,346.2,5
+Seattle,Hotel Theodore,3,346.2,6
+Seattle,Hotel Theodore,2,316.2,7
+Seattle,Hotel Theodore,3,346.2,8
+Seattle,Hotel Theodore,3,346.2,9
+Seattle,Hotel Theodore,3,346.2,10
+Seattle,Warwick Seattle,3,354.7,1
+Seattle,Warwick Seattle,3,354.7,2
+Seattle,Warwick Seattle,2,324.7,3
+Seattle,Warwick Seattle,2,324.7,4
+Seattle,Warwick Seattle,3,354.7,5
+Seattle,Warwick Seattle,3,354.7,6
+Seattle,Warwick Seattle,2,324.7,7
+Seattle,Warwick Seattle,2,324.7,8
+Seattle,Warwick Seattle,2,324.7,9
+Seattle,Warwick Seattle,2,324.7,10
+Seattle,Hotel Max,3,181.2,1
+Seattle,Hotel Max,3,181.2,2
+Seattle,Hotel Max,3,181.2,3
+Seattle,Hotel Max,3,181.2,4
+Seattle,Hotel Max,2,151.2,5
+Seattle,Hotel Max,2,151.2,6
+Seattle,Hotel Max,2,151.2,7
+Seattle,Hotel Max,2,151.2,8
+Seattle,Hotel Max,3,181.2,9
+Seattle,Hotel Max,2,151.2,10
+Seattle,Belltown Inn,2,142.6,1
+Seattle,Belltown Inn,3,172.6,2
+Seattle,Belltown Inn,3,172.6,3
+Seattle,Belltown Inn,3,172.6,4
+Seattle,Belltown Inn,3,172.6,5
+Seattle,Belltown Inn,3,172.6,6
+Seattle,Belltown Inn,2,142.6,7
+Seattle,Belltown Inn,3,172.6,8
+Seattle,Belltown Inn,2,142.6,9
+Seattle,Belltown Inn,3,172.6,10
+Sacramento,Hyatt Regency Sacramento,3,366.3,1
+Sacramento,Hyatt Regency Sacramento,2,336.3,2
+Sacramento,Hyatt Regency Sacramento,2,336.3,3
+Sacramento,Hyatt Regency Sacramento,3,366.3,4
+Sacramento,Hyatt Regency Sacramento,2,336.3,5
+Sacramento,Hyatt Regency Sacramento,3,366.3,6
+Sacramento,Hyatt Regency Sacramento,2,336.3,7
+Sacramento,Hyatt Regency Sacramento,2,336.3,8
+Sacramento,Hyatt Regency Sacramento,2,336.3,9
+Sacramento,Hyatt Regency Sacramento,3,366.3,10
+Sacramento,The Exchange Sacramento,2,342.1,1
+Sacramento,The Exchange Sacramento,2,342.1,2
+Sacramento,The Exchange Sacramento,3,372.1,3
+Sacramento,The Exchange Sacramento,2,342.1,4
+Sacramento,The Exchange Sacramento,2,342.1,5
+Sacramento,The Exchange Sacramento,2,342.1,6
+Sacramento,The Exchange Sacramento,2,342.1,7
+Sacramento,The Exchange Sacramento,3,372.1,8
+Sacramento,The Exchange Sacramento,2,342.1,9
+Sacramento,The Exchange Sacramento,3,372.1,10
+Sacramento,Kimpton Sawyer Hotel,2,310.8,1
+Sacramento,Kimpton Sawyer Hotel,2,310.8,2
+Sacramento,Kimpton Sawyer Hotel,3,340.8,3
+Sacramento,Kimpton Sawyer Hotel,2,310.8,4
+Sacramento,Kimpton Sawyer Hotel,3,340.8,5
+Sacramento,Kimpton Sawyer Hotel,2,310.8,6
+Sacramento,Kimpton Sawyer Hotel,2,310.8,7
+Sacramento,Kimpton Sawyer Hotel,3,340.8,8
+Sacramento,Kimpton Sawyer Hotel,2,310.8,9
+Sacramento,Kimpton Sawyer Hotel,3,340.8,10
+Sacramento,Delta King Hotel,2,125.9,1
+Sacramento,Delta King Hotel,1,95.9,2
+Sacramento,Delta King Hotel,2,125.9,3
+Sacramento,Delta King Hotel,3,155.9,4
+Sacramento,Delta King Hotel,2,125.9,5
+Sacramento,Delta King Hotel,3,155.9,6
+Sacramento,Delta King Hotel,3,155.9,7
+Sacramento,Delta King Hotel,2,125.9,8
+Sacramento,Delta King Hotel,2,125.9,9
+Sacramento,Delta King Hotel,2,125.9,10
+Sacramento,Lions Gate Hotel,3,149.9,1
+Sacramento,Lions Gate Hotel,2,119.9,2
+Sacramento,Lions Gate Hotel,3,149.9,3
+Sacramento,Lions Gate Hotel,2,119.9,4
+Sacramento,Lions Gate Hotel,2,119.9,5
+Sacramento,Lions Gate Hotel,2,119.9,6
+Sacramento,Lions Gate Hotel,2,119.9,7
+Sacramento,Lions Gate Hotel,2,119.9,8
+Sacramento,Lions Gate Hotel,2,119.9,9
+Sacramento,Lions Gate Hotel,2,119.9,10
+Sacramento,Hilton Sacramento Arden West,2,147.1,1
+Sacramento,Hilton Sacramento Arden West,2,147.1,2
+Sacramento,Hilton Sacramento Arden West,2,147.1,3
+Sacramento,Hilton Sacramento Arden West,3,177.1,4
+Sacramento,Hilton Sacramento Arden West,3,177.1,5
+Sacramento,Hilton Sacramento Arden West,2,147.1,6
+Sacramento,Hilton Sacramento Arden West,4,207.1,7
+Sacramento,Hilton Sacramento Arden West,2,147.1,8
+Sacramento,Hilton Sacramento Arden West,2,147.1,9
+Sacramento,Hilton Sacramento Arden West,3,177.1,10
+Dallas,HALL Arts Hotel,2,528.2,1
+Dallas,HALL Arts Hotel,2,528.2,2
+Dallas,HALL Arts Hotel,2,528.2,3
+Dallas,HALL Arts Hotel,2,528.2,4
+Dallas,HALL Arts Hotel,3,558.2,5
+Dallas,HALL Arts Hotel,3,558.2,6
+Dallas,HALL Arts Hotel,2,528.2,7
+Dallas,HALL Arts Hotel,2,528.2,8
+Dallas,HALL Arts Hotel,3,558.2,9
+Dallas,HALL Arts Hotel,2,528.2,10
+Dallas,The Adolphus,3,585.0,1
+Dallas,The Adolphus,3,585.0,2
+Dallas,The Adolphus,3,585.0,3
+Dallas,The Adolphus,2,555.0,4
+Dallas,The Adolphus,3,585.0,5
+Dallas,The Adolphus,2,555.0,6
+Dallas,The Adolphus,2,555.0,7
+Dallas,The Adolphus,1,525.0,8
+Dallas,The Adolphus,2,555.0,9
+Dallas,The Adolphus,3,585.0,10
+Dallas,Kimpton - Pittman Hotel,3,358.2,1
+Dallas,Kimpton - Pittman Hotel,3,358.2,2
+Dallas,Kimpton - Pittman Hotel,2,328.2,3
+Dallas,Kimpton - Pittman Hotel,2,328.2,4
+Dallas,Kimpton - Pittman Hotel,2,328.2,5
+Dallas,Kimpton - Pittman Hotel,3,358.2,6
+Dallas,Kimpton - Pittman Hotel,3,358.2,7
+Dallas,Kimpton - Pittman Hotel,3,358.2,8
+Dallas,Kimpton - Pittman Hotel,2,328.2,9
+Dallas,Kimpton - Pittman Hotel,2,328.2,10
+Dallas,Hyatt Regency Dallas,3,360.3,1
+Dallas,Hyatt Regency Dallas,2,330.3,2
+Dallas,Hyatt Regency Dallas,3,360.3,3
+Dallas,Hyatt Regency Dallas,3,360.3,4
+Dallas,Hyatt Regency Dallas,3,360.3,5
+Dallas,Hyatt Regency Dallas,2,330.3,6
+Dallas,Hyatt Regency Dallas,4,390.3,7
+Dallas,Hyatt Regency Dallas,3,360.3,8
+Dallas,Hyatt Regency Dallas,3,360.3,9
+Dallas,Hyatt Regency Dallas,2,330.3,10
+Dallas,The Beeman Hotel,3,150.4,1
+Dallas,The Beeman Hotel,2,120.4,2
+Dallas,The Beeman Hotel,2,120.4,3
+Dallas,The Beeman Hotel,3,150.4,4
+Dallas,The Beeman Hotel,2,120.4,5
+Dallas,The Beeman Hotel,3,150.4,6
+Dallas,The Beeman Hotel,2,120.4,7
+Dallas,The Beeman Hotel,3,150.4,8
+Dallas,The Beeman Hotel,3,150.4,9
+Dallas,The Beeman Hotel,3,150.4,10
+Dallas,Hotel Indigo Dallas Downtown,3,168.8,1
+Dallas,Hotel Indigo Dallas Downtown,2,138.8,2
+Dallas,Hotel Indigo Dallas Downtown,3,168.8,3
+Dallas,Hotel Indigo Dallas Downtown,2,138.8,4
+Dallas,Hotel Indigo Dallas Downtown,2,138.8,5
+Dallas,Hotel Indigo Dallas Downtown,2,138.8,6
+Dallas,Hotel Indigo Dallas Downtown,3,168.8,7
+Dallas,Hotel Indigo Dallas Downtown,3,168.8,8
+Dallas,Hotel Indigo Dallas Downtown,3,168.8,9
+Dallas,Hotel Indigo Dallas Downtown,3,168.8,10
+Saint Louis,Four Seasons St. Louis,2,535.3,1
+Saint Louis,Four Seasons St. Louis,2,535.3,2
+Saint Louis,Four Seasons St. Louis,3,565.3,3
+Saint Louis,Four Seasons St. Louis,2,535.3,4
+Saint Louis,Four Seasons St. Louis,3,565.3,5
+Saint Louis,Four Seasons St. Louis,3,565.3,6
+Saint Louis,Four Seasons St. Louis,2,535.3,7
+Saint Louis,Four Seasons St. Louis,3,565.3,8
+Saint Louis,Four Seasons St. Louis,2,535.3,9
+Saint Louis,Four Seasons St. Louis,2,535.3,10
+Saint Louis,Angad Arts Hotel,2,528.9,1
+Saint Louis,Angad Arts Hotel,3,558.9,2
+Saint Louis,Angad Arts Hotel,2,528.9,3
+Saint Louis,Angad Arts Hotel,2,528.9,4
+Saint Louis,Angad Arts Hotel,3,558.9,5
+Saint Louis,Angad Arts Hotel,3,558.9,6
+Saint Louis,Angad Arts Hotel,2,528.9,7
+Saint Louis,Angad Arts Hotel,2,528.9,8
+Saint Louis,Angad Arts Hotel,2,528.9,9
+Saint Louis,Angad Arts Hotel,3,558.9,10
+Saint Louis,The Last Hotel,2,328.7,1
+Saint Louis,The Last Hotel,2,328.7,2
+Saint Louis,The Last Hotel,3,358.7,3
+Saint Louis,The Last Hotel,2,328.7,4
+Saint Louis,The Last Hotel,3,358.7,5
+Saint Louis,The Last Hotel,2,328.7,6
+Saint Louis,The Last Hotel,3,358.7,7
+Saint Louis,The Last Hotel,2,328.7,8
+Saint Louis,The Last Hotel,4,388.7,9
+Saint Louis,The Last Hotel,3,358.7,10
+Saint Louis,The Moonrise Hotel,2,336.0,1
+Saint Louis,The Moonrise Hotel,3,366.0,2
+Saint Louis,The Moonrise Hotel,2,336.0,3
+Saint Louis,The Moonrise Hotel,2,336.0,4
+Saint Louis,The Moonrise Hotel,2,336.0,5
+Saint Louis,The Moonrise Hotel,2,336.0,6
+Saint Louis,The Moonrise Hotel,3,366.0,7
+Saint Louis,The Moonrise Hotel,2,336.0,8
+Saint Louis,The Moonrise Hotel,2,336.0,9
+Saint Louis,The Moonrise Hotel,3,366.0,10
+Saint Louis,Marriott St. Louis Grand,3,359.2,1
+Saint Louis,Marriott St. Louis Grand,2,329.2,2
+Saint Louis,Marriott St. Louis Grand,3,359.2,3
+Saint Louis,Marriott St. Louis Grand,2,329.2,4
+Saint Louis,Marriott St. Louis Grand,2,329.2,5
+Saint Louis,Marriott St. Louis Grand,2,329.2,6
+Saint Louis,Marriott St. Louis Grand,2,329.2,7
+Saint Louis,Marriott St. Louis Grand,3,359.2,8
+Saint Louis,Marriott St. Louis Grand,2,329.2,9
+Saint Louis,Marriott St. Louis Grand,3,359.2,10
+Saint Louis,Element St. Louis Midtown,2,141.0,1
+Saint Louis,Element St. Louis Midtown,2,141.0,2
+Saint Louis,Element St. Louis Midtown,2,141.0,3
+Saint Louis,Element St. Louis Midtown,3,171.0,4
+Saint Louis,Element St. Louis Midtown,2,141.0,5
+Saint Louis,Element St. Louis Midtown,3,171.0,6
+Saint Louis,Element St. Louis Midtown,3,171.0,7
+Saint Louis,Element St. Louis Midtown,3,171.0,8
+Saint Louis,Element St. Louis Midtown,3,171.0,9
+Saint Louis,Element St. Louis Midtown,1,111.0,10
+San Jose,Signia by Hilton,2,530.6,1
+San Jose,Signia by Hilton,3,560.6,2
+San Jose,Signia by Hilton,2,530.6,3
+San Jose,Signia by Hilton,2,530.6,4
+San Jose,Signia by Hilton,2,530.6,5
+San Jose,Signia by Hilton,3,560.6,6
+San Jose,Signia by Hilton,3,560.6,7
+San Jose,Signia by Hilton,2,530.6,8
+San Jose,Signia by Hilton,2,530.6,9
+San Jose,Signia by Hilton,3,560.6,10
+San Jose,The Ameswell Hotel,3,547.1,1
+San Jose,The Ameswell Hotel,2,517.1,2
+San Jose,The Ameswell Hotel,3,547.1,3
+San Jose,The Ameswell Hotel,2,517.1,4
+San Jose,The Ameswell Hotel,3,547.1,5
+San Jose,The Ameswell Hotel,2,517.1,6
+San Jose,The Ameswell Hotel,3,547.1,7
+San Jose,The Ameswell Hotel,2,517.1,8
+San Jose,The Ameswell Hotel,3,547.1,9
+San Jose,The Ameswell Hotel,3,547.1,10
+San Jose,San Jose Marriott,3,360.8,1
+San Jose,San Jose Marriott,3,360.8,2
+San Jose,San Jose Marriott,3,360.8,3
+San Jose,San Jose Marriott,2,330.8,4
+San Jose,San Jose Marriott,3,360.8,5
+San Jose,San Jose Marriott,2,330.8,6
+San Jose,San Jose Marriott,2,330.8,7
+San Jose,San Jose Marriott,3,360.8,8
+San Jose,San Jose Marriott,3,360.8,9
+San Jose,San Jose Marriott,2,330.8,10
+San Jose,Aloft San Jose Cupertino,2,335.2,1
+San Jose,Aloft San Jose Cupertino,2,335.2,2
+San Jose,Aloft San Jose Cupertino,2,335.2,3
+San Jose,Aloft San Jose Cupertino,3,365.2,4
+San Jose,Aloft San Jose Cupertino,3,365.2,5
+San Jose,Aloft San Jose Cupertino,3,365.2,6
+San Jose,Aloft San Jose Cupertino,3,365.2,7
+San Jose,Aloft San Jose Cupertino,2,335.2,8
+San Jose,Aloft San Jose Cupertino,3,365.2,9
+San Jose,Aloft San Jose Cupertino,2,335.2,10
+San Jose,Arena Hotel,3,164.0,1
+San Jose,Arena Hotel,3,164.0,2
+San Jose,Arena Hotel,3,164.0,3
+San Jose,Arena Hotel,3,164.0,4
+San Jose,Arena Hotel,2,134.0,5
+San Jose,Arena Hotel,3,164.0,6
+San Jose,Arena Hotel,2,134.0,7
+San Jose,Arena Hotel,2,134.0,8
+San Jose,Arena Hotel,2,134.0,9
+San Jose,Arena Hotel,3,164.0,10
+San Jose,Wyndham Garden Silicon Valley,3,163.3,1
+San Jose,Wyndham Garden Silicon Valley,3,163.3,2
+San Jose,Wyndham Garden Silicon Valley,2,133.3,3
+San Jose,Wyndham Garden Silicon Valley,3,163.3,4
+San Jose,Wyndham Garden Silicon Valley,2,133.3,5
+San Jose,Wyndham Garden Silicon Valley,3,163.3,6
+San Jose,Wyndham Garden Silicon Valley,2,133.3,7
+San Jose,Wyndham Garden Silicon Valley,2,133.3,8
+San Jose,Wyndham Garden Silicon Valley,3,163.3,9
+San Jose,Wyndham Garden Silicon Valley,2,133.3,10
+Portland,Sentinel,3,554.6,1
+Portland,Sentinel,3,554.6,2
+Portland,Sentinel,2,524.6,3
+Portland,Sentinel,2,524.6,4
+Portland,Sentinel,2,524.6,5
+Portland,Sentinel,3,554.6,6
+Portland,Sentinel,2,524.6,7
+Portland,Sentinel,2,524.6,8
+Portland,Sentinel,2,524.6,9
+Portland,Sentinel,2,524.6,10
+Portland,The Nines,2,527.5,1
+Portland,The Nines,3,557.5,2
+Portland,The Nines,2,527.5,3
+Portland,The Nines,2,527.5,4
+Portland,The Nines,2,527.5,5
+Portland,The Nines,2,527.5,6
+Portland,The Nines,2,527.5,7
+Portland,The Nines,3,557.5,8
+Portland,The Nines,3,557.5,9
+Portland,The Nines,3,557.5,10
+Portland,Dossier,2,331.4,1
+Portland,Dossier,2,331.4,2
+Portland,Dossier,3,361.4,3
+Portland,Dossier,2,331.4,4
+Portland,Dossier,2,331.4,5
+Portland,Dossier,2,331.4,6
+Portland,Dossier,3,361.4,7
+Portland,Dossier,2,331.4,8
+Portland,Dossier,2,331.4,9
+Portland,Dossier,3,361.4,10
+Portland,The Heathman Hotel,2,336.9,1
+Portland,The Heathman Hotel,2,336.9,2
+Portland,The Heathman Hotel,3,366.9,3
+Portland,The Heathman Hotel,2,336.9,4
+Portland,The Heathman Hotel,3,366.9,5
+Portland,The Heathman Hotel,3,366.9,6
+Portland,The Heathman Hotel,2,336.9,7
+Portland,The Heathman Hotel,1,306.9,8
+Portland,The Heathman Hotel,2,336.9,9
+Portland,The Heathman Hotel,3,366.9,10
+Portland,The Society Hotel,3,159.9,1
+Portland,The Society Hotel,3,159.9,2
+Portland,The Society Hotel,3,159.9,3
+Portland,The Society Hotel,3,159.9,4
+Portland,The Society Hotel,3,159.9,5
+Portland,The Society Hotel,2,129.9,6
+Portland,The Society Hotel,2,129.9,7
+Portland,The Society Hotel,3,159.9,8
+Portland,The Society Hotel,3,159.9,9
+Portland,The Society Hotel,3,159.9,10
+Portland,The Mark Spencer Hotel,3,158.1,1
+Portland,The Mark Spencer Hotel,3,158.1,2
+Portland,The Mark Spencer Hotel,2,128.1,3
+Portland,The Mark Spencer Hotel,2,128.1,4
+Portland,The Mark Spencer Hotel,3,158.1,5
+Portland,The Mark Spencer Hotel,3,158.1,6
+Portland,The Mark Spencer Hotel,3,158.1,7
+Portland,The Mark Spencer Hotel,2,128.1,8
+Portland,The Mark Spencer Hotel,2,128.1,9
+Portland,The Mark Spencer Hotel,3,158.1,10
+Oklahoma,Sheraton Oklahoma City Downtown Hotel,2,331.7,1
+Oklahoma,Sheraton Oklahoma City Downtown Hotel,2,331.7,2
+Oklahoma,Sheraton Oklahoma City Downtown Hotel,2,331.7,3
+Oklahoma,Sheraton Oklahoma City Downtown Hotel,2,331.7,4
+Oklahoma,Sheraton Oklahoma City Downtown Hotel,2,331.7,5
+Oklahoma,Sheraton Oklahoma City Downtown Hotel,3,361.7,6
+Oklahoma,Sheraton Oklahoma City Downtown Hotel,2,331.7,7
+Oklahoma,Sheraton Oklahoma City Downtown Hotel,2,331.7,8
+Oklahoma,Sheraton Oklahoma City Downtown Hotel,3,361.7,9
+Oklahoma,Sheraton Oklahoma City Downtown Hotel,2,331.7,10
+Oklahoma,Omni Oklahoma City Hotel,3,352.0,1
+Oklahoma,Omni Oklahoma City Hotel,2,322.0,2
+Oklahoma,Omni Oklahoma City Hotel,2,322.0,3
+Oklahoma,Omni Oklahoma City Hotel,2,322.0,4
+Oklahoma,Omni Oklahoma City Hotel,3,352.0,5
+Oklahoma,Omni Oklahoma City Hotel,3,352.0,6
+Oklahoma,Omni Oklahoma City Hotel,2,322.0,7
+Oklahoma,Omni Oklahoma City Hotel,3,352.0,8
+Oklahoma,Omni Oklahoma City Hotel,3,352.0,9
+Oklahoma,Omni Oklahoma City Hotel,2,322.0,10
+Oklahoma,Hyatt Place Oklahoma City Bricktown,3,162.0,1
+Oklahoma,Hyatt Place Oklahoma City Bricktown,3,162.0,2
+Oklahoma,Hyatt Place Oklahoma City Bricktown,2,132.0,3
+Oklahoma,Hyatt Place Oklahoma City Bricktown,3,162.0,4
+Oklahoma,Hyatt Place Oklahoma City Bricktown,3,162.0,5
+Oklahoma,Hyatt Place Oklahoma City Bricktown,2,132.0,6
+Oklahoma,Hyatt Place Oklahoma City Bricktown,3,162.0,7
+Oklahoma,Hyatt Place Oklahoma City Bricktown,2,132.0,8
+Oklahoma,Hyatt Place Oklahoma City Bricktown,2,132.0,9
+Oklahoma,Hyatt Place Oklahoma City Bricktown,3,162.0,10
+Oklahoma,District Hotel Oklahoma City,2,139.1,1
+Oklahoma,District Hotel Oklahoma City,3,169.1,2
+Oklahoma,District Hotel Oklahoma City,2,139.1,3
+Oklahoma,District Hotel Oklahoma City,3,169.1,4
+Oklahoma,District Hotel Oklahoma City,2,139.1,5
+Oklahoma,District Hotel Oklahoma City,2,139.1,6
+Oklahoma,District Hotel Oklahoma City,2,139.1,7
+Oklahoma,District Hotel Oklahoma City,2,139.1,8
+Oklahoma,District Hotel Oklahoma City,2,139.1,9
+Oklahoma,District Hotel Oklahoma City,3,169.1,10
+Oklahoma,Hyatt Place OKC,3,147.3,1
+Oklahoma,Hyatt Place OKC,2,117.3,2
+Oklahoma,Hyatt Place OKC,3,147.3,3
+Oklahoma,Hyatt Place OKC,3,147.3,4
+Oklahoma,Hyatt Place OKC,2,117.3,5
+Oklahoma,Hyatt Place OKC,2,117.3,6
+Oklahoma,Hyatt Place OKC,2,117.3,7
+Oklahoma,Hyatt Place OKC,2,117.3,8
+Oklahoma,Hyatt Place OKC,2,117.3,9
+Oklahoma,Hyatt Place OKC,2,117.3,10
+Oklahoma,The Douillet,2,135.4,1
+Oklahoma,The Douillet,3,165.4,2
+Oklahoma,The Douillet,2,135.4,3
+Oklahoma,The Douillet,2,135.4,4
+Oklahoma,The Douillet,2,135.4,5
+Oklahoma,The Douillet,2,135.4,6
+Oklahoma,The Douillet,2,135.4,7
+Oklahoma,The Douillet,2,135.4,8
+Oklahoma,The Douillet,2,135.4,9
+Oklahoma,The Douillet,3,165.4,10
+Pittsburgh,Wyndham Grand Pittsburgh,2,330.5,1
+Pittsburgh,Wyndham Grand Pittsburgh,3,360.5,2
+Pittsburgh,Wyndham Grand Pittsburgh,3,360.5,3
+Pittsburgh,Wyndham Grand Pittsburgh,1,300.5,4
+Pittsburgh,Wyndham Grand Pittsburgh,3,360.5,5
+Pittsburgh,Wyndham Grand Pittsburgh,3,360.5,6
+Pittsburgh,Wyndham Grand Pittsburgh,3,360.5,7
+Pittsburgh,Wyndham Grand Pittsburgh,2,330.5,8
+Pittsburgh,Wyndham Grand Pittsburgh,2,330.5,9
+Pittsburgh,Wyndham Grand Pittsburgh,3,360.5,10
+Pittsburgh,Cambria Hotel Pittsburgh,3,367.0,1
+Pittsburgh,Cambria Hotel Pittsburgh,2,337.0,2
+Pittsburgh,Cambria Hotel Pittsburgh,3,367.0,3
+Pittsburgh,Cambria Hotel Pittsburgh,2,337.0,4
+Pittsburgh,Cambria Hotel Pittsburgh,4,397.0,5
+Pittsburgh,Cambria Hotel Pittsburgh,2,337.0,6
+Pittsburgh,Cambria Hotel Pittsburgh,3,367.0,7
+Pittsburgh,Cambria Hotel Pittsburgh,3,367.0,8
+Pittsburgh,Cambria Hotel Pittsburgh,2,337.0,9
+Pittsburgh,Cambria Hotel Pittsburgh,3,367.0,10
+Pittsburgh,Renaissance Pittsburgh Hotel,3,364.7,1
+Pittsburgh,Renaissance Pittsburgh Hotel,2,334.7,2
+Pittsburgh,Renaissance Pittsburgh Hotel,2,334.7,3
+Pittsburgh,Renaissance Pittsburgh Hotel,3,364.7,4
+Pittsburgh,Renaissance Pittsburgh Hotel,3,364.7,5
+Pittsburgh,Renaissance Pittsburgh Hotel,3,364.7,6
+Pittsburgh,Renaissance Pittsburgh Hotel,2,334.7,7
+Pittsburgh,Renaissance Pittsburgh Hotel,3,364.7,8
+Pittsburgh,Renaissance Pittsburgh Hotel,2,334.7,9
+Pittsburgh,Renaissance Pittsburgh Hotel,3,364.7,10
+Pittsburgh,Hotel Indigo Pittsburgh University,2,145.2,1
+Pittsburgh,Hotel Indigo Pittsburgh University,3,175.2,2
+Pittsburgh,Hotel Indigo Pittsburgh University,3,175.2,3
+Pittsburgh,Hotel Indigo Pittsburgh University,3,175.2,4
+Pittsburgh,Hotel Indigo Pittsburgh University,2,145.2,5
+Pittsburgh,Hotel Indigo Pittsburgh University,3,175.2,6
+Pittsburgh,Hotel Indigo Pittsburgh University,2,145.2,7
+Pittsburgh,Hotel Indigo Pittsburgh University,3,175.2,8
+Pittsburgh,Hotel Indigo Pittsburgh University,3,175.2,9
+Pittsburgh,Hotel Indigo Pittsburgh University,2,145.2,10
+Pittsburgh,Sheraton Pittsburgh Hotel,2,142.1,1
+Pittsburgh,Sheraton Pittsburgh Hotel,2,142.1,2
+Pittsburgh,Sheraton Pittsburgh Hotel,3,172.1,3
+Pittsburgh,Sheraton Pittsburgh Hotel,3,172.1,4
+Pittsburgh,Sheraton Pittsburgh Hotel,2,142.1,5
+Pittsburgh,Sheraton Pittsburgh Hotel,3,172.1,6
+Pittsburgh,Sheraton Pittsburgh Hotel,2,142.1,7
+Pittsburgh,Sheraton Pittsburgh Hotel,3,172.1,8
+Pittsburgh,Sheraton Pittsburgh Hotel,2,142.1,9
+Pittsburgh,Sheraton Pittsburgh Hotel,4,202.1,10
+Pittsburgh,Distrikt Hotel Pittsburgh,3,170.3,1
+Pittsburgh,Distrikt Hotel Pittsburgh,3,170.3,2
+Pittsburgh,Distrikt Hotel Pittsburgh,3,170.3,3
+Pittsburgh,Distrikt Hotel Pittsburgh,3,170.3,4
+Pittsburgh,Distrikt Hotel Pittsburgh,2,140.3,5
+Pittsburgh,Distrikt Hotel Pittsburgh,4,200.3,6
+Pittsburgh,Distrikt Hotel Pittsburgh,2,140.3,7
+Pittsburgh,Distrikt Hotel Pittsburgh,2,140.3,8
+Pittsburgh,Distrikt Hotel Pittsburgh,3,170.3,9
+Pittsburgh,Distrikt Hotel Pittsburgh,3,170.3,10
+New York City,Park Lane New York,3,567.1,1
+New York City,Park Lane New York,2,537.1,2
+New York City,Park Lane New York,3,567.1,3
+New York City,Park Lane New York,2,537.1,4
+New York City,Park Lane New York,2,537.1,5
+New York City,Park Lane New York,3,567.1,6
+New York City,Park Lane New York,2,537.1,7
+New York City,Park Lane New York,2,537.1,8
+New York City,Park Lane New York,3,567.1,9
+New York City,Park Lane New York,2,537.1,10
+New York City,11 Howard,3,552.3,1
+New York City,11 Howard,2,522.3,2
+New York City,11 Howard,2,522.3,3
+New York City,11 Howard,2,522.3,4
+New York City,11 Howard,2,522.3,5
+New York City,11 Howard,4,582.3,6
+New York City,11 Howard,2,522.3,7
+New York City,11 Howard,3,552.3,8
+New York City,11 Howard,2,522.3,9
+New York City,11 Howard,3,552.3,10
+New York City,The Frederick Hotel Tribeca,3,578.4,1
+New York City,The Frederick Hotel Tribeca,3,578.4,2
+New York City,The Frederick Hotel Tribeca,2,548.4,3
+New York City,The Frederick Hotel Tribeca,2,548.4,4
+New York City,The Frederick Hotel Tribeca,3,578.4,5
+New York City,The Frederick Hotel Tribeca,3,578.4,6
+New York City,The Frederick Hotel Tribeca,3,578.4,7
+New York City,The Frederick Hotel Tribeca,2,548.4,8
+New York City,The Frederick Hotel Tribeca,2,548.4,9
+New York City,The Frederick Hotel Tribeca,2,548.4,10
+New York City,Empire Hotel,3,350.3,1
+New York City,Empire Hotel,2,320.3,2
+New York City,Empire Hotel,2,320.3,3
+New York City,Empire Hotel,3,350.3,4
+New York City,Empire Hotel,2,320.3,5
+New York City,Empire Hotel,2,320.3,6
+New York City,Empire Hotel,2,320.3,7
+New York City,Empire Hotel,3,350.3,8
+New York City,Empire Hotel,3,350.3,9
+New York City,Empire Hotel,2,320.3,10
+New York City,Hotel Belleclaire Central Park,3,338.3,1
+New York City,Hotel Belleclaire Central Park,3,338.3,2
+New York City,Hotel Belleclaire Central Park,3,338.3,3
+New York City,Hotel Belleclaire Central Park,2,308.3,4
+New York City,Hotel Belleclaire Central Park,3,338.3,5
+New York City,Hotel Belleclaire Central Park,3,338.3,6
+New York City,Hotel Belleclaire Central Park,2,308.3,7
+New York City,Hotel Belleclaire Central Park,3,338.3,8
+New York City,Hotel Belleclaire Central Park,2,308.3,9
+New York City,Hotel Belleclaire Central Park,2,308.3,10
+New York City,West Side YMCA,3,163.5,1
+New York City,West Side YMCA,3,163.5,2
+New York City,West Side YMCA,2,133.5,3
+New York City,West Side YMCA,2,133.5,4
+New York City,West Side YMCA,2,133.5,5
+New York City,West Side YMCA,2,133.5,6
+New York City,West Side YMCA,3,163.5,7
+New York City,West Side YMCA,3,163.5,8
+New York City,West Side YMCA,3,163.5,9
+New York City,West Side YMCA,2,133.5,10
+San Diego,Pendry San Diego,2,516.6,1
+San Diego,Pendry San Diego,2,516.6,2
+San Diego,Pendry San Diego,3,546.6,3
+San Diego,Pendry San Diego,3,546.6,4
+San Diego,Pendry San Diego,2,516.6,5
+San Diego,Pendry San Diego,3,546.6,6
+San Diego,Pendry San Diego,3,546.6,7
+San Diego,Pendry San Diego,3,546.6,8
+San Diego,Pendry San Diego,1,486.6,9
+San Diego,Pendry San Diego,4,576.6,10
+San Diego,Andaz San Diego,3,578.9,1
+San Diego,Andaz San Diego,3,578.9,2
+San Diego,Andaz San Diego,2,548.9,3
+San Diego,Andaz San Diego,3,578.9,4
+San Diego,Andaz San Diego,2,548.9,5
+San Diego,Andaz San Diego,3,578.9,6
+San Diego,Andaz San Diego,3,578.9,7
+San Diego,Andaz San Diego,2,548.9,8
+San Diego,Andaz San Diego,3,578.9,9
+San Diego,Andaz San Diego,2,548.9,10
+San Diego,Hard Rock Hotel San Diego,2,340.6,1
+San Diego,Hard Rock Hotel San Diego,2,340.6,2
+San Diego,Hard Rock Hotel San Diego,3,370.6,3
+San Diego,Hard Rock Hotel San Diego,2,340.6,4
+San Diego,Hard Rock Hotel San Diego,3,370.6,5
+San Diego,Hard Rock Hotel San Diego,0,280.6,6
+San Diego,Hard Rock Hotel San Diego,3,370.6,7
+San Diego,Hard Rock Hotel San Diego,3,370.6,8
+San Diego,Hard Rock Hotel San Diego,1,310.6,9
+San Diego,Hard Rock Hotel San Diego,3,370.6,10
+San Diego,Horton Grand Hotel,2,340.4,1
+San Diego,Horton Grand Hotel,3,370.4,2
+San Diego,Horton Grand Hotel,3,370.4,3
+San Diego,Horton Grand Hotel,3,370.4,4
+San Diego,Horton Grand Hotel,2,340.4,5
+San Diego,Horton Grand Hotel,3,370.4,6
+San Diego,Horton Grand Hotel,3,370.4,7
+San Diego,Horton Grand Hotel,2,340.4,8
+San Diego,Horton Grand Hotel,2,340.4,9
+San Diego,Horton Grand Hotel,2,340.4,10
+San Diego,Kings Inn,3,157.4,1
+San Diego,Kings Inn,3,157.4,2
+San Diego,Kings Inn,2,127.4,3
+San Diego,Kings Inn,2,127.4,4
+San Diego,Kings Inn,3,157.4,5
+San Diego,Kings Inn,3,157.4,6
+San Diego,Kings Inn,2,127.4,7
+San Diego,Kings Inn,3,157.4,8
+San Diego,Kings Inn,3,157.4,9
+San Diego,Kings Inn,3,157.4,10
+San Diego,Porto Vista Hotel,2,142.5,1
+San Diego,Porto Vista Hotel,2,142.5,2
+San Diego,Porto Vista Hotel,3,172.5,3
+San Diego,Porto Vista Hotel,3,172.5,4
+San Diego,Porto Vista Hotel,2,142.5,5
+San Diego,Porto Vista Hotel,3,172.5,6
+San Diego,Porto Vista Hotel,2,142.5,7
+San Diego,Porto Vista Hotel,3,172.5,8
+San Diego,Porto Vista Hotel,2,142.5,9
+San Diego,Porto Vista Hotel,2,142.5,10
+Kansas City,The Fontaine,2,335.2,1
+Kansas City,The Fontaine,2,335.2,2
+Kansas City,The Fontaine,2,335.2,3
+Kansas City,The Fontaine,4,395.2,4
+Kansas City,The Fontaine,2,335.2,5
+Kansas City,The Fontaine,2,335.2,6
+Kansas City,The Fontaine,3,365.2,7
+Kansas City,The Fontaine,2,335.2,8
+Kansas City,The Fontaine,3,365.2,9
+Kansas City,The Fontaine,2,335.2,10
+Kansas City,Loews Kansas City,3,356.5,1
+Kansas City,Loews Kansas City,4,386.5,2
+Kansas City,Loews Kansas City,2,326.5,3
+Kansas City,Loews Kansas City,2,326.5,4
+Kansas City,Loews Kansas City,3,356.5,5
+Kansas City,Loews Kansas City,2,326.5,6
+Kansas City,Loews Kansas City,3,356.5,7
+Kansas City,Loews Kansas City,2,326.5,8
+Kansas City,Loews Kansas City,2,326.5,9
+Kansas City,Loews Kansas City,2,326.5,10
+Kansas City,AC Hotel Kansas City Plaza,3,364.3,1
+Kansas City,AC Hotel Kansas City Plaza,3,364.3,2
+Kansas City,AC Hotel Kansas City Plaza,3,364.3,3
+Kansas City,AC Hotel Kansas City Plaza,3,364.3,4
+Kansas City,AC Hotel Kansas City Plaza,2,334.3,5
+Kansas City,AC Hotel Kansas City Plaza,2,334.3,6
+Kansas City,AC Hotel Kansas City Plaza,2,334.3,7
+Kansas City,AC Hotel Kansas City Plaza,2,334.3,8
+Kansas City,AC Hotel Kansas City Plaza,3,364.3,9
+Kansas City,AC Hotel Kansas City Plaza,2,334.3,10
+Kansas City,Hilton Kansas City Airport,2,133.7,1
+Kansas City,Hilton Kansas City Airport,2,133.7,2
+Kansas City,Hilton Kansas City Airport,2,133.7,3
+Kansas City,Hilton Kansas City Airport,3,163.7,4
+Kansas City,Hilton Kansas City Airport,2,133.7,5
+Kansas City,Hilton Kansas City Airport,3,163.7,6
+Kansas City,Hilton Kansas City Airport,2,133.7,7
+Kansas City,Hilton Kansas City Airport,3,163.7,8
+Kansas City,Hilton Kansas City Airport,3,163.7,9
+Kansas City,Hilton Kansas City Airport,3,163.7,10
+Kansas City,Aloft North Kansas City,3,168.3,1
+Kansas City,Aloft North Kansas City,2,138.3,2
+Kansas City,Aloft North Kansas City,3,168.3,3
+Kansas City,Aloft North Kansas City,2,138.3,4
+Kansas City,Aloft North Kansas City,2,138.3,5
+Kansas City,Aloft North Kansas City,3,168.3,6
+Kansas City,Aloft North Kansas City,3,168.3,7
+Kansas City,Aloft North Kansas City,2,138.3,8
+Kansas City,Aloft North Kansas City,2,138.3,9
+Kansas City,Aloft North Kansas City,3,168.3,10
+Kansas City,Kansas City Airport Marriott,4,188.1,1
+Kansas City,Kansas City Airport Marriott,3,158.1,2
+Kansas City,Kansas City Airport Marriott,2,128.1,3
+Kansas City,Kansas City Airport Marriott,2,128.1,4
+Kansas City,Kansas City Airport Marriott,2,128.1,5
+Kansas City,Kansas City Airport Marriott,2,128.1,6
+Kansas City,Kansas City Airport Marriott,2,128.1,7
+Kansas City,Kansas City Airport Marriott,3,158.1,8
+Kansas City,Kansas City Airport Marriott,3,158.1,9
+Kansas City,Kansas City Airport Marriott,3,158.1,10
+San Antonio,Home2 Suites By Hilton San Antonio,4,590.4,1
+San Antonio,Home2 Suites By Hilton San Antonio,3,560.4,2
+San Antonio,Home2 Suites By Hilton San Antonio,2,530.4,3
+San Antonio,Home2 Suites By Hilton San Antonio,3,560.4,4
+San Antonio,Home2 Suites By Hilton San Antonio,3,560.4,5
+San Antonio,Home2 Suites By Hilton San Antonio,3,560.4,6
+San Antonio,Home2 Suites By Hilton San Antonio,2,530.4,7
+San Antonio,Home2 Suites By Hilton San Antonio,2,530.4,8
+San Antonio,Home2 Suites By Hilton San Antonio,3,560.4,9
+San Antonio,Home2 Suites By Hilton San Antonio,2,530.4,10
+San Antonio,Thompson San Antonio Riverwalk,3,569.9,1
+San Antonio,Thompson San Antonio Riverwalk,2,539.9,2
+San Antonio,Thompson San Antonio Riverwalk,2,539.9,3
+San Antonio,Thompson San Antonio Riverwalk,2,539.9,4
+San Antonio,Thompson San Antonio Riverwalk,3,569.9,5
+San Antonio,Thompson San Antonio Riverwalk,3,569.9,6
+San Antonio,Thompson San Antonio Riverwalk,3,569.9,7
+San Antonio,Thompson San Antonio Riverwalk,3,569.9,8
+San Antonio,Thompson San Antonio Riverwalk,3,569.9,9
+San Antonio,Thompson San Antonio Riverwalk,3,569.9,10
+San Antonio,Hotel Havana,2,338.3,1
+San Antonio,Hotel Havana,2,338.3,2
+San Antonio,Hotel Havana,3,368.3,3
+San Antonio,Hotel Havana,2,338.3,4
+San Antonio,Hotel Havana,2,338.3,5
+San Antonio,Hotel Havana,4,398.3,6
+San Antonio,Hotel Havana,2,338.3,7
+San Antonio,Hotel Havana,2,338.3,8
+San Antonio,Hotel Havana,3,368.3,9
+San Antonio,Hotel Havana,2,338.3,10
+San Antonio,Menger Hotel,2,316.8,1
+San Antonio,Menger Hotel,2,316.8,2
+San Antonio,Menger Hotel,2,316.8,3
+San Antonio,Menger Hotel,2,316.8,4
+San Antonio,Menger Hotel,3,346.8,5
+San Antonio,Menger Hotel,3,346.8,6
+San Antonio,Menger Hotel,2,316.8,7
+San Antonio,Menger Hotel,2,316.8,8
+San Antonio,Menger Hotel,3,346.8,9
+San Antonio,Menger Hotel,1,286.8,10
+San Antonio,Drury Plaza Hotel,2,140.7,1
+San Antonio,Drury Plaza Hotel,2,140.7,2
+San Antonio,Drury Plaza Hotel,3,170.7,3
+San Antonio,Drury Plaza Hotel,3,170.7,4
+San Antonio,Drury Plaza Hotel,4,200.7,5
+San Antonio,Drury Plaza Hotel,2,140.7,6
+San Antonio,Drury Plaza Hotel,2,140.7,7
+San Antonio,Drury Plaza Hotel,3,170.7,8
+San Antonio,Drury Plaza Hotel,2,140.7,9
+San Antonio,Drury Plaza Hotel,2,140.7,10
+San Antonio,Best Western Plus Downtown North,3,145.7,1
+San Antonio,Best Western Plus Downtown North,2,115.7,2
+San Antonio,Best Western Plus Downtown North,2,115.7,3
+San Antonio,Best Western Plus Downtown North,2,115.7,4
+San Antonio,Best Western Plus Downtown North,3,145.7,5
+San Antonio,Best Western Plus Downtown North,4,175.7,6
+San Antonio,Best Western Plus Downtown North,3,145.7,7
+San Antonio,Best Western Plus Downtown North,3,145.7,8
+San Antonio,Best Western Plus Downtown North,2,115.7,9
+San Antonio,Best Western Plus Downtown North,2,115.7,10
+Memphis,Big Cypress Lodge,3,576.1,1
+Memphis,Big Cypress Lodge,2,546.1,2
+Memphis,Big Cypress Lodge,3,576.1,3
+Memphis,Big Cypress Lodge,3,576.1,4
+Memphis,Big Cypress Lodge,3,576.1,5
+Memphis,Big Cypress Lodge,2,546.1,6
+Memphis,Big Cypress Lodge,2,546.1,7
+Memphis,Big Cypress Lodge,3,576.1,8
+Memphis,Big Cypress Lodge,2,546.1,9
+Memphis,Big Cypress Lodge,2,546.1,10
+Memphis,River Inn of Harbor Town,3,554.0,1
+Memphis,River Inn of Harbor Town,3,554.0,2
+Memphis,River Inn of Harbor Town,2,524.0,3
+Memphis,River Inn of Harbor Town,3,554.0,4
+Memphis,River Inn of Harbor Town,4,584.0,5
+Memphis,River Inn of Harbor Town,2,524.0,6
+Memphis,River Inn of Harbor Town,2,524.0,7
+Memphis,River Inn of Harbor Town,2,524.0,8
+Memphis,River Inn of Harbor Town,1,494.0,9
+Memphis,River Inn of Harbor Town,3,554.0,10
+Memphis,ARRIVE Memphis,3,358.4,1
+Memphis,ARRIVE Memphis,3,358.4,2
+Memphis,ARRIVE Memphis,3,358.4,3
+Memphis,ARRIVE Memphis,3,358.4,4
+Memphis,ARRIVE Memphis,3,358.4,5
+Memphis,ARRIVE Memphis,2,328.4,6
+Memphis,ARRIVE Memphis,3,358.4,7
+Memphis,ARRIVE Memphis,2,328.4,8
+Memphis,ARRIVE Memphis,2,328.4,9
+Memphis,ARRIVE Memphis,3,358.4,10
+Memphis,Sheraton Memphis Downtown,3,364.8,1
+Memphis,Sheraton Memphis Downtown,2,334.8,2
+Memphis,Sheraton Memphis Downtown,2,334.8,3
+Memphis,Sheraton Memphis Downtown,3,364.8,4
+Memphis,Sheraton Memphis Downtown,3,364.8,5
+Memphis,Sheraton Memphis Downtown,2,334.8,6
+Memphis,Sheraton Memphis Downtown,3,364.8,7
+Memphis,Sheraton Memphis Downtown,3,364.8,8
+Memphis,Sheraton Memphis Downtown,3,364.8,9
+Memphis,Sheraton Memphis Downtown,2,334.8,10
+Memphis,Comfort Inn Memphis Downtown,2,141.5,1
+Memphis,Comfort Inn Memphis Downtown,3,171.5,2
+Memphis,Comfort Inn Memphis Downtown,3,171.5,3
+Memphis,Comfort Inn Memphis Downtown,3,171.5,4
+Memphis,Comfort Inn Memphis Downtown,2,141.5,5
+Memphis,Comfort Inn Memphis Downtown,3,171.5,6
+Memphis,Comfort Inn Memphis Downtown,2,141.5,7
+Memphis,Comfort Inn Memphis Downtown,3,171.5,8
+Memphis,Comfort Inn Memphis Downtown,2,141.5,9
+Memphis,Comfort Inn Memphis Downtown,2,141.5,10
+Memphis,DoubleTree by Hilton Memphis Downtown,3,157.6,1
+Memphis,DoubleTree by Hilton Memphis Downtown,3,157.6,2
+Memphis,DoubleTree by Hilton Memphis Downtown,1,97.6,3
+Memphis,DoubleTree by Hilton Memphis Downtown,2,127.6,4
+Memphis,DoubleTree by Hilton Memphis Downtown,3,157.6,5
+Memphis,DoubleTree by Hilton Memphis Downtown,3,157.6,6
+Memphis,DoubleTree by Hilton Memphis Downtown,2,127.6,7
+Memphis,DoubleTree by Hilton Memphis Downtown,3,157.6,8
+Memphis,DoubleTree by Hilton Memphis Downtown,2,127.6,9
+Memphis,DoubleTree by Hilton Memphis Downtown,4,187.6,10
+Milwaukee,Cambria Hotel Milwaukee Downtown,3,353.1,1
+Milwaukee,Cambria Hotel Milwaukee Downtown,2,323.1,2
+Milwaukee,Cambria Hotel Milwaukee Downtown,4,383.1,3
+Milwaukee,Cambria Hotel Milwaukee Downtown,2,323.1,4
+Milwaukee,Cambria Hotel Milwaukee Downtown,3,353.1,5
+Milwaukee,Cambria Hotel Milwaukee Downtown,3,353.1,6
+Milwaukee,Cambria Hotel Milwaukee Downtown,3,353.1,7
+Milwaukee,Cambria Hotel Milwaukee Downtown,3,353.1,8
+Milwaukee,Cambria Hotel Milwaukee Downtown,3,353.1,9
+Milwaukee,Cambria Hotel Milwaukee Downtown,3,353.1,10
+Milwaukee,The Pfister Hotel,3,376.5,1
+Milwaukee,The Pfister Hotel,3,376.5,2
+Milwaukee,The Pfister Hotel,2,346.5,3
+Milwaukee,The Pfister Hotel,3,376.5,4
+Milwaukee,The Pfister Hotel,2,346.5,5
+Milwaukee,The Pfister Hotel,2,346.5,6
+Milwaukee,The Pfister Hotel,2,346.5,7
+Milwaukee,The Pfister Hotel,3,376.5,8
+Milwaukee,The Pfister Hotel,2,346.5,9
+Milwaukee,The Pfister Hotel,3,376.5,10
+Milwaukee,Ambassador Hotel,3,354.8,1
+Milwaukee,Ambassador Hotel,2,324.8,2
+Milwaukee,Ambassador Hotel,3,354.8,3
+Milwaukee,Ambassador Hotel,2,324.8,4
+Milwaukee,Ambassador Hotel,3,354.8,5
+Milwaukee,Ambassador Hotel,2,324.8,6
+Milwaukee,Ambassador Hotel,2,324.8,7
+Milwaukee,Ambassador Hotel,2,324.8,8
+Milwaukee,Ambassador Hotel,3,354.8,9
+Milwaukee,Ambassador Hotel,3,354.8,10
+Milwaukee,The Iron Horse Hotel,3,349.2,1
+Milwaukee,The Iron Horse Hotel,2,319.2,2
+Milwaukee,The Iron Horse Hotel,4,379.2,3
+Milwaukee,The Iron Horse Hotel,3,349.2,4
+Milwaukee,The Iron Horse Hotel,3,349.2,5
+Milwaukee,The Iron Horse Hotel,4,379.2,6
+Milwaukee,The Iron Horse Hotel,3,349.2,7
+Milwaukee,The Iron Horse Hotel,2,319.2,8
+Milwaukee,The Iron Horse Hotel,3,349.2,9
+Milwaukee,The Iron Horse Hotel,2,319.2,10
+Milwaukee,The Plaza Hotel,3,178.1,1
+Milwaukee,The Plaza Hotel,2,148.1,2
+Milwaukee,The Plaza Hotel,3,178.1,3
+Milwaukee,The Plaza Hotel,3,178.1,4
+Milwaukee,The Plaza Hotel,3,178.1,5
+Milwaukee,The Plaza Hotel,2,148.1,6
+Milwaukee,The Plaza Hotel,2,148.1,7
+Milwaukee,The Plaza Hotel,2,148.1,8
+Milwaukee,The Plaza Hotel,3,178.1,9
+Milwaukee,The Plaza Hotel,3,178.1,10
+Milwaukee,Clarion Hotel,2,138.8,1
+Milwaukee,Clarion Hotel,2,138.8,2
+Milwaukee,Clarion Hotel,3,168.8,3
+Milwaukee,Clarion Hotel,2,138.8,4
+Milwaukee,Clarion Hotel,3,168.8,5
+Milwaukee,Clarion Hotel,2,138.8,6
+Milwaukee,Clarion Hotel,3,168.8,7
+Milwaukee,Clarion Hotel,3,168.8,8
+Milwaukee,Clarion Hotel,3,168.8,9
+Milwaukee,Clarion Hotel,2,138.8,10
+Atlanta,Thompson Buckhead,3,570.5,1
+Atlanta,Thompson Buckhead,2,540.5,2
+Atlanta,Thompson Buckhead,2,540.5,3
+Atlanta,Thompson Buckhead,3,570.5,4
+Atlanta,Thompson Buckhead,3,570.5,5
+Atlanta,Thompson Buckhead,3,570.5,6
+Atlanta,Thompson Buckhead,2,540.5,7
+Atlanta,Thompson Buckhead,2,540.5,8
+Atlanta,Thompson Buckhead,2,540.5,9
+Atlanta,Thompson Buckhead,2,540.5,10
+Atlanta,The St. Regis Atlanta,2,539.3,1
+Atlanta,The St. Regis Atlanta,3,569.3,2
+Atlanta,The St. Regis Atlanta,3,569.3,3
+Atlanta,The St. Regis Atlanta,3,569.3,4
+Atlanta,The St. Regis Atlanta,3,569.3,5
+Atlanta,The St. Regis Atlanta,2,539.3,6
+Atlanta,The St. Regis Atlanta,2,539.3,7
+Atlanta,The St. Regis Atlanta,3,569.3,8
+Atlanta,The St. Regis Atlanta,3,569.3,9
+Atlanta,The St. Regis Atlanta,2,539.3,10
+Atlanta,JW Marriott Atlanta Buckhead,2,530.7,1
+Atlanta,JW Marriott Atlanta Buckhead,3,560.7,2
+Atlanta,JW Marriott Atlanta Buckhead,3,560.7,3
+Atlanta,JW Marriott Atlanta Buckhead,2,530.7,4
+Atlanta,JW Marriott Atlanta Buckhead,2,530.7,5
+Atlanta,JW Marriott Atlanta Buckhead,2,530.7,6
+Atlanta,JW Marriott Atlanta Buckhead,3,560.7,7
+Atlanta,JW Marriott Atlanta Buckhead,2,530.7,8
+Atlanta,JW Marriott Atlanta Buckhead,2,530.7,9
+Atlanta,JW Marriott Atlanta Buckhead,2,530.7,10
+Atlanta,Reverb by Hard Rock Atlanta Downtown,3,362.1,1
+Atlanta,Reverb by Hard Rock Atlanta Downtown,3,362.1,2
+Atlanta,Reverb by Hard Rock Atlanta Downtown,2,332.1,3
+Atlanta,Reverb by Hard Rock Atlanta Downtown,3,362.1,4
+Atlanta,Reverb by Hard Rock Atlanta Downtown,3,362.1,5
+Atlanta,Reverb by Hard Rock Atlanta Downtown,2,332.1,6
+Atlanta,Reverb by Hard Rock Atlanta Downtown,3,362.1,7
+Atlanta,Reverb by Hard Rock Atlanta Downtown,2,332.1,8
+Atlanta,Reverb by Hard Rock Atlanta Downtown,2,332.1,9
+Atlanta,Reverb by Hard Rock Atlanta Downtown,3,362.1,10
+Atlanta,Hyatt Regency Atlanta,2,328.9,1
+Atlanta,Hyatt Regency Atlanta,2,328.9,2
+Atlanta,Hyatt Regency Atlanta,3,358.9,3
+Atlanta,Hyatt Regency Atlanta,3,358.9,4
+Atlanta,Hyatt Regency Atlanta,2,328.9,5
+Atlanta,Hyatt Regency Atlanta,3,358.9,6
+Atlanta,Hyatt Regency Atlanta,2,328.9,7
+Atlanta,Hyatt Regency Atlanta,3,358.9,8
+Atlanta,Hyatt Regency Atlanta,3,358.9,9
+Atlanta,Hyatt Regency Atlanta,3,358.9,10
+Atlanta,Hampton Inn Atlanta-Buckhead,2,139.2,1
+Atlanta,Hampton Inn Atlanta-Buckhead,3,169.2,2
+Atlanta,Hampton Inn Atlanta-Buckhead,2,139.2,3
+Atlanta,Hampton Inn Atlanta-Buckhead,2,139.2,4
+Atlanta,Hampton Inn Atlanta-Buckhead,1,109.2,5
+Atlanta,Hampton Inn Atlanta-Buckhead,2,139.2,6
+Atlanta,Hampton Inn Atlanta-Buckhead,3,169.2,7
+Atlanta,Hampton Inn Atlanta-Buckhead,2,139.2,8
+Atlanta,Hampton Inn Atlanta-Buckhead,3,169.2,9
+Atlanta,Hampton Inn Atlanta-Buckhead,2,139.2,10
+Charlotte,The Ivey's Hotel,2,534.3,1
+Charlotte,The Ivey's Hotel,3,564.3,2
+Charlotte,The Ivey's Hotel,2,534.3,3
+Charlotte,The Ivey's Hotel,3,564.3,4
+Charlotte,The Ivey's Hotel,4,594.3,5
+Charlotte,The Ivey's Hotel,3,564.3,6
+Charlotte,The Ivey's Hotel,3,564.3,7
+Charlotte,The Ivey's Hotel,3,564.3,8
+Charlotte,The Ivey's Hotel,2,534.3,9
+Charlotte,The Ivey's Hotel,2,534.3,10
+Charlotte,JW Marriott Charlotte,3,561.9,1
+Charlotte,JW Marriott Charlotte,3,561.9,2
+Charlotte,JW Marriott Charlotte,2,531.9,3
+Charlotte,JW Marriott Charlotte,4,591.9,4
+Charlotte,JW Marriott Charlotte,3,561.9,5
+Charlotte,JW Marriott Charlotte,3,561.9,6
+Charlotte,JW Marriott Charlotte,2,531.9,7
+Charlotte,JW Marriott Charlotte,2,531.9,8
+Charlotte,JW Marriott Charlotte,2,531.9,9
+Charlotte,JW Marriott Charlotte,3,561.9,10
+Charlotte,Four Points by Sheraton Charlotte,3,365.6,1
+Charlotte,Four Points by Sheraton Charlotte,2,335.6,2
+Charlotte,Four Points by Sheraton Charlotte,2,335.6,3
+Charlotte,Four Points by Sheraton Charlotte,2,335.6,4
+Charlotte,Four Points by Sheraton Charlotte,3,365.6,5
+Charlotte,Four Points by Sheraton Charlotte,2,335.6,6
+Charlotte,Four Points by Sheraton Charlotte,3,365.6,7
+Charlotte,Four Points by Sheraton Charlotte,2,335.6,8
+Charlotte,Four Points by Sheraton Charlotte,2,335.6,9
+Charlotte,Four Points by Sheraton Charlotte,2,335.6,10
+Charlotte,Kimpton Tryon Park Hotel,3,358.2,1
+Charlotte,Kimpton Tryon Park Hotel,2,328.2,2
+Charlotte,Kimpton Tryon Park Hotel,3,358.2,3
+Charlotte,Kimpton Tryon Park Hotel,2,328.2,4
+Charlotte,Kimpton Tryon Park Hotel,3,358.2,5
+Charlotte,Kimpton Tryon Park Hotel,2,328.2,6
+Charlotte,Kimpton Tryon Park Hotel,2,328.2,7
+Charlotte,Kimpton Tryon Park Hotel,3,358.2,8
+Charlotte,Kimpton Tryon Park Hotel,2,328.2,9
+Charlotte,Kimpton Tryon Park Hotel,2,328.2,10
+Charlotte,Hilton Charlotte Uptown,3,374.7,1
+Charlotte,Hilton Charlotte Uptown,3,374.7,2
+Charlotte,Hilton Charlotte Uptown,3,374.7,3
+Charlotte,Hilton Charlotte Uptown,2,344.7,4
+Charlotte,Hilton Charlotte Uptown,3,374.7,5
+Charlotte,Hilton Charlotte Uptown,3,374.7,6
+Charlotte,Hilton Charlotte Uptown,4,404.7,7
+Charlotte,Hilton Charlotte Uptown,3,374.7,8
+Charlotte,Hilton Charlotte Uptown,2,344.7,9
+Charlotte,Hilton Charlotte Uptown,3,374.7,10
+Charlotte,Radisson Hotel Charlotte Airport,2,130.9,1
+Charlotte,Radisson Hotel Charlotte Airport,3,160.9,2
+Charlotte,Radisson Hotel Charlotte Airport,2,130.9,3
+Charlotte,Radisson Hotel Charlotte Airport,3,160.9,4
+Charlotte,Radisson Hotel Charlotte Airport,2,130.9,5
+Charlotte,Radisson Hotel Charlotte Airport,3,160.9,6
+Charlotte,Radisson Hotel Charlotte Airport,3,160.9,7
+Charlotte,Radisson Hotel Charlotte Airport,3,160.9,8
+Charlotte,Radisson Hotel Charlotte Airport,3,160.9,9
+Charlotte,Radisson Hotel Charlotte Airport,3,160.9,10

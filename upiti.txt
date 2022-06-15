@@ -24,7 +24,7 @@ CREATE (:Hotel {city: line.city, name:line.name, stars: toInteger(line.stars), l
 6.
 
 LOAD CSV WITH HEADERS FROM 'file:///rooms.csv' AS line
-CREATE (:Room {city: line.city, hotelName: line.hotel_name, beds: toInteger(line.beds), dailyPrice: toFloat(line.daily_price), occupied: toInteger(line.occupied)})
+CREATE (:Room {city: line.city, hotelName: line.hotel_name, beds: toInteger(line.beds), dailyPrice: toFloat(line.daily_price), roomNumber: toInteger(line.room_number)})
 
 7.
 
