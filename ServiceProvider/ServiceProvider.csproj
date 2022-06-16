@@ -67,6 +67,13 @@
     <Compile Include="City.cs" />
     <Compile Include="Client.cs" />
     <Compile Include="DatabaseService.cs" />
+    <Compile Include="Hotel.cs" />
+    <Compile Include="HotelControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="HotelControl.Designer.cs">
+      <DependentUpon>HotelControl.cs</DependentUpon>
+    </Compile>
     <Compile Include="LoginForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -93,6 +100,9 @@
     <Compile Include="ReservationForm.Designer.cs">
       <DependentUpon>ReservationForm.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="HotelControl.resx">
+      <DependentUpon>HotelControl.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="LoginForm.resx">
       <DependentUpon>LoginForm.cs</DependentUpon>
     </EmbeddedResource>

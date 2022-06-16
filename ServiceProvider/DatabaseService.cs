@@ -96,9 +96,9 @@ namespace ServiceProvider
             }
         }
 
-        public void Register(string firstName, string lastName, string gender, 
-                             string email, string address, string dob, 
-                             string placeOfBirth, long pin, string password) 
+        public void Register(string firstName, string lastName, string gender,
+                             string email, string address, string dob,
+                             string placeOfBirth, long pin, string password)
         {
             using (var session = driver.Session())
             {
@@ -109,9 +109,18 @@ namespace ServiceProvider
                         "gender: $gender, email: $email, address: $address, " +
                         "dateOfBirth: $dob, placeOfBirth: $placeOfBirth, pin: $pin, " +
                         "password: $password" +
-                        "})", 
-                        new { firstName, lastName, gender, email, 
-                              address, dob, placeOfBirth, pin, password
+                        "})",
+                        new
+                        {
+                            firstName,
+                            lastName,
+                            gender,
+                            email,
+                            address,
+                            dob,
+                            placeOfBirth,
+                            pin,
+                            password
                         });
 
                     var summary = query_result.Consume();
@@ -122,7 +131,8 @@ namespace ServiceProvider
             }
         }
 
-        public bool ValidateEmail(string email) {
+        public bool ValidateEmail(string email)
+        {
             using (var session = driver.Session())
             {
                 bool emailExists = session.ReadTransaction(tx =>
@@ -136,6 +146,56 @@ namespace ServiceProvider
                 });
                 if (emailExists) return false;
                 return true;
+            }
+        }
+
+        public List<Hotel> GetHotels(string city, DateTime dateFrom, DateTime dateUntil, int personNumber)
+        {
+            using (var session = driver.Session())
+            {
+                List<Hotel> hotels = session.ReadTransaction(tx =>
+                {
+                    var result = tx.Run("" +
+                        "MATCH (h:Hotel)-[:OFFERS]->(r:Room), (z:Reservation) " +
+                        "WHERE h.city = $city " +
+                        "AND r.beds >= $personNumber " +
+                        "AND (" +
+                        "(NOT (r)-[:TAKE]->()) " +
+                        "OR " +
+                        "((r)-[:TAKE]->(z) AND (z.checkIn > $dateUntil OR z.checkOut < $dateFrom))" +
+                        ") " +
+                        "RETURN h.name, h.stars, h.half_board, h.full_board, h.all_inclusive",
+                        new { city, dateFrom, dateUntil, personNumber });
+                    
+                    /*
+                    var result = tx.Run("" +
+                        "MATCH (h:Hotel)-[:OFFERS]-(r:Room)-[t?:TAKE]-(z:Reservation) " +
+                        "WHERE h.city = $city " +
+                        "AND r.beds >= $personNumber " +
+                        "AND (" +
+                        "(t is null) " +
+                        "OR " +
+                        "(z.checkIn > dateUntil OR z.checkOut < dateFrom)" +
+                        ") " +
+                        "RETURN h.name, h.stars, h.half_board, h.full_board, h.all_inclusive",
+                        new { city, dateFrom, dateUntil, personNumber });
+                    */
+                    List<Hotel> fetchedHotels = new List<Hotel>();
+
+                    foreach (var record in result)
+                    {
+                        fetchedHotels.Add(new Hotel()
+                        {
+                            name = record["h.name"].ToString(),
+                            stars = record["h.stars"].ToString(),
+                            halfBoard = record["h.half_board"].ToString(),
+                            fullBoard = record["h.full_board"].ToString(),
+                            allInclusive = record["h.all_inclusive"].ToString(),
+                        });
+                    }
+                    return fetchedHotels;
+                });
+                return hotels;
             }
         }
     }

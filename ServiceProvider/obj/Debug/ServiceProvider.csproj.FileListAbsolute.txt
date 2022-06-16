@@ -73,3 +73,5 @@ C:\Users\benko\OneDrive\Radna površina\Faks\4.semestar\Napredne baze\NBP-projek
 C:\Users\benko\OneDrive\Radna površina\Faks\4.semestar\Napredne baze\NBP-projekt\ServiceProvider\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\benko\OneDrive\Radna površina\Faks\4.semestar\Napredne baze\NBP-projekt\ServiceProvider\bin\Debug\System.ValueTuple.xml
 C:\Users\benko\OneDrive\Radna površina\Faks\4.semestar\Napredne baze\NBP-projekt\ServiceProvider\obj\Debug\ServiceProvider.csproj.CopyComplete
+C:\Users\matij\OneDrive\Radna površina\NBP-projekt\ServiceProvider\obj\Debug\ServiceProvider.HotelControl.resources
+C:\Users\matij\OneDrive\Radna površina\NBP-projekt\ServiceProvider\obj\Debug\ServiceProvider.RegisterForm.resources

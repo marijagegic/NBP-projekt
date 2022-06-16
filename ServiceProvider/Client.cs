@@ -32,7 +32,5 @@ namespace ServiceProvider
             this.dateOfBirth = dateOfBirth;
             this.password = password;
         }
-
-
     }
 }
