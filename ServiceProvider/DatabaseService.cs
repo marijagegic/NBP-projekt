@@ -149,32 +149,34 @@ namespace ServiceProvider
             }
         }
 
-        public List<string> GetHotelRecommendations(string email, string destination, int ageDiff, int distance)
+        public List<Tuple<string, string, string>> GetHotelRecommendations(string email, string destination, int ageDiff, int distance, int limit)
         {
             using (var session = driver.Session())
             {
-                List<string> hotels = session.ReadTransaction(tx =>
+                List<Tuple<string, string, string>> hotels = session.ReadTransaction(tx =>
                 {
                     var result = tx.Run("" +
                         "MATCH(curr_client: Client), (destination: City), " +
-                        "(c: Client) -[RESERVED] - (r: Reservation) -[IN] - (h: Hotel) -[SITUATED_IN] - (city: City) " +
+                        "(client: Client) -[RESERVED] - (r: Reservation) -[IN] - (h: Hotel) -[SITUATED_IN] - (city: City) " +
                         "WHERE curr_client.email = $email " +
                         "AND destination.name = $destination " +
-                        "AND c.dateOfBirth > curr_client.dateOfBirth - Duration({ years: $ageDiff}) " +
-                        "AND c.dateOfBirth < curr_client.dateOfBirth + Duration({ years: $ageDiff}) " +
+                        "AND client.dateOfBirth > curr_client.dateOfBirth - Duration({ years: $ageDiff}) " +
+                        "AND client.dateOfBirth < curr_client.dateOfBirth + Duration({ years: $ageDiff}) " +
                         "WITH point.distance(" +
                         "point({ longitude: destination.lon, latitude: destination.lat, crs: 'WGS-84'}), " +
                         "point({ longitude: h.lon, latitude: h.lat, crs: 'WGS-84'})) as dist, h as h " +
                         "WHERE dist < $distance " +
-                        "RETURN h.name, count(*) as cnt, dist ORDER BY cnt",
-                        new { email, destination, ageDiff, distance }
+                        "RETURN h.name, count(*) as cnt, h.stars, city.name dist ORDER BY cnt LIMIT $limit",
+                        new { email, destination, ageDiff, distance, limit }
                         );
 
-                    List<string> fetchedHotels = new List<string>();
+                    List<Tuple<string, string, string>> fetchedHotels = new List<Tuple<string, string, string>>();
 
                     foreach (var record in result)
                     {
-                        fetchedHotels.Add(record["a.name"].ToString());
+                        Tuple<string, string, string> item = new Tuple<string, string, string>(record["h.name"].ToString(), record["h.stars"].ToString(), record["city.name"].ToString());
+                        fetchedHotels.Add(item);
+
                     }
 
                     return fetchedHotels;

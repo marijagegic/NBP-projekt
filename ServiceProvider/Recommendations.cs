@@ -19,6 +19,10 @@ namespace ServiceProvider
             InitializeComponent();
             databaseService = new DatabaseService();
             clientEmail = email;
+            textBox1.Text = "any";
+            textBox2.Text = "5";
+            textBox3.Text = "100000";
+            textBox5.Text = "5";
         }
 
 
@@ -61,7 +65,18 @@ namespace ServiceProvider
 
         private void dataGridView1_Load(object sender, EventArgs e)
         {
-            List<Tuple<string, string, string>> hotelList = databaseService.GetHotelRecommendationsForClient(clientEmail, 5, 3);
+            string city = textBox1.Text;
+            int ageDiff = Int32.Parse(textBox2.Text);
+            int dist = Int32.Parse(textBox3.Text);
+            int limit = Int32.Parse(textBox5.Text);
+            List<Tuple<string, string, string>> hotelList;
+            if (city == "any") {
+                hotelList = databaseService.GetHotelRecommendationsForClient(clientEmail, ageDiff, limit);
+            }
+            else
+            {
+                hotelList = databaseService.GetHotelRecommendations(clientEmail, city, ageDiff, dist, limit);
+            }
 
             DataTable Hotels = new DataTable("Hotels");
             
@@ -90,5 +105,11 @@ namespace ServiceProvider
             
             dataGridView1.Refresh();
         }
+    private void button1_Click(object sender, EventArgs e)
+        {
+            dataGridView1_Load(sender, e);
+        }
+
+
     }
 }
