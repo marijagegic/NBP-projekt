@@ -69,7 +69,8 @@ namespace ServiceProvider
 
         private void LoginForm_Load(object sender, EventArgs e)
         {
-
+            DateTime today = DateTime.Now;
+            this.databaseService.CheckExpiredReservations(today.ToString("yyyy-MM-dd"));
         }
     }
 }
