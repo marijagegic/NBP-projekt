@@ -107,7 +107,7 @@ namespace ServiceProvider
                     var query_result = tx.Run("" +
                         "CREATE (c:Client {firstName: $firstName, lastName: $lastName, " +
                         "gender: $gender, email: $email, address: $address, " +
-                        "dateOfBirth: $dob, placeOfBirth: $placeOfBirth, pin: $pin, " +
+                        "dateOfBirth: date($dob), placeOfBirth: $placeOfBirth, pin: $pin, " +
                         "password: $password" +
                         "})",
                         new
@@ -271,6 +271,24 @@ namespace ServiceProvider
                     return fetchedHotels;
                 });
                 return hotels;
+            }
+        }
+
+        public void CheckExpiredReservations(string today) {
+            using (var session = driver.Session())
+            {
+                var result = session.WriteTransaction(tx =>
+                {
+                    var query_result = tx.Run("" +
+                        "MATCH (res:Reservation)-[t:TAKES]->(room:Room) " + 
+                        "WHERE res.checkOut < date($today) " +
+                        "DELETE t;",
+                        new { today }
+                       );
+
+                    return query_result;
+                });
+                return;
             }
         }
     }

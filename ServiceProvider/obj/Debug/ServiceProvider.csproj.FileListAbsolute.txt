@@ -133,3 +133,5 @@ C:\Users\gegic\Desktop\NBP\ServiceProvider\obj\Debug\ServiceProvider.csproj.Core
 C:\Users\gegic\Desktop\NBP\ServiceProvider\obj\Debug\ServiceProvider.csproj.CopyComplete
 C:\Users\gegic\Desktop\NBP\ServiceProvider\obj\Debug\ServiceProvider.exe
 C:\Users\gegic\Desktop\NBP\ServiceProvider\obj\Debug\ServiceProvider.pdb
+C:\Users\benko\OneDrive\Radna površina\Faks\4.semestar\Napredne baze\NBP-projekt\ServiceProvider\obj\Debug\ServiceProvider.HotelControl.resources
+C:\Users\benko\OneDrive\Radna površina\Faks\4.semestar\Napredne baze\NBP-projekt\ServiceProvider\obj\Debug\ServiceProvider.Recommendations.resources
