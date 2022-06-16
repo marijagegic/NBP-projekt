@@ -1,6 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Drawing;
+using System.IO;
 using System.Linq;
+using System.Net;
 using System.Windows.Forms;
 using Neo4j.Driver;
 
@@ -15,6 +18,16 @@ namespace ServiceProvider
             InitializeComponent();
             textBox2.UseSystemPasswordChar = true;
             databaseService = new DatabaseService();
+
+            var request = WebRequest.Create("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlyou9zwZUVNkPxk4TSR6uEWHBT6-KBfGsHMUcZqZprM3Lj7IbBJ3yhJeEftLLoFEe3DI&usqp=CAU");
+
+            using (var response = request.GetResponse())
+            using (var stream = response.GetResponseStream())
+            {
+                
+                pictureBox1.Image = Bitmap.FromStream(stream);
+            }
+
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -43,7 +56,7 @@ namespace ServiceProvider
             }
 
             this.Hide();
-            MainForm m = new MainForm();
+            MainForm m = new MainForm(textBox1.Text);
             m.Show();
         }
 
@@ -52,6 +65,11 @@ namespace ServiceProvider
             this.Hide();
             RegisterForm r = new RegisterForm();
             r.Show();
+        }
+
+        private void LoginForm_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

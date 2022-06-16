@@ -28,7 +28,7 @@ namespace ServiceProvider
                         "AND a.lastName = $lastName " +
                         "RETURN a.firstName, a.lastName, a.placeOfBirth, a.address",
                         new { firstName, lastName });
-                    
+
                     var record = result.First();
                     return new Client()
                     {
@@ -77,9 +77,9 @@ namespace ServiceProvider
                         "MATCH (a: Client) " +
                         "WHERE a.email = $username " +
                         "RETURN a.password",
-                        new {username});
+                        new { username });
                     List<string> passwords = new List<string>();
-                    foreach(var record in result)
+                    foreach (var record in result)
                     {
                         passwords.Add(record["a.password"].ToString());
                     }
@@ -149,6 +149,73 @@ namespace ServiceProvider
             }
         }
 
+        public List<string> GetHotelRecommendations(string email, string destination, int ageDiff, int distance)
+        {
+            using (var session = driver.Session())
+            {
+                List<string> hotels = session.ReadTransaction(tx =>
+                {
+                    var result = tx.Run("" +
+                        "MATCH(curr_client: Client), (destination: City), " +
+                        "(c: Client) -[RESERVED] - (r: Reservation) -[IN] - (h: Hotel) -[SITUATED_IN] - (city: City) " +
+                        "WHERE curr_client.email = $email " +
+                        "AND destination.name = $destination " +
+                        "AND c.dateOfBirth > curr_client.dateOfBirth - Duration({ years: $ageDiff}) " +
+                        "AND c.dateOfBirth < curr_client.dateOfBirth + Duration({ years: $ageDiff}) " +
+                        "WITH point.distance(" +
+                        "point({ longitude: destination.lon, latitude: destination.lat, crs: 'WGS-84'}), " +
+                        "point({ longitude: h.lon, latitude: h.lat, crs: 'WGS-84'})) as dist, h as h " +
+                        "WHERE dist < $distance " +
+                        "RETURN h.name, count(*) as cnt, dist ORDER BY cnt",
+                        new { email, destination, ageDiff, distance }
+                        );
+
+                    List<string> fetchedHotels = new List<string>();
+
+                    foreach (var record in result)
+                    {
+                        fetchedHotels.Add(record["a.name"].ToString());
+                    }
+
+                    return fetchedHotels;
+                });
+                return hotels;
+            }
+        }
+
+        public List<Tuple<string, string, string>> GetHotelRecommendationsForClient(string email, int ageDiff, int limit)
+        {
+            using (var session = driver.Session())
+            {
+                List<Tuple<string, string, string>> hotels = session.ReadTransaction(tx =>
+               {
+
+                   var result = tx.Run("" +
+                       "MATCH(curr_client: Client), (destination: City), " +
+                       "(client: Client) -[RESERVED] - (r: Reservation) -[IN] - (h: Hotel) -[SITUATED_IN] - (city: City)" +
+                       "WHERE curr_client.email =  $email " +
+                       "AND client.gender = curr_client.gender " +
+                       "AND client.dateOfBirth > curr_client.dateOfBirth - Duration({ years: $ageDiff}) " +
+                       "AND client.dateOfBirth < curr_client.dateOfBirth + Duration({ years: $ageDiff}) " +
+                       "RETURN h.name, h.stars, city.name, count(*) as cnt ORDER BY cnt LIMIT $limit",
+                       new { email, ageDiff, limit }
+                       );
+
+                   List<Tuple<string, string, string>> fetchedHotels = new List<Tuple<string, string, string>>();
+
+                   foreach (var record in result)
+                   {
+                       Tuple<string, string, string> item = new Tuple<string, string, string>(record["h.name"].ToString(), record["h.stars"].ToString(), record["city.name"].ToString());
+                       fetchedHotels.Add(item);
+
+                   }
+
+                   return fetchedHotels;
+               });
+                return hotels;
+            }
+        }
+
         public List<Hotel> GetHotels(string city, DateTime dateFrom, DateTime dateUntil, int personNumber)
         {
             using (var session = driver.Session())
@@ -165,8 +232,14 @@ namespace ServiceProvider
                         "((r)-[:TAKE]->(z) AND (z.checkIn > $dateUntil OR z.checkOut < $dateFrom))" +
                         ") " +
                         "RETURN h.name, h.stars, h.half_board, h.full_board, h.all_inclusive",
-                        new { city, dateFrom, dateUntil, personNumber });
-                    
+                        new
+                        {
+                            city,
+                            dateFrom,
+                            dateUntil,
+                            personNumber
+                        });
+
                     /*
                     var result = tx.Run("" +
                         "MATCH (h:Hotel)-[:OFFERS]-(r:Room)-[t?:TAKE]-(z:Reservation) " +
