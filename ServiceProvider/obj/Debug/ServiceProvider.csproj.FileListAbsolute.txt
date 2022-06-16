@@ -47,3 +47,29 @@ C:\Users\matij\OneDrive\Radna površina\NBP-projekt\ServiceProvider\obj\Debug\Se
 C:\Users\matij\OneDrive\Radna površina\NBP-projekt\ServiceProvider\obj\Debug\ServiceProvider.LoginForm.resources
 C:\Users\matij\OneDrive\Radna površina\NBP-projekt\ServiceProvider\obj\Debug\ServiceProvider.MainForm.resources
 C:\Users\matij\OneDrive\Radna površina\NBP-projekt\ServiceProvider\obj\Debug\ServiceProvider.ReservationForm.resources
+C:\Users\benko\OneDrive\Radna površina\Faks\4.semestar\Napredne baze\NBP-projekt\ServiceProvider\obj\Debug\ServiceProvider.csproj.AssemblyReference.cache
+C:\Users\benko\OneDrive\Radna površina\Faks\4.semestar\Napredne baze\NBP-projekt\ServiceProvider\obj\Debug\ServiceProvider.LoginForm.resources
+C:\Users\benko\OneDrive\Radna površina\Faks\4.semestar\Napredne baze\NBP-projekt\ServiceProvider\obj\Debug\ServiceProvider.MainForm.resources
+C:\Users\benko\OneDrive\Radna površina\Faks\4.semestar\Napredne baze\NBP-projekt\ServiceProvider\obj\Debug\ServiceProvider.Properties.Resources.resources
+C:\Users\benko\OneDrive\Radna površina\Faks\4.semestar\Napredne baze\NBP-projekt\ServiceProvider\obj\Debug\ServiceProvider.RegisterForm.resources
+C:\Users\benko\OneDrive\Radna površina\Faks\4.semestar\Napredne baze\NBP-projekt\ServiceProvider\obj\Debug\ServiceProvider.ReservationForm.resources
+C:\Users\benko\OneDrive\Radna površina\Faks\4.semestar\Napredne baze\NBP-projekt\ServiceProvider\obj\Debug\ServiceProvider.csproj.GenerateResource.cache
+C:\Users\benko\OneDrive\Radna površina\Faks\4.semestar\Napredne baze\NBP-projekt\ServiceProvider\obj\Debug\ServiceProvider.csproj.CoreCompileInputs.cache
+C:\Users\benko\OneDrive\Radna površina\Faks\4.semestar\Napredne baze\NBP-projekt\ServiceProvider\obj\Debug\ServiceProvider.exe
+C:\Users\benko\OneDrive\Radna površina\Faks\4.semestar\Napredne baze\NBP-projekt\ServiceProvider\obj\Debug\ServiceProvider.pdb
+C:\Users\benko\OneDrive\Radna površina\Faks\4.semestar\Napredne baze\NBP-projekt\ServiceProvider\bin\Debug\ServiceProvider.exe.config
+C:\Users\benko\OneDrive\Radna površina\Faks\4.semestar\Napredne baze\NBP-projekt\ServiceProvider\bin\Debug\ServiceProvider.exe
+C:\Users\benko\OneDrive\Radna površina\Faks\4.semestar\Napredne baze\NBP-projekt\ServiceProvider\bin\Debug\ServiceProvider.pdb
+C:\Users\benko\OneDrive\Radna površina\Faks\4.semestar\Napredne baze\NBP-projekt\ServiceProvider\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\benko\OneDrive\Radna površina\Faks\4.semestar\Napredne baze\NBP-projekt\ServiceProvider\bin\Debug\Neo4j.Driver.dll
+C:\Users\benko\OneDrive\Radna površina\Faks\4.semestar\Napredne baze\NBP-projekt\ServiceProvider\bin\Debug\Neo4j.Driver.Simple.dll
+C:\Users\benko\OneDrive\Radna površina\Faks\4.semestar\Napredne baze\NBP-projekt\ServiceProvider\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\benko\OneDrive\Radna površina\Faks\4.semestar\Napredne baze\NBP-projekt\ServiceProvider\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\benko\OneDrive\Radna površina\Faks\4.semestar\Napredne baze\NBP-projekt\ServiceProvider\bin\Debug\System.ValueTuple.dll
+C:\Users\benko\OneDrive\Radna površina\Faks\4.semestar\Napredne baze\NBP-projekt\ServiceProvider\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\benko\OneDrive\Radna površina\Faks\4.semestar\Napredne baze\NBP-projekt\ServiceProvider\bin\Debug\Neo4j.Driver.xml
+C:\Users\benko\OneDrive\Radna površina\Faks\4.semestar\Napredne baze\NBP-projekt\ServiceProvider\bin\Debug\Neo4j.Driver.Simple.xml
+C:\Users\benko\OneDrive\Radna površina\Faks\4.semestar\Napredne baze\NBP-projekt\ServiceProvider\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\benko\OneDrive\Radna površina\Faks\4.semestar\Napredne baze\NBP-projekt\ServiceProvider\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\benko\OneDrive\Radna površina\Faks\4.semestar\Napredne baze\NBP-projekt\ServiceProvider\bin\Debug\System.ValueTuple.xml
+C:\Users\benko\OneDrive\Radna površina\Faks\4.semestar\Napredne baze\NBP-projekt\ServiceProvider\obj\Debug\ServiceProvider.csproj.CopyComplete
