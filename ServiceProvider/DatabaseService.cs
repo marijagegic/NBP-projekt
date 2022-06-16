@@ -280,7 +280,7 @@ namespace ServiceProvider
         {
             using (var session = driver.Session())
             {
-                string roomNumber = session.ReadTransaction(tx =>
+                int roomNumber = session.ReadTransaction(tx =>
                 {
                     var rooms = tx.Run("" +
                         "MATCH (h:Hotel)-[:OFFERS]->(r:Room), (z:Reservation) " +
@@ -289,7 +289,7 @@ namespace ServiceProvider
                         "AND (" +
                         "(NOT (r)-[:TAKES]->()) " +
                         "OR " +
-                        "((r)-[:TAKE]->(z) AND (z.checkIn > $checkOut OR z.checkOut < $checkIn))" +
+                        "((r)-[:TAKE]->(z) AND (z.checkIn > date($checkOut) OR z.checkOut < date($checkIn)))" +
                         ") " +
                         "RETURN distinct r.roomNumber",
                         new
@@ -299,7 +299,7 @@ namespace ServiceProvider
                             checkOut,
                             guests
                         });
-                    return rooms.First()["r.roomNumber"].ToString();
+                    return Int32.Parse(rooms.First()["r.roomNumber"].ToString());
                 });
 
                 var result = session.WriteTransaction(tx =>
@@ -307,8 +307,8 @@ namespace ServiceProvider
                     var query_result = tx.Run("" +
                         "MATCH (c:Client {email: $email}), " +
                         "(r:Room {roomNumber: $roomNumber})--(h:Hotel {name: $hotel}) " +
-                        "CREATE (c)-[:RESERVED]->(res:Reservation {checkIn: $checkIn, guests: $guests, " +
-                        "checkOut: $checkOut, option: $option})-[:TAKES]->(r)",
+                        "CREATE (c)-[:RESERVED]->(res:Reservation {checkIn: date($checkIn), guests: $guests, " +
+                        "checkOut: date($checkOut), option: $option})-[:TAKES]->(r)",
                         new
                         {
                             checkIn,
