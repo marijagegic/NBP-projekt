@@ -275,6 +275,58 @@ namespace ServiceProvider
                 return hotels;
             }
         }
+
+        public void CreateReservation(string option, DateTime checkIn, DateTime checkOut, int guests, string hotel, string email)
+        {
+            using (var session = driver.Session())
+            {
+                string roomNumber = session.ReadTransaction(tx =>
+                {
+                    var rooms = tx.Run("" +
+                        "MATCH (h:Hotel)-[:OFFERS]->(r:Room), (z:Reservation) " +
+                        "WHERE h.name = $hotel " +
+                        "AND r.beds >= $guests " +
+                        "AND (" +
+                        "(NOT (r)-[:TAKES]->()) " +
+                        "OR " +
+                        "((r)-[:TAKE]->(z) AND (z.checkIn > $checkOut OR z.checkOut < $checkIn))" +
+                        ") " +
+                        "RETURN distinct r.roomNumber",
+                        new
+                        {
+                            hotel,
+                            checkIn,
+                            checkOut,
+                            guests
+                        });
+                    return rooms.First()["r.roomNumber"].ToString();
+                });
+
+                var result = session.WriteTransaction(tx =>
+                {
+                    var query_result = tx.Run("" +
+                        "MATCH (c:Client {email: $email}), " +
+                        "(r:Room {roomNumber: $roomNumber})--(h:Hotel {name: $hotel}) " +
+                        "CREATE (c)-[:RESERVED]->(res:Reservation {checkIn: $checkIn, guests: $guests, " +
+                        "checkOut: $checkOut, option: $option})-[:TAKES]->(r)",
+                        new
+                        {
+                            checkIn,
+                            guests,
+                            checkOut,
+                            option,
+                            email,
+                            hotel,
+                            roomNumber
+                        });
+
+                    var summary = query_result.Consume();
+                    Console.WriteLine(summary);
+                    return query_result;
+                });
+                return;
+            }
+        }
     }
 }
     

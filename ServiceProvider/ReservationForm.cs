@@ -14,12 +14,18 @@ namespace ServiceProvider
     {
         private DatabaseService databaseService;
         private List<string> cities;
+        private DateTime checkIn;
+        private DateTime checkOut;
+        private int guests;
+        public string email;
 
-        public ReservationForm()
+        public ReservationForm(string clientEmail)
         {
             InitializeComponent();
+            email = clientEmail;
             databaseService = new DatabaseService();
             this.InitializeAutoComplete();
+            comboBox1.SelectedIndex = 0;
         }
 
         public void InitializeAutoComplete()
@@ -45,7 +51,11 @@ namespace ServiceProvider
                 return;
             }
 
-            List<Hotel> hotels = databaseService.GetHotels(textBox1.Text, dateTimePicker1.Value, dateTimePicker2.Value, (int)numericUpDown1.Value);
+            checkIn = dateTimePicker1.Value;
+            checkOut = dateTimePicker2.Value;
+            guests = (int)numericUpDown1.Value;
+
+            List<Hotel> hotels = databaseService.GetHotels(textBox1.Text, checkIn, checkOut, guests);
             foreach (Hotel hotel in hotels)
             {
                 var kontrola = new HotelControl()
@@ -71,6 +81,12 @@ namespace ServiceProvider
             dateTimePicker1.Value = DateTime.Now;
             dateTimePicker2.Value = DateTime.Now;
             numericUpDown1.Value = 1;
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            databaseService.CreateReservation(comboBox1.Text.ToLower(), checkIn, checkOut, guests, textBox2.Text, email);
+            this.Close();
         }
     }
 }
