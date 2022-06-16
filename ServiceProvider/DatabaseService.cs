@@ -225,15 +225,15 @@ namespace ServiceProvider
                 List<Hotel> hotels = session.ReadTransaction(tx =>
                 {
                     var result = tx.Run("" +
-                        "MATCH (h:Hotel)-[:OFFERS]->(r:Room), (z:Reservation) " +
-                        "WHERE h.city = $city " +
+                        "MATCH (c:City)-[:SITUATED_IN]-(h:Hotel)-[:OFFERS]->(r:Room), (z:Reservation) " +
+                        "WHERE c.name = $city " +
                         "AND r.beds >= $personNumber " +
                         "AND (" +
                         "(NOT (r)-[:TAKE]->()) " +
                         "OR " +
                         "((r)-[:TAKE]->(z) AND (z.checkIn > $dateUntil OR z.checkOut < $dateFrom))" +
                         ") " +
-                        "RETURN h.name, h.stars, h.half_board, h.full_board, h.all_inclusive",
+                        "RETURN distinct h.name, h.stars, h.halfBoard, h.fullBoard, h.allInclusive",
                         new
                         {
                             city,
@@ -256,18 +256,20 @@ namespace ServiceProvider
                         new { city, dateFrom, dateUntil, personNumber });
                     */
                     List<Hotel> fetchedHotels = new List<Hotel>();
-
                     foreach (var record in result)
                     {
-                        fetchedHotels.Add(new Hotel()
+                        Hotel h = new Hotel()
                         {
                             name = record["h.name"].ToString(),
                             stars = record["h.stars"].ToString(),
-                            halfBoard = record["h.half_board"].ToString(),
-                            fullBoard = record["h.full_board"].ToString(),
-                            allInclusive = record["h.all_inclusive"].ToString(),
-                        });
+                            halfBoard = record["h.halfBoard"].ToString(),
+                            fullBoard = record["h.fullBoard"].ToString(),
+                            allInclusive = record["h.allInclusive"].ToString(),
+                        };
+                        fetchedHotels.Add(h);
+                        Console.WriteLine(h.name);
                     }
+
                     return fetchedHotels;
                 });
                 return hotels;

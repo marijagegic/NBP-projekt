@@ -49,7 +49,7 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(27, 26);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(36, 20);
+            this.label1.Size = new System.Drawing.Size(29, 16);
             this.label1.TabIndex = 1;
             this.label1.Text = "City";
             // 
@@ -65,7 +65,7 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(27, 90);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(81, 20);
+            this.label2.Size = new System.Drawing.Size(65, 16);
             this.label2.TabIndex = 4;
             this.label2.Text = "Date from";
             // 
@@ -74,7 +74,7 @@
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(27, 159);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(78, 20);
+            this.label3.Size = new System.Drawing.Size(62, 16);
             this.label3.TabIndex = 5;
             this.label3.Text = "Date until";
             // 
@@ -97,7 +97,7 @@
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(27, 227);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(126, 20);
+            this.label4.Size = new System.Drawing.Size(101, 16);
             this.label4.TabIndex = 10;
             this.label4.Text = "Person number ";
             // 
@@ -140,6 +140,7 @@
             // 
             // flowLayoutPanel1
             // 
+            this.flowLayoutPanel1.AutoScroll = true;
             this.flowLayoutPanel1.Location = new System.Drawing.Point(260, 45);
             this.flowLayoutPanel1.Name = "flowLayoutPanel1";
             this.flowLayoutPanel1.Size = new System.Drawing.Size(496, 227);
@@ -158,6 +159,7 @@
             // 
             this.textBox2.Location = new System.Drawing.Point(260, 293);
             this.textBox2.Name = "textBox2";
+            this.textBox2.ReadOnly = true;
             this.textBox2.Size = new System.Drawing.Size(218, 22);
             this.textBox2.TabIndex = 16;
             // 
