@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -19,6 +20,15 @@ namespace ServiceProvider
             InitializeComponent();
             databaseService = new DatabaseService();
             clientEmail = email;
+
+            var request = WebRequest.Create("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/morrisadjmiarchitects-wythehotel-jimibillingsley-1-1180x791-1563201082.png?crop=0.674xw:1.00xh;0.254xw,0&resize=480:*");
+
+            using (var response = request.GetResponse())
+            using (var stream = response.GetResponseStream())
+            {
+
+                pictureBox1.Image = Bitmap.FromStream(stream);
+            }
         }
 
         private void button2_Click(object sender, EventArgs e)

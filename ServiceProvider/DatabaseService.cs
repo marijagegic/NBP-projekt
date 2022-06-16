@@ -145,13 +145,6 @@ namespace ServiceProvider
             {
                 List<string> hotels = session.ReadTransaction(tx =>
                 {
-                    /*
-                    var result = tx.Run("" +
-                        "MATCH (a:City) " +
-                        "WHERE toLower(a.name) CONTAINS toLower($name) " +
-                        "RETURN a.name",
-                        new { name }); */
-
                     var result = tx.Run("" +
                         "MATCH(curr_client: Client), (destination: City), " +
                         "(c: Client) -[RESERVED] - (r: Reservation) -[IN] - (h: Hotel) -[SITUATED_IN] - (city: City) " +
@@ -180,29 +173,31 @@ namespace ServiceProvider
             }
         }
 
-        public List<string> GetHotelRecommendationsForClient(string email, int ageDiff, int limit)
+        public List<Tuple<string, string, string>> GetHotelRecommendationsForClient(string email, int ageDiff, int limit)
         {
             using (var session = driver.Session())
             {
-                List<string> hotels = session.ReadTransaction(tx =>
+                List< Tuple<string, string, string>> hotels = session.ReadTransaction(tx =>
                 {
 
                     var result = tx.Run("" +
-                        "MATCH(curr_client: Client), (destination: City), " +
-                        "(c: Client) -[RESERVED] - (r: Reservation) -[IN] - (h: Hotel) -[SITUATED_IN] - (city: City) " +
-                        "WHERE curr_client.email = $email " +
-                        "AND c.gender = curr_client.gender " +
-                        "AND c.dateOfBirth > curr_client.dateOfBirth - Duration({ years: $ageDiff}) " +
-                        "AND c.dateOfBirth < curr_client.dateOfBirth + Duration({ years: $ageDiff}) " +
-                        "RETURN h.name, count(*) as cnt ORDER BY cnt LIMIT $limit",
+                        "MATCH(curr_client: Client), (destination: City), " + 
+                        "(client: Client) -[RESERVED] - (r: Reservation) -[IN] - (h: Hotel) -[SITUATED_IN] - (city: City)" + 
+                        "WHERE curr_client.email =  $email " +
+                        "AND client.gender = curr_client.gender " +
+                        "AND client.dateOfBirth > curr_client.dateOfBirth - Duration({ years: $ageDiff}) " +
+                        "AND client.dateOfBirth < curr_client.dateOfBirth + Duration({ years: $ageDiff}) " + 
+                        "RETURN h.name, h.stars, city.name, count(*) as cnt ORDER BY cnt LIMIT $limit",
                         new { email, ageDiff, limit }
                         );
 
-                    List<string> fetchedHotels = new List<string>();
+                    List<Tuple<string, string, string>> fetchedHotels = new List<Tuple<string, string, string>>();
 
                     foreach (var record in result)
                     {
-                        fetchedHotels.Add(record["h.name"].ToString());
+                        Tuple<string, string, string> item = new Tuple<string, string, string>(record["h.name"].ToString(), record["h.stars"].ToString(), record["city.name"].ToString());
+                        fetchedHotels.Add(item);
+
                     }
 
                     return fetchedHotels;

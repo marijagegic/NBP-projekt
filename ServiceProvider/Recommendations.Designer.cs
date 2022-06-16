@@ -29,7 +29,8 @@
         private void InitializeComponent()
         {
             this.label1 = new System.Windows.Forms.Label();
-            this.hotelList = new System.Windows.Forms.Label();
+            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -41,24 +42,25 @@
             this.label1.TabIndex = 0;
             this.label1.Text = "Our recommendations for you:";
             // 
-            // hotelList
+            // dataGridView1
             // 
-            this.hotelList.AutoSize = true;
-            this.hotelList.Location = new System.Drawing.Point(34, 47);
-            this.hotelList.Name = "hotelList";
-            this.hotelList.Size = new System.Drawing.Size(35, 13);
-            this.hotelList.TabIndex = 1;
-            this.hotelList.Text = "label2";
+            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.Location = new System.Drawing.Point(34, 57);
+            this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.Size = new System.Drawing.Size(340, 107);
+            this.dataGridView1.TabIndex = 1;
             // 
             // Recommendations
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(332, 159);
-            this.Controls.Add(this.hotelList);
+            this.ClientSize = new System.Drawing.Size(395, 221);
+            this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.label1);
             this.Name = "Recommendations";
             this.Text = "Recommendations";
+            this.Load += new System.EventHandler(this.dataGridView1_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -67,6 +69,6 @@
         #endregion
 
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label hotelList;
+        private System.Windows.Forms.DataGridView dataGridView1;
     }
 }
