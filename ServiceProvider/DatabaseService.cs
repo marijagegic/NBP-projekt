@@ -138,6 +138,78 @@ namespace ServiceProvider
                 return true;
             }
         }
+
+        public List<string> GetHotelRecommendations(string email, string destination, int ageDiff, int distance)
+        {
+            using (var session = driver.Session())
+            {
+                List<string> hotels = session.ReadTransaction(tx =>
+                {
+                    /*
+                    var result = tx.Run("" +
+                        "MATCH (a:City) " +
+                        "WHERE toLower(a.name) CONTAINS toLower($name) " +
+                        "RETURN a.name",
+                        new { name }); */
+
+                    var result = tx.Run("" +
+                        "MATCH(curr_client: Client), (destination: City), " +
+                        "(c: Client) -[RESERVED] - (r: Reservation) -[IN] - (h: Hotel) -[SITUATED_IN] - (city: City) " +
+                        "WHERE curr_client.email = $email " +
+                        "AND destination.name = $destination " +
+                        "AND c.dateOfBirth > curr_client.dateOfBirth - Duration({ years: $ageDiff}) " +
+                        "AND c.dateOfBirth < curr_client.dateOfBirth + Duration({ years: $ageDiff}) " +
+                        "WITH point.distance(" +
+                        "point({ longitude: destination.lon, latitude: destination.lat, crs: 'WGS-84'}), " +
+                        "point({ longitude: h.lon, latitude: h.lat, crs: 'WGS-84'})) as dist, h as h " +
+                        "WHERE dist < $distance " +
+                        "RETURN h.name, count(*) as cnt, dist ORDER BY cnt",
+                        new { email, destination, ageDiff, distance }
+                        );
+
+                    List<string> fetchedHotels = new List<string>();
+
+                    foreach (var record in result)
+                    {
+                        fetchedHotels.Add(record["a.name"].ToString());
+                    }
+
+                    return fetchedHotels;
+                });
+                return hotels;
+            }
+        }
+
+        public List<string> GetHotelRecommendationsForClient(string email, int ageDiff, int limit)
+        {
+            using (var session = driver.Session())
+            {
+                List<string> hotels = session.ReadTransaction(tx =>
+                {
+
+                    var result = tx.Run("" +
+                        "MATCH(curr_client: Client), (destination: City), " +
+                        "(c: Client) -[RESERVED] - (r: Reservation) -[IN] - (h: Hotel) -[SITUATED_IN] - (city: City) " +
+                        "WHERE curr_client.email = $email " +
+                        "AND c.gender = curr_client.gender " +
+                        "AND c.dateOfBirth > curr_client.dateOfBirth - Duration({ years: $ageDiff}) " +
+                        "AND c.dateOfBirth < curr_client.dateOfBirth + Duration({ years: $ageDiff}) " +
+                        "RETURN h.name, count(*) as cnt ORDER BY cnt LIMIT $limit",
+                        new { email, ageDiff, limit }
+                        );
+
+                    List<string> fetchedHotels = new List<string>();
+
+                    foreach (var record in result)
+                    {
+                        fetchedHotels.Add(record["h.name"].ToString());
+                    }
+
+                    return fetchedHotels;
+                });
+                return hotels;
+            }
+        }
     }
 }
     

@@ -13,11 +13,12 @@ namespace ServiceProvider
     public partial class MainForm : Form
     {
         private DatabaseService databaseService;
-
-        public MainForm()
+        string clientEmail;
+        public MainForm(string email)
         {
             InitializeComponent();
             databaseService = new DatabaseService();
+            clientEmail = email;
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -31,6 +32,12 @@ namespace ServiceProvider
         {
             ReservationForm p = new ReservationForm();
             p.ShowDialog();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Recommendations r = new Recommendations(clientEmail);
+            r.ShowDialog();
         }
     }
 }

@@ -43,7 +43,7 @@ namespace ServiceProvider
             }
 
             this.Hide();
-            MainForm m = new MainForm();
+            MainForm m = new MainForm(textBox1.Text);
             m.Show();
         }
 

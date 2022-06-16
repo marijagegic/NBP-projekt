@@ -47,7 +47,7 @@ namespace ServiceProvider
                 MessageBox.Show("Registration successful.");
                 this.Close();
 
-                MainForm m = new MainForm();
+                MainForm m = new MainForm(textBox3.Text);
                 m.Show();
             }
             else

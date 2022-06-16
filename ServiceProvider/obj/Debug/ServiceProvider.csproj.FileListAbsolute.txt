@@ -73,3 +73,31 @@ C:\Users\benko\OneDrive\Radna površina\Faks\4.semestar\Napredne baze\NBP-projek
 C:\Users\benko\OneDrive\Radna površina\Faks\4.semestar\Napredne baze\NBP-projekt\ServiceProvider\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\benko\OneDrive\Radna površina\Faks\4.semestar\Napredne baze\NBP-projekt\ServiceProvider\bin\Debug\System.ValueTuple.xml
 C:\Users\benko\OneDrive\Radna površina\Faks\4.semestar\Napredne baze\NBP-projekt\ServiceProvider\obj\Debug\ServiceProvider.csproj.CopyComplete
+C:\Users\gegic\Desktop\baze1\ServiceProvider\bin\Debug\ServiceProvider.exe.config
+C:\Users\gegic\Desktop\baze1\ServiceProvider\bin\Debug\ServiceProvider.exe
+C:\Users\gegic\Desktop\baze1\ServiceProvider\bin\Debug\ServiceProvider.pdb
+C:\Users\gegic\Desktop\baze1\ServiceProvider\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gegic\Desktop\baze1\ServiceProvider\bin\Debug\Neo4j.Driver.dll
+C:\Users\gegic\Desktop\baze1\ServiceProvider\bin\Debug\Neo4j.Driver.Simple.dll
+C:\Users\gegic\Desktop\baze1\ServiceProvider\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gegic\Desktop\baze1\ServiceProvider\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\gegic\Desktop\baze1\ServiceProvider\bin\Debug\System.ValueTuple.dll
+C:\Users\gegic\Desktop\baze1\ServiceProvider\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\gegic\Desktop\baze1\ServiceProvider\bin\Debug\Neo4j.Driver.xml
+C:\Users\gegic\Desktop\baze1\ServiceProvider\bin\Debug\Neo4j.Driver.Simple.xml
+C:\Users\gegic\Desktop\baze1\ServiceProvider\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gegic\Desktop\baze1\ServiceProvider\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\gegic\Desktop\baze1\ServiceProvider\bin\Debug\System.ValueTuple.xml
+C:\Users\gegic\Desktop\baze1\ServiceProvider\obj\Debug\ServiceProvider.csproj.AssemblyReference.cache
+C:\Users\gegic\Desktop\baze1\ServiceProvider\obj\Debug\ServiceProvider.csproj.SuggestedBindingRedirects.cache
+C:\Users\gegic\Desktop\baze1\ServiceProvider\obj\Debug\ServiceProvider.LoginForm.resources
+C:\Users\gegic\Desktop\baze1\ServiceProvider\obj\Debug\ServiceProvider.MainForm.resources
+C:\Users\gegic\Desktop\baze1\ServiceProvider\obj\Debug\ServiceProvider.Properties.Resources.resources
+C:\Users\gegic\Desktop\baze1\ServiceProvider\obj\Debug\ServiceProvider.RegisterForm.resources
+C:\Users\gegic\Desktop\baze1\ServiceProvider\obj\Debug\ServiceProvider.ReservationForm.resources
+C:\Users\gegic\Desktop\baze1\ServiceProvider\obj\Debug\ServiceProvider.csproj.GenerateResource.cache
+C:\Users\gegic\Desktop\baze1\ServiceProvider\obj\Debug\ServiceProvider.csproj.CoreCompileInputs.cache
+C:\Users\gegic\Desktop\baze1\ServiceProvider\obj\Debug\ServiceProvider.csproj.CopyComplete
+C:\Users\gegic\Desktop\baze1\ServiceProvider\obj\Debug\ServiceProvider.exe
+C:\Users\gegic\Desktop\baze1\ServiceProvider\obj\Debug\ServiceProvider.pdb
+C:\Users\gegic\Desktop\baze1\ServiceProvider\obj\Debug\ServiceProvider.Recommendations.resources
