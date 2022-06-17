@@ -67,7 +67,7 @@ namespace ServiceProvider
         {
             string city = textBox1.Text;
             int ageDiff = Int32.Parse(textBox2.Text);
-            int dist = Int32.Parse(textBox3.Text);
+            int dist = Int32.Parse(textBox3.Text) * 10003;
             int limit = Int32.Parse(textBox5.Text);
             List<Tuple<string, string, string>> hotelList;
             if (city == "any") {

@@ -166,7 +166,7 @@ namespace ServiceProvider
                         "point({ longitude: destination.lon, latitude: destination.lat, crs: 'WGS-84'}), " +
                         "point({ longitude: h.lon, latitude: h.lat, crs: 'WGS-84'})) as dist, h as h, city as city " +
                         "WHERE dist < $distance " +
-                        "RETURN h.name, count(*) as cnt, h.stars, city.name ORDER BY cnt LIMIT $limit",
+                        "RETURN h.name, count(*) as cnt, h.stars, city.name ORDER BY cnt DESC LIMIT $limit",
                         new { email, destination, ageDiff, distance, limit }
                         );
 
@@ -199,7 +199,7 @@ namespace ServiceProvider
                        "AND client.gender = curr_client.gender " +
                        "AND client.dateOfBirth > curr_client.dateOfBirth - Duration({ years: $ageDiff}) " +
                        "AND client.dateOfBirth < curr_client.dateOfBirth + Duration({ years: $ageDiff}) " +
-                       "RETURN h.name, h.stars, city.name, count(*) as cnt ORDER BY cnt LIMIT $limit",
+                       "RETURN h.name, h.stars, city.name, count(*) as cnt ORDER BY cnt DESC LIMIT $limit",
                        new { email, ageDiff, limit }
                        );
 
